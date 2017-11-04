@@ -1,0 +1,9592 @@
+1
+00:00:07,920 --> 00:00:09,251
+TONY: <i>A famous man once said,</i>
+
+2
+00:00:09,440 --> 00:00:12,091
+<i>"We create our own demons."</i>
+
+3
+00:00:13,640 --> 00:00:15,642
+<i>Who said that?
+What does that even mean?</i>
+
+4
+00:00:15,800 --> 00:00:17,609
+<i>Doesn't matter.
+I said it because he said it.</i>
+
+5
+00:00:17,760 --> 00:00:19,330
+<i>So, now, he was famous</i>
+
+6
+00:00:19,480 --> 00:00:21,881
+<i>and it's basically getting said
+by two well-known guys.</i>
+
+7
+00:00:22,240 --> 00:00:23,605
+<i>I don't, uh...</i>
+(SIGHS)
+
+8
+00:00:23,800 --> 00:00:25,802
+<i>I'm going to start again.</i>
+
+9
+00:00:27,320 --> 00:00:29,482
+<i>Let's track this from the beginning.</i>
+
+10
+00:00:30,960 --> 00:00:32,485
+('90s POP SONG PLAYING)
+
+11
+00:00:32,720 --> 00:00:35,371
+(SINGING) <i>♪ Yo listen up here's a story</i>
+
+12
+00:00:35,440 --> 00:00:39,809
+<i>♪ About a little guy that
+lives in a blue world</i>
+
+13
+00:00:39,880 --> 00:00:42,645
+<i>♪ And all day and all night
+and everything he sees</i>
+
+14
+00:00:43,720 --> 00:00:48,009
+<i>♪ Is just blue like him
+inside and outside</i>
+
+15
+00:00:48,080 --> 00:00:51,289
+<i>♪ Blue is his house
+with a blue little window</i>
+
+16
+00:00:51,360 --> 00:00:52,850
+<i>♪ And a blue Corvette</i>
+
+17
+00:00:53,000 --> 00:00:56,402
+<i>♪ And everything is blue
+for him and himself</i>
+
+18
+00:00:56,600 --> 00:00:58,329
+<i>♪ And everybody around</i>
+
+19
+00:00:58,400 --> 00:01:00,846
+<i>♪ 'Cause he ain't got nobody... ♪</i>
+
+20
+00:01:01,200 --> 00:01:03,080
+(PEOPLE LAUGHING)
+(INDISTINCT CONVERSATIONS)
+
+21
+00:01:04,000 --> 00:01:05,684
+(HONKS)
+(CHUCKLING)
+
+22
+00:01:06,640 --> 00:01:07,880
+Half hour till the ball drops.
+
+23
+00:01:09,200 --> 00:01:10,201
+- Hey, do you wanna...
+- Tony Stark?
+
+24
+00:01:10,280 --> 00:01:11,520
+- Great speech, man!
+HAPPY: - I got you, pal.
+
+25
+00:01:11,640 --> 00:01:13,290
+I gave a speech? How was it?
+
+26
+00:01:13,360 --> 00:01:14,646
+- Edifying.
+- Unintelligible.
+
+27
+00:01:14,760 --> 00:01:15,761
+- Really?
+- Mmm-hmm.
+
+28
+00:01:15,840 --> 00:01:16,841
+It's my favourite kind.
+A winning combo.
+
+29
+00:01:17,000 --> 00:01:18,809
+- Where are we going?
+- Uh, to town, on each other.
+
+30
+00:01:18,880 --> 00:01:19,927
+Probably back in your room
+
+31
+00:01:20,000 --> 00:01:21,126
+because I also want to
+see your research.
+
+32
+00:01:21,200 --> 00:01:22,201
+Okay, you can see my research,
+
+33
+00:01:22,280 --> 00:01:24,248
+but that's...
+I'm not gonna show you my "town."
+
+34
+00:01:24,320 --> 00:01:25,560
+Mr Stark.
+
+35
+00:01:25,640 --> 00:01:26,607
+Ho Yinsen.
+
+36
+00:01:26,680 --> 00:01:27,681
+Ah, I finally met a man called "Ho."
+
+37
+00:01:27,800 --> 00:01:28,767
+(CHUCKLES HUMOURLESSLY)
+- Come here.
+
+38
+00:01:28,840 --> 00:01:32,083
+I would like to
+introduce you to our guest, Dr Wu.
+
+39
+00:01:32,360 --> 00:01:33,646
+- Oh, this guy. Hey.
+- Mr Stark.
+
+40
+00:01:33,800 --> 00:01:35,641
+(GREETS IN MANDARIN)
+- You're a heart doctor.
+
+41
+00:01:35,680 --> 00:01:38,047
+She's going to need
+a cardiologist after I...
+
+42
+00:01:38,200 --> 00:01:40,009
+(HONKING)
+
+43
+00:01:40,960 --> 00:01:42,769
+- Bye.
+- Perhaps another time?
+
+44
+00:01:43,360 --> 00:01:46,489
+TONY: <i>It started in
+Bern, Switzerland. 1999.</i>
+
+45
+00:01:46,560 --> 00:01:47,721
+(PEOPLE YELLING INDISTINCTLY)
+
+46
+00:01:48,560 --> 00:01:50,369
+<i>- The old days.</i>
+KILLIAN: - Mr Stark!
+
+47
+00:01:50,640 --> 00:01:52,847
+TONY: <i>I never thought they
+would come back to bite me.</i>
+
+48
+00:01:52,920 --> 00:01:53,921
+<i>Why would they?</i>
+
+49
+00:01:54,000 --> 00:01:55,684
+Oh, wow! Hey, Tony!
+
+50
+00:01:56,520 --> 00:01:59,364
+Aldrich Killian. (STUTTERING)
+I'm a big fan of your work.
+
+51
+00:01:59,640 --> 00:02:00,641
+- My work?
+- Who isn't? He means me.
+
+52
+00:02:01,000 --> 00:02:03,241
+Well, of course, but, Ms Hansen,
+
+53
+00:02:03,400 --> 00:02:06,768
+my organisation's been tracking
+your research since year two of MIT.
+
+54
+00:02:06,920 --> 00:02:07,921
+TONY: Yeah, we're full.
+
+55
+00:02:08,760 --> 00:02:10,410
+Oh, wow, he made it.
+He made the cut.
+
+56
+00:02:10,560 --> 00:02:11,641
+What floor you going to, pal?
+
+57
+00:02:11,720 --> 00:02:13,210
+Well, now, that is
+an appropriate question.
+
+58
+00:02:13,400 --> 00:02:14,481
+The ground floor, actually,
+
+59
+00:02:14,560 --> 00:02:16,483
+of a proposal
+I'm putting together myself.
+
+60
+00:02:16,680 --> 00:02:20,401
+It's a privately funded think tank
+called Advanced Idea Mechanics.
+
+61
+00:02:20,640 --> 00:02:22,051
+- Uh...
+- She'll take both.
+
+62
+00:02:22,160 --> 00:02:24,401
+One to throw away and one to not call.
+
+63
+00:02:24,560 --> 00:02:28,167
+"Advanced Idea Mechanics"
+or "AIM," for short. Do you get it?
+
+64
+00:02:28,240 --> 00:02:30,720
+- I see that, because it's on your T-shirt.
+- Aw!
+
+65
+00:02:31,200 --> 00:02:33,407
+Ladies, follow the mullet. Ladies first.
+
+66
+00:02:33,560 --> 00:02:35,164
+Thank you, I'll call you.
+
+67
+00:02:35,240 --> 00:02:37,766
+(WOMEN TALKING EXCITEDLY)
+
+68
+00:02:37,920 --> 00:02:40,127
+I'm titillated by the notion
+of working with you.
+
+69
+00:02:40,280 --> 00:02:41,441
+- Yeah?
+- I'll ditch these clowns.
+
+70
+00:02:41,560 --> 00:02:43,280
+I'll see you up
+on the roof in five minutes.
+
+71
+00:02:43,320 --> 00:02:44,890
+Just gonna try
+and get my beak wet real quick.
+
+72
+00:02:44,960 --> 00:02:46,041
+You know what I'm talking about?
+
+73
+00:02:46,120 --> 00:02:47,121
+I'll see you up there.
+
+74
+00:02:47,280 --> 00:02:48,611
+TONY: Damn betcha.
+
+75
+00:02:48,880 --> 00:02:51,326
+Come on!
+I thought that was just a theory.
+
+76
+00:02:51,520 --> 00:02:52,726
+Well, it was.
+
+77
+00:02:52,800 --> 00:02:54,529
+If I'm right, we can access the area
+of the brain
+
+78
+00:02:54,600 --> 00:02:55,601
+- that governs repair...
+TONY: - Wow.
+
+79
+00:02:55,680 --> 00:02:57,041
+MAYA: ...and chemically recode it.
+
+80
+00:02:57,080 --> 00:02:59,526
+That's incredible. Essentially,
+you're hacking into the genetic...
+
+81
+00:02:59,600 --> 00:03:00,721
+BOTH: ...operating system...
+
+82
+00:03:00,760 --> 00:03:02,200
+- ...of a living organism.
+- Exactly.
+
+83
+00:03:02,480 --> 00:03:03,561
+- Yes.
+- Wow.
+
+84
+00:03:03,640 --> 00:03:04,641
+Is that...
+Can you...
+
+85
+00:03:04,720 --> 00:03:06,245
+- What?
+- Can you not touch my plant?
+
+86
+00:03:06,400 --> 00:03:08,050
+It's not...
+She doesn't like it. She prefers...
+
+87
+00:03:08,240 --> 00:03:10,129
+She's not like the others.
+Come on. Let's go in the bedroom.
+
+88
+00:03:10,480 --> 00:03:12,244
+- Happy...
+- Hmm. That's cute...
+
+89
+00:03:12,320 --> 00:03:13,765
+Leave her ficus alone.
+
+90
+00:03:13,880 --> 00:03:14,927
+Because...
+And, no, seriously, don't.
+
+91
+00:03:15,000 --> 00:03:16,001
+TONY: And you're starting with plants.
+
+92
+00:03:16,120 --> 00:03:17,121
+MAYA: For now, yeah.
+TONY: Huh.
+
+93
+00:03:17,280 --> 00:03:19,442
+I'm calling it EXTREMIS.
+
+94
+00:03:20,920 --> 00:03:22,160
+- Well, it's...
+BOTH: - Human application.
+
+95
+00:03:22,240 --> 00:03:23,446
+Exactly, exactly.
+
+96
+00:03:23,720 --> 00:03:25,640
+- Dendritic revitalisation.
+- It's revolutionary.
+
+97
+00:03:25,760 --> 00:03:27,046
+- Disease prevention...
+- Change the world.
+
+98
+00:03:27,120 --> 00:03:28,610
+...even limb regrowth.
+
+99
+00:03:30,040 --> 00:03:31,485
+You're the most gifted woman
+I've ever met.
+
+100
+00:03:31,640 --> 00:03:32,801
+Wow.
+
+101
+00:03:32,880 --> 00:03:35,486
+- In Switzerland.
+- Hmm. That's better.
+
+102
+00:03:35,560 --> 00:03:37,562
+- Aw, you're seeing things.
+- This week.
+
+103
+00:03:37,800 --> 00:03:39,689
+(CHUCKLES) You almost
+bought it, didn't you?
+
+104
+00:03:49,440 --> 00:03:50,600
+(EXPLOSION)
+(GLASS SHATTERING)
+
+105
+00:03:50,640 --> 00:03:52,324
+This is what I'm talking about,
+the glitch.
+
+106
+00:03:52,400 --> 00:03:53,686
+Have you checked
+the telomerase algorithm?
+
+107
+00:03:53,840 --> 00:03:54,887
+- The what?
+HAPPY: - Down!
+
+108
+00:03:55,400 --> 00:03:57,323
+Stay down! Stay down, boss.
+
+109
+00:03:57,480 --> 00:03:58,970
+- We're good.
+- Stay down.
+
+110
+00:03:59,120 --> 00:04:01,168
+You... You're...
+You're right on me. I made it.
+
+111
+00:04:02,240 --> 00:04:03,401
+What the hell was that?
+
+112
+00:04:03,480 --> 00:04:04,686
+(PEOPLE OUTSIDE
+COUNTING DOWN)
+
+113
+00:04:05,080 --> 00:04:06,809
+- What was that?
+MAYA: - It's a glitch in my work. It's...
+
+114
+00:04:07,120 --> 00:04:08,451
+She was just talking about it.
+Glitches happen.
+
+115
+00:04:08,640 --> 00:04:09,687
+HAPPY: It's not Y2K.
+
+116
+00:04:09,840 --> 00:04:11,524
+(PEOPLE OUTSIDE CHEERING)
+- Hey! Happy New Year!
+
+117
+00:04:11,680 --> 00:04:12,841
+HAPPY: - Happy New Year.
+MAYA: - Happy New Year.
+
+118
+00:04:13,000 --> 00:04:14,286
+All right.
+I'll see you in the morning. Good night.
+
+119
+00:04:14,360 --> 00:04:15,441
+HAPPY: - You good?
+- Yeah.
+
+120
+00:04:15,520 --> 00:04:16,487
+HAPPY: - I'll be right outside.
+- Okay, cool.
+
+121
+00:04:16,560 --> 00:04:17,561
+(CHEERING CONTINUES)
+
+122
+00:04:37,040 --> 00:04:38,929
+TONY: <i>So, why am I telling you this?</i>
+
+123
+00:04:39,600 --> 00:04:42,809
+<i>Because I had just created demons</i>
+
+124
+00:04:43,600 --> 00:04:45,364
+<i>and I didn't even know it.</i>
+
+125
+00:04:47,920 --> 00:04:49,763
+<i>- Yeah, those were good times.</i>
+(DOOR CLOSES)
+
+126
+00:04:50,720 --> 00:04:52,449
+<i>Then I moved on.</i>
+
+127
+00:04:52,920 --> 00:04:56,970
+<i>After a brief soirée in an Afghan cave,
+I said goodbye to the party scene.</i>
+
+128
+00:04:57,040 --> 00:04:59,008
+<i>I forgot that night in Switzerland.</i>
+
+129
+00:04:59,080 --> 00:05:00,764
+<i>These days, I'm a changed man.</i>
+
+130
+00:05:00,880 --> 00:05:01,927
+JARVIS: <i>Forty-six.</i>
+
+131
+00:05:02,000 --> 00:05:03,764
+TONY: <i>- I'm different now.</i>
+(TONY GROANS)
+
+132
+00:05:03,840 --> 00:05:05,001
+<i>I'm... Well...</i>
+
+133
+00:05:05,080 --> 00:05:06,525
+JARVIS: <i>Forty-seven.</i>
+TONY: <i>You know who I am.</i>
+
+134
+00:05:06,600 --> 00:05:07,601
+Ow!
+
+135
+00:05:07,840 --> 00:05:10,605
+JARVIS: <i>Sir, please may I request
+just a few hours to calibrate...</i>
+
+136
+00:05:10,760 --> 00:05:12,125
+No. Forty-eight.
+
+137
+00:05:12,400 --> 00:05:13,526
+(EXCLAIMS IN PAIN)
+
+138
+00:05:15,400 --> 00:05:17,164
+Micro-repeater
+implanting sequence complete.
+
+139
+00:05:17,240 --> 00:05:18,241
+<i>As you wish, sir.</i>
+
+140
+00:05:18,520 --> 00:05:21,410
+<i>I've also prepared a safety briefing
+for you to entirely ignore.</i>
+
+141
+00:05:21,520 --> 00:05:23,090
+Which I will.
+
+142
+00:05:23,480 --> 00:05:24,801
+All right, let's do this.
+(SNIFFS)
+
+143
+00:05:25,120 --> 00:05:26,724
+DUM-E.
+
+144
+00:05:26,800 --> 00:05:27,801
+Hi, DUM-E.
+
+145
+00:05:27,920 --> 00:05:30,241
+How did you get that cap on your head?
+You earned it.
+
+146
+00:05:30,480 --> 00:05:32,209
+Hey. Hey!
+
+147
+00:05:33,720 --> 00:05:35,722
+What are you doing out of the corner?
+You know what you did.
+
+148
+00:05:35,880 --> 00:05:38,087
+Blood on my mat. Handle it.
+
+149
+00:05:38,400 --> 00:05:41,085
+<i>Sir, may I remind you that you've been
+awake for nearly 72 hours?</i>
+
+150
+00:05:41,160 --> 00:05:42,161
+(WHOOSHING)
+
+151
+00:05:43,000 --> 00:05:44,001
+Focus up, ladies.
+
+152
+00:05:44,160 --> 00:05:46,925
+Good evening,
+and welcome to the birthing suite.
+
+153
+00:05:47,120 --> 00:05:49,407
+<i>I am pleased to announce
+the imminent arrival</i>
+
+154
+00:05:49,600 --> 00:05:52,444
+<i>of your bouncing,
+bad-ass baby brother.</i>
+
+155
+00:05:53,240 --> 00:05:54,480
+Start tight and then go wide.
+
+156
+00:05:54,640 --> 00:05:56,051
+<i>Stamp date and time.</i>
+
+157
+00:05:56,200 --> 00:05:59,204
+<i>Mark 42. Autonomous
+prehensile propulsion suit test.</i>
+
+158
+00:05:59,520 --> 00:06:01,124
+Initialise sequence.
+
+159
+00:06:01,840 --> 00:06:02,966
+(POWERING UP)
+
+160
+00:06:03,840 --> 00:06:05,490
+Jarvis, drop my needle.
+
+161
+00:06:06,960 --> 00:06:08,724
+(FUNKY CHRISTMAS
+MUSIC PLAYING)
+
+162
+00:06:17,400 --> 00:06:19,243
+(SINGING) <i>♪ Dashing through the snow</i>
+
+163
+00:06:19,320 --> 00:06:21,482
+<i>♪ In a one horse open sleigh</i>
+
+164
+00:06:22,360 --> 00:06:24,044
+<i>♪ O'er the fields we go</i>
+
+165
+00:06:24,120 --> 00:06:25,645
+<i>♪ Laughing all the way</i>
+
+166
+00:06:25,760 --> 00:06:26,761
+(GRUNTS)
+
+167
+00:06:27,160 --> 00:06:28,685
+<i>♪ Bells on bob tails ring</i>
+
+168
+00:06:29,680 --> 00:06:30,966
+Crap.
+
+169
+00:06:32,200 --> 00:06:34,407
+<i>♪ Oh, what fun it is to sing</i>
+
+170
+00:06:34,480 --> 00:06:35,925
+<i>♪ A sleighing song tonight</i>
+
+171
+00:06:36,040 --> 00:06:37,041
+(WHIRRING)
+
+172
+00:06:37,640 --> 00:06:39,324
+<i>♪ Jingle bells, jingle bells</i>
+
+173
+00:06:39,480 --> 00:06:40,561
+(MECHANICAL WHIRRING)
+
+174
+00:06:40,640 --> 00:06:41,801
+<i>♪ Jingle all the way</i>
+
+175
+00:06:41,920 --> 00:06:43,365
+<i>♪ Oh, what fun it is to ride</i>
+
+176
+00:06:43,440 --> 00:06:45,124
+(WHIRRING)
+
+177
+00:06:45,200 --> 00:06:47,282
+<i>♪ In a one horse open sleigh ♪</i>
+
+178
+00:06:47,360 --> 00:06:48,725
+(LAUGHS)
+
+179
+00:06:49,240 --> 00:06:50,810
+All right, I think we got this.
+Send them all.
+
+180
+00:06:50,880 --> 00:06:52,245
+(MUSIC CONTINUES)
+
+181
+00:06:57,120 --> 00:06:59,043
+(GRUNTS)
+(CLANGING)
+
+182
+00:06:59,520 --> 00:07:00,681
+Probably a little fast.
+Slow it down.
+
+183
+00:07:00,760 --> 00:07:02,121
+- Slow it down just a...
+(CRASHING)
+
+184
+00:07:02,160 --> 00:07:03,161
+...little bit.
+
+185
+00:07:06,800 --> 00:07:07,801
+(GROANS)
+
+186
+00:07:08,400 --> 00:07:09,401
+(GRUNTS)
+
+187
+00:07:11,080 --> 00:07:12,560
+(STRAINED) Cool it, will you, Jarvis?
+
+188
+00:07:13,400 --> 00:07:14,401
+(GRUNTS)
+
+189
+00:07:16,760 --> 00:07:18,683
+(MECHANICAL WHIRRING)
+
+190
+00:07:19,640 --> 00:07:21,130
+(RECORD SCRATCHES)
+(MUSIC STOPS)
+
+191
+00:07:23,360 --> 00:07:25,601
+Come on. I ain't scared of you.
+
+192
+00:07:33,240 --> 00:07:34,241
+I'm the best.
+
+193
+00:07:35,960 --> 00:07:37,485
+(GRUNTS)
+
+194
+00:07:38,400 --> 00:07:40,209
+(GROANING)
+
+195
+00:07:40,880 --> 00:07:43,850
+<i>As always, sir, a great pleasure
+watching you work.</i>
+
+196
+00:07:44,520 --> 00:07:47,808
+TONY: <i>I guess 72 hours is a long time
+between siestas.</i>
+
+197
+00:07:48,520 --> 00:07:50,887
+<i>I didn't think it could get any worse.</i>
+
+198
+00:07:51,000 --> 00:07:52,570
+(GROANING SOFTLY)
+
+199
+00:07:52,880 --> 00:07:55,281
+<i>Then I had to go and turn on the TV.</i>
+
+200
+00:07:58,640 --> 00:08:00,608
+<i>That's when he happened.</i>
+
+201
+00:08:09,160 --> 00:08:11,527
+THE MANDARIN: <i>Some people
+call me a terrorist.</i>
+
+202
+00:08:12,480 --> 00:08:13,520
+(MAN YELLING INDISTINCTLY)
+
+203
+00:08:13,560 --> 00:08:14,561
+(GUNS FIRING)
+
+204
+00:08:14,800 --> 00:08:16,211
+<i>I consider myself a teacher.</i>
+
+205
+00:08:16,280 --> 00:08:17,520
+(CHEERING)
+
+206
+00:08:19,360 --> 00:08:20,771
+<i>America.</i>
+
+207
+00:08:22,560 --> 00:08:25,040
+<i>Ready for another lesson?</i>
+
+208
+00:08:25,760 --> 00:08:30,368
+<i>In 1864, in Sand Creek, Colorado,
+the US military waited</i>
+
+209
+00:08:30,640 --> 00:08:33,689
+<i>until the friendly Cheyenne braves
+had all gone hunting.</i>
+
+210
+00:08:33,840 --> 00:08:38,050
+<i>Waited to attack and slaughter
+the families left behind</i>
+
+211
+00:08:38,440 --> 00:08:41,444
+<i>and claim their land.</i>
+
+212
+00:08:41,800 --> 00:08:43,404
+<i>39 hours ago,</i>
+
+213
+00:08:44,040 --> 00:08:48,364
+<i>the Ali AI Salem Air Base in Kuwait
+was attacked.</i>
+
+214
+00:08:48,600 --> 00:08:50,682
+<i>I... I... I did that.</i>
+
+215
+00:08:50,920 --> 00:08:52,126
+<i>A quaint military church</i>
+
+216
+00:08:52,280 --> 00:08:55,682
+<i>filled with wives and children,
+of course.</i>
+
+217
+00:08:57,440 --> 00:09:00,728
+<i>The soldiers were out on manoeuvres.</i>
+
+218
+00:09:01,640 --> 00:09:04,041
+<i>The braves were</i> away.
+
+219
+00:09:05,080 --> 00:09:06,605
+<i>President Ems.</i>
+
+220
+00:09:06,760 --> 00:09:10,048
+<i>You continue to resist my attempts
+to educate you, sir.</i>
+
+221
+00:09:10,160 --> 00:09:12,845
+<i>And now you've missed me again.</i>
+
+222
+00:09:12,920 --> 00:09:13,967
+(MEN YELLING)
+
+223
+00:09:14,040 --> 00:09:15,371
+(GUNS FIRING)
+
+224
+00:09:15,880 --> 00:09:17,803
+<i>You know who I am.</i>
+
+225
+00:09:18,160 --> 00:09:19,969
+<i>You don't know where I am.</i>
+
+226
+00:09:21,400 --> 00:09:24,006
+<i>And you'll never see me coming.</i>
+
+227
+00:09:27,360 --> 00:09:28,600
+PAT KIERNAN: <i>Now that
+we seem to be back,</i>
+
+228
+00:09:28,680 --> 00:09:30,205
+<i>let's recap some
+of the frightening developments...</i>
+
+229
+00:09:30,440 --> 00:09:32,169
+<i>American airwaves were hijacked...</i>
+
+230
+00:09:32,440 --> 00:09:33,851
+<i>The nation remains on high alert.</i>
+
+231
+00:09:34,000 --> 00:09:36,600
+<i>All attempts to find the Mandarin
+have so far proved unsuccessful.</i>
+
+232
+00:09:36,880 --> 00:09:40,009
+ELLIS: <i>Central to my administration's
+response to this terrorist event</i>
+
+233
+00:09:40,280 --> 00:09:42,203
+<i>is a newly minted resource.</i>
+
+234
+00:09:42,440 --> 00:09:45,569
+<i>I know him
+as Colonel James Rhodes.</i>
+
+235
+00:09:45,840 --> 00:09:47,763
+<i>The American people
+will soon know him</i>
+
+236
+00:09:47,960 --> 00:09:49,530
+<i>as the tron Patriot.</i>
+
+237
+00:09:50,200 --> 00:09:52,487
+<i>And how is President Ems responding?</i>
+
+238
+00:09:52,560 --> 00:09:54,722
+<i>By taking the guy
+they call War Machine</i>
+
+239
+00:09:54,800 --> 00:09:56,450
+<i>and giving him a paint job.</i>
+
+240
+00:09:56,600 --> 00:10:00,207
+<i>The same suit,
+but painted red, white and blue.</i>
+
+241
+00:10:00,280 --> 00:10:04,171
+<i>Look at that. And they also
+renamed him, "Iron Patriot."</i>
+
+242
+00:10:04,240 --> 00:10:07,164
+<i>You know,
+just in case the paint was too subtle.</i>
+
+243
+00:10:07,480 --> 00:10:09,323
+It tested well with focus groups,
+all right?
+
+244
+00:10:09,480 --> 00:10:11,130
+(GRUFFLY)
+"I am Iron Patriot!" It sucks.
+
+245
+00:10:11,280 --> 00:10:12,611
+Listen. "War Machine"
+was a little too aggressive.
+
+246
+00:10:12,680 --> 00:10:14,125
+All right?
+This sends a better message.
+
+247
+00:10:14,200 --> 00:10:15,565
+(SIGHS)
+
+248
+00:10:16,440 --> 00:10:19,523
+So, what's really going on?
+With the Mandarin.
+
+249
+00:10:20,840 --> 00:10:23,047
+Seriously, can we talk about this guy?
+
+250
+00:10:26,000 --> 00:10:28,685
+It's classified information, Tony.
+
+251
+00:10:29,200 --> 00:10:31,248
+Okay, there have been nine bombings.
+
+252
+00:10:31,520 --> 00:10:33,568
+- Nine.
+- The public only knows about three.
+
+253
+00:10:33,640 --> 00:10:36,723
+But here's the thing,
+nobody can ID a device.
+
+254
+00:10:36,880 --> 00:10:37,927
+There's no bomb casings.
+
+255
+00:10:38,280 --> 00:10:40,328
+You know I can help.
+Just ask.
+
+256
+00:10:40,480 --> 00:10:42,130
+I got a ton of new tech.
+I got a prehensile suit.
+
+257
+00:10:42,400 --> 00:10:43,890
+(STAMMERING)
+I got bomb disposal.
+
+258
+00:10:43,960 --> 00:10:45,564
+It catches explosions in mid-air.
+
+259
+00:10:45,720 --> 00:10:47,165
+When's the last time
+you got a good night's sleep?
+
+260
+00:10:47,320 --> 00:10:49,891
+Einstein slept three hours a year.
+Look what he did.
+
+261
+00:10:50,120 --> 00:10:52,560
+People are concerned about you, Tony.
+I'm concerned about you.
+
+262
+00:10:52,720 --> 00:10:53,721
+You're going to come at me like that?
+
+263
+00:10:53,960 --> 00:10:55,561
+No, look, I'm not trying to be a dick...
+
+264
+00:10:56,160 --> 00:10:57,161
+...tator.
+
+265
+00:10:57,400 --> 00:10:58,765
+Do you mind signing my drawing?
+
+266
+00:10:59,040 --> 00:11:00,007
+- If Richard doesn't mind.
+(CHUCKLES)
+
+267
+00:11:00,080 --> 00:11:01,206
+Are you all right with this, Dick?
+
+268
+00:11:01,280 --> 00:11:02,884
+RHODEY: Yeah. Fine with me.
+
+269
+00:11:04,400 --> 00:11:06,323
+TONY: - What's your name?
+- Erin.
+
+270
+00:11:07,600 --> 00:11:10,444
+I loved you in <i>A Christmas Story,</i>
+by the way.
+
+271
+00:11:10,920 --> 00:11:13,082
+Listen, the Pentagon is scared.
+
+272
+00:11:13,240 --> 00:11:16,005
+After New York, aliens... Come on.
+
+273
+00:11:16,160 --> 00:11:17,764
+They need to look strong.
+
+274
+00:11:18,000 --> 00:11:21,004
+Stopping the Mandarin is a priority,
+but it's not...
+
+275
+00:11:21,200 --> 00:11:22,884
+- it's not superhero business.
+- No, it's not, quite frankly.
+
+276
+00:11:22,960 --> 00:11:24,530
+- I get it.
+- It's American business.
+
+277
+00:11:24,600 --> 00:11:26,443
+That's why I said I got it.
+
+278
+00:11:27,200 --> 00:11:28,611
+(EXHALES SHARPLY)
+- Are you okay?
+
+279
+00:11:29,280 --> 00:11:30,281
+I broke the crayon.
+
+280
+00:11:30,360 --> 00:11:32,124
+ERIN: Are you okay, Mr Stark?
+
+281
+00:11:32,280 --> 00:11:34,280
+(MUFFLED) Take it easy. Tony.
+(INHALES SHARPLY)
+
+282
+00:11:35,160 --> 00:11:37,208
+(WHISPERING) How did you
+get out of the wormhole?
+
+283
+00:11:37,920 --> 00:11:38,967
+(GASPS)
+- Wait a minute. Tony!
+
+284
+00:11:39,040 --> 00:11:40,480
+TONY: What did you say?
+RHODEY: Tony.
+
+285
+00:11:40,960 --> 00:11:42,769
+(GRUNTS) Sorry.
+
+286
+00:11:42,920 --> 00:11:44,285
+(BREATHLESSLY) I'm just
+checking on the suit.
+
+287
+00:11:44,360 --> 00:11:45,361
+(MECHANICAL WHIRRING)
+
+288
+00:11:45,440 --> 00:11:46,441
+Okay.
+
+289
+00:11:46,640 --> 00:11:48,210
+(PANTING)
+
+290
+00:11:48,560 --> 00:11:49,561
+(GASPING)
+
+291
+00:11:49,920 --> 00:11:51,126
+Check the heart.
+(STAMMERING)
+
+292
+00:11:51,280 --> 00:11:52,645
+Is it the brain?
+
+293
+00:11:52,800 --> 00:11:55,644
+JARVIS: <i>No sign of cardiac anomaly
+or unusual brain activity.</i>
+
+294
+00:11:55,800 --> 00:11:57,564
+Okay, so I was poisoned?
+
+295
+00:11:58,320 --> 00:12:02,962
+<i>My diagnosis is that you've
+experienced a severe anxiety attack.</i>
+
+296
+00:12:05,480 --> 00:12:06,606
+- Me?
+(METALLIC CLINKING)
+
+297
+00:12:07,160 --> 00:12:08,764
+Come on, man, this isn't a good look.
+Open up.
+
+298
+00:12:08,960 --> 00:12:10,928
+TONY: Sorry, I gotta split.
+(GRUNTS)
+
+299
+00:12:11,040 --> 00:12:12,041
+(CROWD GASPS IN AWE)
+
+300
+00:12:13,240 --> 00:12:14,287
+HAPPY: Badge.
+
+301
+00:12:14,680 --> 00:12:16,682
+- Badge.
+(INDISTINCT CONVERSATIONS)
+
+302
+00:12:16,840 --> 00:12:18,205
+Come on, badge.
+
+303
+00:12:19,480 --> 00:12:22,131
+Badge, guys.
+I put a memo in the toilet. Come on.
+
+304
+00:12:22,280 --> 00:12:24,487
+Tony has got them in his basement.
+They're wearing party hats.
+
+305
+00:12:24,680 --> 00:12:26,720
+- This is an asset that we can put to use.
+- Uh-huh.
+
+306
+00:12:26,840 --> 00:12:30,811
+So, you're suggesting that I replace
+the entire janitorial staff with robots.
+
+307
+00:12:30,960 --> 00:12:32,485
+- Thank you.
+- What I'm saying is that
+
+308
+00:12:32,640 --> 00:12:35,644
+the human element of human resources
+is our biggest point of vulnerability.
+
+309
+00:12:35,800 --> 00:12:38,041
+We should start
+phasing it out immediately.
+
+310
+00:12:38,200 --> 00:12:39,611
+- What?
+- Excuse me, Bambi,
+
+311
+00:12:39,680 --> 00:12:40,966
+- you should be wearing...
+- Did you just say that?
+
+312
+00:12:41,160 --> 00:12:42,650
+- Security? Yes?
+- Happy? Okay.
+
+313
+00:12:42,800 --> 00:12:45,451
+I am thrilled that you are now
+the Head of Security. Okay?
+
+314
+00:12:45,600 --> 00:12:47,250
+- It is the perfect position for you.
+- Thank you.
+
+315
+00:12:47,320 --> 00:12:48,845
+- However...
+- I do appreciate it.
+
+316
+00:12:48,920 --> 00:12:50,843
+- ...since you've taken the post...
+- You don't have to thank me.
+
+317
+00:12:51,040 --> 00:12:54,442
+...we've had a rise in staff complaints
+of 300%.
+
+318
+00:12:54,520 --> 00:12:55,601
+Thank you.
+
+319
+00:12:56,120 --> 00:12:57,246
+It's not a compliment.
+
+320
+00:12:57,320 --> 00:12:58,560
+It's not...
+It is a compliment.
+
+321
+00:12:58,720 --> 00:13:00,210
+Clearly, somebody's
+trying to hide something.
+
+322
+00:13:00,400 --> 00:13:01,481
+- I... Yes.
+SECRETARY: - Excuse me.
+
+323
+00:13:01,560 --> 00:13:03,528
+Ms Potts, your 4:00 is here.
+
+324
+00:13:03,720 --> 00:13:05,051
+- Thank you.
+Did you clear this 4:00 with me?
+
+325
+00:13:05,200 --> 00:13:06,929
+Happy, we'll talk about this later,
+
+326
+00:13:07,040 --> 00:13:09,361
+but right now, I have to go deal with
+this very annoying thing.
+
+327
+00:13:09,520 --> 00:13:10,851
+How so?
+
+328
+00:13:11,000 --> 00:13:13,480
+I used to work with him
+and he used to ask me out all the time,
+
+329
+00:13:13,520 --> 00:13:14,567
+so it's a little awkward.
+
+330
+00:13:14,720 --> 00:13:16,484
+I don't like the sound of that.
+
+331
+00:13:21,480 --> 00:13:22,481
+Pepper.
+
+332
+00:13:23,440 --> 00:13:24,441
+Killian?
+
+333
+00:13:24,600 --> 00:13:26,284
+You look great.
+
+334
+00:13:26,600 --> 00:13:27,965
+You look really great.
+
+335
+00:13:28,040 --> 00:13:30,327
+PEPPER: (STAMMERING)
+God, you look great.
+
+336
+00:13:30,400 --> 00:13:31,606
+I... I... I...
+
+337
+00:13:32,200 --> 00:13:33,561
+What on earth have you been doing?
+
+338
+00:13:33,880 --> 00:13:34,881
+Nothing fancy.
+
+339
+00:13:35,240 --> 00:13:37,288
+Just five years in the hands
+of physical therapists.
+
+340
+00:13:37,520 --> 00:13:39,329
+And please, call me Aldrich.
+
+341
+00:13:39,480 --> 00:13:41,562
+Uh, you were supposed to be
+issued a security badge.
+
+342
+00:13:41,880 --> 00:13:44,121
+- Happy, it's okay. We're good.
+- Yes.
+
+343
+00:13:44,280 --> 00:13:46,760
+- Are you sure? Okay.
+- Yes. Stand down.
+
+344
+00:13:46,920 --> 00:13:48,960
+- I'm going to linger right here. Okay.
+- Thank you.
+
+345
+00:13:49,080 --> 00:13:51,845
+It's very nice to see you, Killian.
+
+346
+00:13:52,560 --> 00:13:53,641
+(PHONES RINGING)
+
+347
+00:13:53,760 --> 00:13:55,285
+(INDISTINCT CONVERSATIONS)
+
+348
+00:13:58,040 --> 00:13:59,565
+Hey, guy.
+
+349
+00:14:07,240 --> 00:14:08,241
+Merry Christmas.
+
+350
+00:14:08,560 --> 00:14:11,131
+KILLIAN: After years dodging
+the President's ban
+
+351
+00:14:11,240 --> 00:14:13,561
+on "immoral" biotech research,
+
+352
+00:14:13,640 --> 00:14:14,971
+my think tank
+
+353
+00:14:16,600 --> 00:14:19,126
+now has a little something
+in the pipeline.
+
+354
+00:14:20,000 --> 00:14:24,085
+It's an idea we like to call EXTREMIS.
+
+355
+00:14:25,200 --> 00:14:26,480
+I'm gonna turn your lights down.
+
+356
+00:14:29,280 --> 00:14:31,123
+Regard the human brain.
+
+357
+00:14:33,040 --> 00:14:34,451
+(HUMMING)
+
+358
+00:14:37,480 --> 00:14:38,640
+Uh... Wait, hold on, hold on.
+
+359
+00:14:38,680 --> 00:14:40,569
+That's...
+That's the universe. My bad.
+
+360
+00:14:40,720 --> 00:14:42,529
+But if I do that...
+
+361
+00:14:47,520 --> 00:14:49,124
+That's the brain.
+
+362
+00:14:49,720 --> 00:14:51,643
+Strangely mimetic, though,
+wouldn't you say?
+
+363
+00:14:51,720 --> 00:14:53,051
+Wow, that's amazing.
+
+364
+00:14:53,160 --> 00:14:54,810
+Thanks, it's mine.
+
+365
+00:14:54,880 --> 00:14:56,166
+What?
+
+366
+00:14:56,800 --> 00:14:58,131
+This. You're inside my head.
+
+367
+00:14:58,400 --> 00:15:00,289
+It's a...
+It's a live feed.
+
+368
+00:15:00,560 --> 00:15:02,210
+Come on up, I'll prove it to you.
+
+369
+00:15:03,840 --> 00:15:05,001
+Come on.
+
+370
+00:15:08,000 --> 00:15:09,001
+Now, pinch my arm.
+
+371
+00:15:10,160 --> 00:15:12,162
+- I can take it. Pinch me.
+(CHUCKLES)
+
+372
+00:15:13,360 --> 00:15:14,600
+(GASPS) What is that?
+
+373
+00:15:14,880 --> 00:15:18,009
+It's the primary somatosensory cortex.
+It's the brain's pain centre.
+
+374
+00:15:18,680 --> 00:15:21,604
+But this is what I wanted to show you.
+
+375
+00:15:22,160 --> 00:15:23,161
+(BEEPS)
+
+376
+00:15:24,200 --> 00:15:28,364
+Now, EXTREMIS harnesses
+our bioelectrical potential
+
+377
+00:15:28,520 --> 00:15:31,364
+and it goes here.
+
+378
+00:15:31,520 --> 00:15:34,649
+This is essentially an empty slot
+and what this tells us
+
+379
+00:15:34,880 --> 00:15:36,530
+is that our mind,
+
+380
+00:15:36,600 --> 00:15:38,125
+our entire DNA, in fact,
+
+381
+00:15:38,280 --> 00:15:40,123
+is destined to be upgraded.
+
+382
+00:15:40,280 --> 00:15:41,361
+Wow.
+
+383
+00:15:41,480 --> 00:15:42,686
+(QUIET RINGING)
+
+384
+00:15:42,920 --> 00:15:44,160
+(WHISPERS) Oh, wait...
+
+385
+00:15:44,360 --> 00:15:46,044
+(RINGING CONTINUES)
+- Uh...
+
+386
+00:15:49,440 --> 00:15:51,408
+(CHIMES)
+- Hello?
+
+387
+00:15:51,720 --> 00:15:53,521
+TONY: - Is this Forehead of Security?
+- What?
+
+388
+00:15:53,760 --> 00:15:55,205
+You know, look...
+I got a real job. What do you want?
+
+389
+00:15:55,360 --> 00:15:56,600
+I'm working.
+I've got something going on, here.
+
+390
+00:15:56,760 --> 00:15:57,807
+What, harassing interns?
+
+391
+00:15:57,880 --> 00:15:59,166
+<i>Let me tell you something.
+Do you know what happened</i>
+
+392
+00:15:59,240 --> 00:16:00,241
+<i>when I told people
+I was Iron Man's bodyguard?</i>
+
+393
+00:16:00,320 --> 00:16:02,288
+<i>- They would laugh in my face.</i>
+(TONY CHUCKLES)
+
+394
+00:16:02,360 --> 00:16:04,761
+<i>I had to leave
+while I still had a shred of dignity.</i>
+
+395
+00:16:04,920 --> 00:16:06,684
+<i>Now I got a real job.
+I'm watching Pepper.</i>
+
+396
+00:16:06,840 --> 00:16:08,569
+What's going on? Fill me in.
+
+397
+00:16:08,720 --> 00:16:09,846
+<i>- For real?</i>
+- Yeah.
+
+398
+00:16:10,000 --> 00:16:11,525
+<i>All right.
+So, she's meeting up with this scientist.</i>
+
+399
+00:16:11,680 --> 00:16:13,250
+<i>- Rich guy. Handsome.</i>
+- Right.
+
+400
+00:16:13,360 --> 00:16:15,727
+<i>I couldn't make his face, at first. Right?
+You know I'm good with faces.</i>
+
+401
+00:16:15,800 --> 00:16:16,801
+- Oh, yeah, you're the best.
+<i>- Yeah.</i>
+
+402
+00:16:16,880 --> 00:16:18,245
+<i>Well, so I run his credentials.
+I make him.</i>
+
+403
+00:16:18,440 --> 00:16:20,841
+<i>Aldrich Killian.
+We actually met the guy back in...</i>
+
+404
+00:16:21,040 --> 00:16:22,201
+<i>Where were we in '99?</i>
+
+405
+00:16:22,280 --> 00:16:23,566
+<i>- The science conference?</i>
+- Um...
+
+406
+00:16:24,400 --> 00:16:26,209
+- Switzerland.
+- Right, right, exactly.
+
+407
+00:16:26,400 --> 00:16:27,765
+Killian. No...
+I don't remember that guy.
+
+408
+00:16:28,000 --> 00:16:29,365
+Of course you don't remember.
+He's not a blond with a big rack.
+
+409
+00:16:29,600 --> 00:16:31,090
+<i>At first, it was fine.
+They were tanking business.</i>
+
+410
+00:16:31,240 --> 00:16:34,323
+But now it's, like, getting weird.
+He's showing her his big brain.
+
+411
+00:16:34,400 --> 00:16:36,164
+- His what?
+<i>- Big brain.</i>
+
+412
+00:16:36,240 --> 00:16:37,801
+<i>And she likes it.
+Here, let me show you.</i>
+
+413
+00:16:38,240 --> 00:16:39,890
+Hold on. See?
+
+414
+00:16:40,440 --> 00:16:41,761
+<i>Look at what? You, watching them?</i>
+
+415
+00:16:41,800 --> 00:16:43,564
+<i>Flip the screen,
+and then we can get started.</i>
+
+416
+00:16:43,760 --> 00:16:46,491
+I'm not a tech genius like you.
+Just trust me. Get down here.
+
+417
+00:16:46,720 --> 00:16:48,290
+Flip the screen.
+Then I can see what they're doing.
+
+418
+00:16:48,480 --> 00:16:49,606
+I can't!
+I don't know how to flip the screen!
+
+419
+00:16:49,920 --> 00:16:52,446
+<i>Don't talk to me like that any more.
+You're not my boss.</i>
+
+420
+00:16:52,880 --> 00:16:54,120
+<i>All right?
+I don't work for you.</i>
+
+421
+00:16:54,920 --> 00:16:56,649
+<i>And I don't trust this guy.
+He's got another guy with him.</i>
+
+422
+00:16:56,720 --> 00:16:57,767
+<i>He's shifty.</i>
+
+423
+00:16:57,840 --> 00:16:58,841
+- Relax.
+<i>- Seriously?</i>
+
+424
+00:16:58,920 --> 00:17:00,445
+I'm just asking you
+to secure the perimeter.
+
+425
+00:17:00,640 --> 00:17:01,846
+Tell them to go out
+for a drink or something.
+
+426
+00:17:02,080 --> 00:17:03,605
+You know what? You should take more
+of an interest in what's going on here.
+
+427
+00:17:03,960 --> 00:17:05,450
+This woman's the best thing
+that ever happened to you
+
+428
+00:17:05,520 --> 00:17:06,965
+and you're just ignoring her.
+
+429
+00:17:07,120 --> 00:17:08,121
+- A giant brain?
+- Yeah.
+
+430
+00:17:08,200 --> 00:17:09,531
+There's a giant brain.
+There's a shifty character.
+
+431
+00:17:09,600 --> 00:17:12,281
+I'm gonna follow this guy. I'm gonna
+run his plates and I'm gonna...
+
+432
+00:17:12,440 --> 00:17:13,880
+You know,
+if it gets rough, so be it.
+
+433
+00:17:14,560 --> 00:17:15,607
+I miss you, Happy.
+
+434
+00:17:15,800 --> 00:17:17,802
+Yeah, I miss you, too.
+But the way it used to be.
+
+435
+00:17:18,120 --> 00:17:19,121
+<i>Now you're off with the super-friends.</i>
+
+436
+00:17:19,200 --> 00:17:20,406
+<i>I don't know
+what's going on with you any more.</i>
+
+437
+00:17:20,480 --> 00:17:21,561
+<i>- The world's getting weird.</i>
+- Hey!
+
+438
+00:17:21,640 --> 00:17:22,641
+(STAMMERING)
+I hate to cut you off.
+
+439
+00:17:22,720 --> 00:17:23,721
+- Do you have your Taser on you?
+<i>- Why?</i>
+
+440
+00:17:23,800 --> 00:17:26,007
+I think there's a gal in H.R.
+who's trying to steal some printer ink.
+
+441
+00:17:26,080 --> 00:17:28,162
+You should probably go over there
+and zap her.
+
+442
+00:17:28,280 --> 00:17:29,566
+<i>Yeah, nice.</i>
+
+443
+00:17:30,040 --> 00:17:34,489
+Imagine if you could hack into
+the hard drive of any living organism
+
+444
+00:17:34,640 --> 00:17:36,608
+and recode its DNA.
+
+445
+00:17:36,880 --> 00:17:38,689
+- That would be incredible.
+- Hmm.
+
+446
+00:17:38,840 --> 00:17:42,481
+Unfortunately, to my ears,
+it also sounds highly weaponisable.
+
+447
+00:17:42,640 --> 00:17:46,247
+As in, enhanced soldiers,
+private armies, and Tony is...
+
+448
+00:17:46,400 --> 00:17:48,004
+Tony, Tony.
+
+449
+00:17:49,040 --> 00:17:53,807
+You know, I invited Tony to join AIM
+13 years ago.
+
+450
+00:17:53,880 --> 00:17:54,927
+He turned me down.
+
+451
+00:17:56,000 --> 00:17:59,447
+But something tells me
+now there's a new genius on the throne
+
+452
+00:17:59,520 --> 00:18:02,808
+who doesn't have to
+answer to Tony any more
+
+453
+00:18:02,880 --> 00:18:04,848
+and who has slightly less of an ego.
+
+454
+00:18:06,360 --> 00:18:08,931
+It's gonna be a no, Aldrich.
+
+455
+00:18:09,560 --> 00:18:12,404
+As much as I'd like to help you.
+
+456
+00:18:13,680 --> 00:18:17,002
+Well, I can't say that
+I'm not disappointed.
+
+457
+00:18:17,360 --> 00:18:18,805
+But then,
+as my father used to say,
+
+458
+00:18:18,880 --> 00:18:21,645
+"Failure is the fog
+through which we glimpse triumph."
+
+459
+00:18:21,840 --> 00:18:23,205
+- That's very deep.
+- Hmm.
+
+460
+00:18:23,280 --> 00:18:24,691
+And I have no idea
+what it means.
+
+461
+00:18:24,880 --> 00:18:27,042
+No, me neither.
+He was kind of an idiot, my old man.
+
+462
+00:18:27,120 --> 00:18:28,645
+(CHUCKLES)
+
+463
+00:18:28,720 --> 00:18:31,690
+I'm sure I'll see you again, Pepper.
+
+464
+00:18:41,440 --> 00:18:42,441
+(INHALES SHARPLY) Happy.
+
+465
+00:18:43,880 --> 00:18:45,644
+Car's ready, if you're ready to go.
+
+466
+00:18:48,000 --> 00:18:49,490
+Yes, I just, um...
+
+467
+00:18:49,560 --> 00:18:52,962
+God, I forgot my other things, so...
+
+468
+00:18:53,800 --> 00:18:55,165
+I'm just gonna...
+
+469
+00:19:01,480 --> 00:19:02,561
+(CAMERA CLICKS)
+
+470
+00:19:20,760 --> 00:19:22,046
+(SIGHS)
+
+471
+00:19:22,760 --> 00:19:23,921
+I'm sorry I'm late. I was...
+
+472
+00:19:24,000 --> 00:19:25,365
+What the...
+What is that?
+
+473
+00:19:26,920 --> 00:19:28,968
+You're wearing this in the house now?
+
+474
+00:19:29,160 --> 00:19:30,650
+What is that, like, Mark 15?
+
+475
+00:19:31,040 --> 00:19:32,451
+TONY: Uh, yeah.
+
+476
+00:19:32,640 --> 00:19:34,529
+Something like that.
+You know, everybody needs a hobby.
+
+477
+00:19:34,600 --> 00:19:36,807
+Oh, and you have to wear your hobby
+in the living room?
+
+478
+00:19:36,880 --> 00:19:38,609
+TONY: Just breaking it in.
+
+479
+00:19:38,680 --> 00:19:40,523
+You know, it's always a little pinchy
+in the gooey bag
+
+480
+00:19:40,640 --> 00:19:41,801
+- at first, so...
+(CHUCKLES)
+
+481
+00:19:41,880 --> 00:19:44,042
+Well, hey, did you see
+your Christmas present?
+
+482
+00:19:44,280 --> 00:19:45,486
+Yes, I did. I...
+
+483
+00:19:45,560 --> 00:19:48,086
+I don't know how I could've
+missed that Christmas present.
+
+484
+00:19:48,160 --> 00:19:50,208
+Is it gonna fit through the door?
+
+485
+00:19:50,440 --> 00:19:51,601
+TONY: Well, actually,
+it's a good question.
+
+486
+00:19:51,880 --> 00:19:54,247
+I got a team of guys coming tomorrow.
+They're gonna blow out that wall.
+
+487
+00:19:54,320 --> 00:19:55,765
+- Okay.
+- So, uh...
+
+488
+00:19:55,880 --> 00:19:57,530
+Tense? Good day? Huh?
+
+489
+00:19:57,600 --> 00:20:00,285
+Ooh, shoulders, a little knotty.
+Naughty girl.
+
+490
+00:20:00,360 --> 00:20:03,967
+I don't want to harp on this,
+but did you like the custom rabbit?
+
+491
+00:20:04,160 --> 00:20:05,161
+Did I like it?
+
+492
+00:20:05,600 --> 00:20:07,011
+- Nailed it, right?
+- Wow.
+
+493
+00:20:07,080 --> 00:20:09,890
+I appreciate the thought very much.
+
+494
+00:20:11,080 --> 00:20:14,562
+So, why don't you lift up that face mask
+and give me a kiss?
+
+495
+00:20:14,720 --> 00:20:16,449
+(IMITATING COMPUTER BEEPING)
+Huh...
+
+496
+00:20:16,840 --> 00:20:19,366
+Yep. Damn it, no can do.
+
+497
+00:20:19,440 --> 00:20:21,488
+You want to just kiss it on the...
+
+498
+00:20:21,560 --> 00:20:23,324
+- The facial slit?
+- Uh-huh.
+
+499
+00:20:23,400 --> 00:20:25,402
+Well, why don't I
+run down to the garage
+
+500
+00:20:25,480 --> 00:20:28,086
+and see if I can't find a crowbar
+to jimmy that thing open?
+
+501
+00:20:28,160 --> 00:20:29,810
+Crowbar, yeah.
+
+502
+00:20:29,880 --> 00:20:32,247
+Oh! Except there's been
+(STAMMERING) a radiation leak.
+
+503
+00:20:32,320 --> 00:20:34,243
+PEPPER: - I'll take my chances.
+- That's risky.
+
+504
+00:20:34,560 --> 00:20:35,721
+(STRAINED)
+At least, let me get you
+
+505
+00:20:35,800 --> 00:20:37,450
+like, a hazmat suit
+you can... (GRUNTS)
+
+506
+00:20:38,880 --> 00:20:41,081
+- A Geiger counter or something like that.
+(STRAINING)
+
+507
+00:20:42,080 --> 00:20:43,127
+Busted.
+
+508
+00:20:43,600 --> 00:20:46,809
+- This is a new level of lame.
+- Sorry.
+
+509
+00:20:46,960 --> 00:20:49,327
+You ate without me already?
+On date night?
+
+510
+00:20:50,200 --> 00:20:51,440
+- He was just...
+- You mean you.
+
+511
+00:20:51,520 --> 00:20:54,171
+Well, yeah, I just mean
+we were just hosting you...
+
+512
+00:20:54,360 --> 00:20:55,441
+(SCOFFS IN DISBELIEF)
+
+513
+00:20:55,520 --> 00:20:57,170
+- ...while I finished up a little work.
+- Uh-huh.
+
+514
+00:20:57,360 --> 00:20:58,566
+And yes, I had a quick bite.
+
+515
+00:20:58,640 --> 00:20:59,607
+I didn't know if you were coming home
+
+516
+00:20:59,680 --> 00:21:01,521
+or you were having drinks
+with Aldrich Killian.
+
+517
+00:21:04,920 --> 00:21:06,570
+- What?
+- What?
+
+518
+00:21:06,640 --> 00:21:09,246
+Aldrich Killian?
+What, are you checking up on me?
+
+519
+00:21:09,320 --> 00:21:10,321
+Happy was concerned.
+
+520
+00:21:10,400 --> 00:21:11,526
+- No, you're spying on me.
+- I wasn't.
+
+521
+00:21:11,600 --> 00:21:12,760
+- I'm going to bed.
+- Hold on.
+
+522
+00:21:12,800 --> 00:21:15,280
+Come on. Pep?
+
+523
+00:21:15,360 --> 00:21:16,361
+Hey, I admit it.
+
+524
+00:21:16,520 --> 00:21:19,490
+My fault. Sorry.
+
+525
+00:21:20,000 --> 00:21:22,685
+I'm a piping hot mess.
+
+526
+00:21:23,920 --> 00:21:27,891
+It's been going on for a while.
+I haven't said anything.
+
+527
+00:21:28,720 --> 00:21:30,449
+Nothing's been the same
+since New York.
+
+528
+00:21:31,480 --> 00:21:35,007
+Oh, really?
+I didn't notice that at all.
+
+529
+00:21:35,600 --> 00:21:37,682
+You experience things
+
+530
+00:21:37,760 --> 00:21:39,961
+and then they're over,
+and you still can't explain them.
+
+531
+00:21:40,640 --> 00:21:44,645
+Gods, aliens, other dimensions.
+I'm just a man in a can.
+
+532
+00:21:44,720 --> 00:21:46,160
+The only reason I haven't cracked up
+
+533
+00:21:46,400 --> 00:21:48,164
+is probably because you moved in.
+
+534
+00:21:48,560 --> 00:21:49,641
+Which is great.
+
+535
+00:21:49,720 --> 00:21:51,290
+I love you. I'm lucky.
+
+536
+00:21:51,560 --> 00:21:54,325
+But honey, I can't sleep.
+
+537
+00:21:55,600 --> 00:21:58,729
+You go to bed, I come down here.
+I do what I know.
+
+538
+00:21:58,800 --> 00:22:00,564
+I tinker. I... (SIGHS)
+
+539
+00:22:01,560 --> 00:22:03,483
+Threat is imminent.
+
+540
+00:22:03,560 --> 00:22:07,201
+And I have to protect the one thing
+that I can't live without.
+
+541
+00:22:07,280 --> 00:22:09,009
+That's you.
+
+542
+00:22:09,080 --> 00:22:11,321
+And my suits, they're, uh...
+
+543
+00:22:11,400 --> 00:22:12,401
+Machines.
+
+544
+00:22:12,760 --> 00:22:14,250
+They're part of me.
+
+545
+00:22:14,920 --> 00:22:16,524
+A distraction.
+
+546
+00:22:17,160 --> 00:22:18,685
+Maybe.
+
+547
+00:22:35,920 --> 00:22:38,366
+I'm gonna take a shower.
+
+548
+00:22:38,440 --> 00:22:40,169
+Okay.
+
+549
+00:22:42,600 --> 00:22:43,601
+And you're gonna join me.
+
+550
+00:22:45,400 --> 00:22:46,765
+Better.
+
+551
+00:22:51,000 --> 00:22:52,001
+(GASPS SOFTLY)
+
+552
+00:22:55,640 --> 00:22:57,642
+(GASPS LOUDLY)
+
+553
+00:22:59,360 --> 00:23:00,850
+(GROANS)
+
+554
+00:23:02,000 --> 00:23:03,001
+(SHUDDERS)
+
+555
+00:23:05,120 --> 00:23:06,531
+- Tony.
+(GROANS)
+
+556
+00:23:07,120 --> 00:23:09,646
+- Tony. Tony.
+(WHIMPERING)
+
+557
+00:23:10,480 --> 00:23:12,050
+To... (GASPS)
+
+558
+00:23:13,720 --> 00:23:14,960
+(PEPPER WHIMPERS)
+
+559
+00:23:15,160 --> 00:23:16,321
+Power down!
+
+560
+00:23:16,400 --> 00:23:17,447
+(POWERS DOWN)
+
+561
+00:23:18,800 --> 00:23:20,245
+(METAL CLANGING)
+
+562
+00:23:20,800 --> 00:23:22,165
+(PEPPER PANTING)
+
+563
+00:23:23,920 --> 00:23:26,321
+TONY: I must have called it in my sleep.
+
+564
+00:23:26,400 --> 00:23:28,687
+That's not supposed to happen.
+
+565
+00:23:31,160 --> 00:23:33,208
+I'll recalibrate the sensors.
+
+566
+00:23:35,080 --> 00:23:38,084
+Can we just... Just let me...
+
+567
+00:23:38,160 --> 00:23:40,606
+Just let me catch my breath. Hey,
+don't... Don't go. All right? Pepper...
+
+568
+00:23:40,680 --> 00:23:42,808
+I'm going to sleep downstairs.
+
+569
+00:23:42,880 --> 00:23:45,167
+Tinker with that.
+
+570
+00:23:57,200 --> 00:23:59,248
+(PEOPLE SPEAKING
+INDISTINCTLY)
+
+571
+00:24:11,480 --> 00:24:12,845
+Can you regulate?
+
+572
+00:24:13,000 --> 00:24:13,967
+Yes, I can regulate.
+
+573
+00:24:14,040 --> 00:24:15,166
+- You sure about that?
+- Yes.
+
+574
+00:24:25,720 --> 00:24:27,131
+- It's a decent batch.
+(CHUCKLES)
+
+575
+00:24:28,600 --> 00:24:30,680
+- Don't say I never did nothing for you.
+- Thank you.
+
+576
+00:24:33,000 --> 00:24:35,162
+I mean, for understanding.
+
+577
+00:24:43,720 --> 00:24:44,721
+HAPPY: I'm sorry, buddy.
+
+578
+00:24:58,760 --> 00:24:59,921
+(GRUNTS)
+
+579
+00:25:00,760 --> 00:25:02,125
+What are you doing, buddy?
+
+580
+00:25:02,200 --> 00:25:03,565
+You out by yourself?
+A little date night?
+
+581
+00:25:03,640 --> 00:25:04,721
+Seeing your favourite chick flick,
+maybe?
+
+582
+00:25:05,240 --> 00:25:07,004
+Yeah, a little movie
+called The Party's Over,
+
+583
+00:25:07,080 --> 00:25:08,969
+starring you and your junkie girlfriend.
+
+584
+00:25:09,040 --> 00:25:10,041
+Here's the ticket.
+
+585
+00:25:10,920 --> 00:25:12,481
+No kidding. That doesn't belong to you.
+
+586
+00:25:18,280 --> 00:25:19,691
+(GRUNTS)
+(PEOPLE GASP)
+
+587
+00:25:26,600 --> 00:25:27,681
+(GRUNTS)
+
+588
+00:25:30,040 --> 00:25:31,041
+(GROANS)
+(PEOPLE SCREAM)
+
+589
+00:25:31,120 --> 00:25:32,121
+(INHALING)
+
+590
+00:25:32,800 --> 00:25:33,801
+(GROANS)
+
+591
+00:25:34,320 --> 00:25:36,288
+(PEOPLE CLAMOURING)
+(GROANS)
+
+592
+00:25:38,920 --> 00:25:39,967
+TAGGART: Savin!
+
+593
+00:25:40,960 --> 00:25:42,121
+Help!
+
+594
+00:25:42,280 --> 00:25:44,009
+(GROWLING) Help me!
+
+595
+00:25:44,080 --> 00:25:45,320
+(CHOKING)
+
+596
+00:25:50,840 --> 00:25:51,841
+(HORNS HONKING)
+
+597
+00:25:51,920 --> 00:25:52,921
+(CRASHING)
+
+598
+00:26:00,480 --> 00:26:02,960
+(PEOPLE CLAMOURING)
+
+599
+00:26:04,160 --> 00:26:05,810
+(SIRENS WAILING)
+
+600
+00:26:11,320 --> 00:26:13,322
+(GROANS SOFTLY)
+
+601
+00:26:18,880 --> 00:26:20,325
+(GROANS WEAKLY)
+
+602
+00:26:32,440 --> 00:26:33,601
+(GASPS)
+
+603
+00:26:34,600 --> 00:26:36,125
+(SIZZLING)
+
+604
+00:26:57,800 --> 00:26:59,450
+(CLAMOURING CONTINUES)
+
+605
+00:26:59,560 --> 00:27:01,005
+(WOMAN SOBBING)
+
+606
+00:27:09,360 --> 00:27:12,170
+THE MANDARIN: <i>True story
+about fortune cookies.</i>
+
+607
+00:27:12,240 --> 00:27:13,605
+<i>They look Chinese.</i>
+
+608
+00:27:13,680 --> 00:27:16,570
+<i>They sound Chinese.</i>
+
+609
+00:27:17,000 --> 00:27:20,766
+<i>But they're actually
+an American invention.</i>
+
+610
+00:27:20,840 --> 00:27:25,641
+<i>Which is why they're hollow,
+full of lies</i>
+
+611
+00:27:25,720 --> 00:27:27,882
+<i>and leave a bad taste in the mouth.</i>
+
+612
+00:27:29,080 --> 00:27:33,722
+<i>My disciples just destroyed
+another cheap American knockoff.</i>
+
+613
+00:27:34,560 --> 00:27:37,131
+<i>The Chinese Theatre.</i>
+
+614
+00:27:37,480 --> 00:27:39,721
+<i>Mr President,</i>
+
+615
+00:27:39,800 --> 00:27:42,087
+<i>I know this must be getting frustrating.</i>
+
+616
+00:27:42,760 --> 00:27:47,482
+<i>But this season of terror
+is drawing to a dose.</i>
+
+617
+00:27:47,600 --> 00:27:49,728
+<i>And don't worry,</i>
+
+618
+00:27:49,840 --> 00:27:51,604
+<i>- the big one is coming.</i>
+(CHEERING)
+
+619
+00:27:51,960 --> 00:27:53,041
+<i>Your graduation.</i>
+
+620
+00:28:07,720 --> 00:28:08,846
+- Hi.
+- Oh!
+
+621
+00:28:09,120 --> 00:28:10,804
+(CHUCKLES)
+Do you mind leaving that on?
+
+622
+00:28:11,520 --> 00:28:12,681
+Sure.
+
+623
+00:28:18,800 --> 00:28:23,124
+Sunday nights. PBS. <i>Downton Abbey.</i>
+
+624
+00:28:23,920 --> 00:28:26,844
+That's his show. He thinks it's elegant.
+
+625
+00:28:29,600 --> 00:28:31,568
+One more thing. Make sure
+everyone wears their badges.
+
+626
+00:28:31,640 --> 00:28:32,846
+He's a stickler for that sort of thing.
+
+627
+00:28:32,920 --> 00:28:36,049
+Plus, my guys
+won't let anyone in without them.
+
+628
+00:28:36,120 --> 00:28:38,168
+We're awaiting the arrival
+of Tony Stark.
+
+629
+00:28:38,240 --> 00:28:39,880
+We're hoping he'll give us
+the reaction...
+
+630
+00:28:39,920 --> 00:28:41,524
+His reaction
+to the latest attack.
+
+631
+00:28:41,720 --> 00:28:43,521
+(REPORTERS CLAMOURING)
+- Mr Stark, hi there.
+
+632
+00:28:44,120 --> 00:28:47,522
+Our sources are telling us that all signs
+are pointing to another Mandarin attack.
+
+633
+00:28:48,160 --> 00:28:49,730
+Anything else you can tell us?
+
+634
+00:28:49,800 --> 00:28:52,804
+MALE REPORTER: Hey, Mr Stark.
+When is somebody gonna kill this guy?
+
+635
+00:28:53,640 --> 00:28:54,641
+I'm just saying.
+
+636
+00:28:55,240 --> 00:28:56,651
+(CAMERAS CLICKING)
+
+637
+00:28:57,760 --> 00:28:59,808
+Is that what you want?
+
+638
+00:29:02,000 --> 00:29:03,650
+Here's a little holiday greeting
+
+639
+00:29:03,760 --> 00:29:06,161
+I've been wanting to send
+to the Mandarin.
+
+640
+00:29:06,240 --> 00:29:08,641
+I just didn't know
+how to phrase it until now.
+
+641
+00:29:09,320 --> 00:29:12,369
+My name is Tony Stark
+and I'm not afraid of you.
+
+642
+00:29:12,440 --> 00:29:15,523
+I know you're a coward.
+So I've decided
+
+643
+00:29:16,320 --> 00:29:17,845
+that you just died, pal.
+
+644
+00:29:18,360 --> 00:29:20,044
+I'm gonna come get the body.
+
+645
+00:29:20,360 --> 00:29:22,886
+There's no politics here.
+It's just good old-fashioned revenge.
+
+646
+00:29:23,520 --> 00:29:26,205
+There's no Pentagon,
+it's just you and me.
+
+647
+00:29:26,520 --> 00:29:30,127
+And on the off chance you're a man,
+here's my home address.
+
+648
+00:29:30,200 --> 00:29:33,682
+10880 Malibu Point.
+
+649
+00:29:33,760 --> 00:29:35,967
+90265.
+
+650
+00:29:36,040 --> 00:29:37,883
+I'll leave the door unlocked.
+
+651
+00:29:37,960 --> 00:29:39,160
+That's what you wanted, right?
+
+652
+00:29:40,560 --> 00:29:41,686
+(REPORTERS GASP)
+
+653
+00:29:42,440 --> 00:29:44,044
+- Bill me.
+(REPORTERS CLAMOURING)
+
+654
+00:29:48,240 --> 00:29:51,449
+JARVIS: <i>I've compiled
+a Mandarin database for you, sir,</i>
+
+655
+00:29:51,560 --> 00:29:55,770
+<i>drawn from
+S.H.I.E.L.D., FBI and CIA intercepts.</i>
+
+656
+00:29:55,840 --> 00:29:58,411
+<i>Initiating virtual crime scene
+reconstruction.</i>
+
+657
+00:30:00,560 --> 00:30:04,360
+Okay. What have we got here?
+
+658
+00:30:04,440 --> 00:30:08,764
+The name is an ancient Chinese war
+mantle meaning "advisor to the king."
+
+659
+00:30:08,840 --> 00:30:12,162
+South American insurgency tactics.
+
+660
+00:30:12,240 --> 00:30:14,686
+Talks like a Baptist preacher.
+
+661
+00:30:14,760 --> 00:30:19,129
+There's lots of pageantry going on here.
+Lots of theatre. Close.
+
+662
+00:30:19,200 --> 00:30:22,761
+<i>The heat from the blast was in excess
+of 3, 000 degrees Celsius.</i>
+
+663
+00:30:22,880 --> 00:30:26,487
+<i>Any subjects within 12.5 yards
+were vaporised instantly.</i>
+
+664
+00:30:26,560 --> 00:30:29,245
+No bomb parts found in a three-mile
+radius of the Chinese Theatre?
+
+665
+00:30:29,320 --> 00:30:30,321
+<i>No, sir.</i>
+
+666
+00:30:32,360 --> 00:30:33,361
+Talk to me, Happy.
+
+667
+00:30:52,160 --> 00:30:54,003
+When is a bomb not a bomb?
+
+668
+00:31:05,400 --> 00:31:06,765
+Any military victims?
+
+669
+00:31:06,840 --> 00:31:09,081
+<i>Not according to public record, sir.</i>
+
+670
+00:31:09,160 --> 00:31:11,288
+Bring up the thermogenic
+signatures again.
+
+671
+00:31:11,360 --> 00:31:13,089
+Factor in 3,000 degrees.
+
+672
+00:31:13,160 --> 00:31:15,891
+<i>The Oracle cloud
+has completed analysis.</i>
+
+673
+00:31:15,960 --> 00:31:17,041
+<i>Accessing satellites</i>
+
+674
+00:31:17,120 --> 00:31:21,011
+<i>and plotting the last 12 months
+of thermogenic occurrences now.</i>
+
+675
+00:31:21,680 --> 00:31:24,126
+Take away everywhere
+that there's been a Mandarin attack.
+
+676
+00:31:27,400 --> 00:31:28,765
+(SYSTEMS BUZZING)
+
+677
+00:31:29,960 --> 00:31:31,200
+Nope.
+
+678
+00:31:36,480 --> 00:31:38,721
+That. Are you sure
+that's not one of his?
+
+679
+00:31:38,800 --> 00:31:41,280
+<i>It predates any known Mandarin attack.</i>
+
+680
+00:31:41,360 --> 00:31:44,204
+<i>The incident was the use of a bomb
+to assist a suicide.</i>
+
+681
+00:31:44,280 --> 00:31:46,123
+Bring her around.
+
+682
+00:31:46,840 --> 00:31:49,207
+<i>The heat signature
+is remarkably similar.</i>
+
+683
+00:31:49,880 --> 00:31:51,325
+<i>3,000 degree Celsius.</i>
+
+684
+00:31:53,120 --> 00:31:55,202
+That's two military guys.
+
+685
+00:31:56,000 --> 00:31:57,240
+Ever been to Tennessee, Jarvis?
+
+686
+00:31:57,680 --> 00:32:00,160
+<i>Creating a flight plan for Tennessee.</i>
+
+687
+00:32:02,200 --> 00:32:03,201
+(DOORBELL RINGS)
+
+688
+00:32:06,160 --> 00:32:07,241
+Are we still at ding-dong?
+
+689
+00:32:07,360 --> 00:32:09,761
+- We're supposed to be on total...
+(BANGING ON TABLE)
+
+690
+00:32:09,840 --> 00:32:10,966
+...security lockdown.
+
+691
+00:32:11,040 --> 00:32:12,881
+Come on, I threatened a terrorist.
+Who is that?
+
+692
+00:32:14,040 --> 00:32:15,610
+<i>There's only so much I can do, sir,</i>
+
+693
+00:32:15,680 --> 00:32:19,605
+<i>when you give the world's press
+your home address.</i>
+
+694
+00:32:22,160 --> 00:32:23,161
+(DOOR BUZZES)
+
+695
+00:32:23,240 --> 00:32:24,241
+(UNLOCKS)
+
+696
+00:32:27,600 --> 00:32:28,931
+(SCANNER HUMS)
+
+697
+00:32:29,000 --> 00:32:30,889
+Right there is fine.
+
+698
+00:32:34,760 --> 00:32:36,603
+You're not the Mandarin.
+
+699
+00:32:36,680 --> 00:32:38,762
+Are you? Are you?
+
+700
+00:32:40,280 --> 00:32:41,930
+You don't remember.
+(CHUCKLES)
+
+701
+00:32:42,000 --> 00:32:43,126
+Why am I not surprised?
+
+702
+00:32:43,320 --> 00:32:45,482
+Don't take it personally. I don't
+remember what I had for breakfast.
+
+703
+00:32:45,560 --> 00:32:47,005
+JARVIS: <i>Gluten-free waffles, sir.</i>
+
+704
+00:32:47,080 --> 00:32:48,411
+That's right.
+
+705
+00:32:48,600 --> 00:32:51,410
+Okay, look, I need to be alone with you,
+someplace not here.
+
+706
+00:32:51,480 --> 00:32:52,481
+It's urgent.
+
+707
+00:32:54,440 --> 00:32:58,764
+Normally, I'd go for that sort of thing,
+but now I'm in a committed relationship.
+
+708
+00:32:58,840 --> 00:32:59,887
+It's...
+
+709
+00:33:01,240 --> 00:33:02,730
+- With her.
+PEPPER: - Tony?
+
+710
+00:33:04,080 --> 00:33:05,366
+- Is somebody there?
+- Yeah,
+
+711
+00:33:05,440 --> 00:33:07,283
+- it's Maya Hansen.
+- Ah...
+
+712
+00:33:07,560 --> 00:33:09,403
+Old botanist pal
+
+713
+00:33:09,480 --> 00:33:11,881
+that I used to know, barely.
+
+714
+00:33:12,080 --> 00:33:13,650
+Please don't tell me
+there's a 12-year-old kid
+
+715
+00:33:13,760 --> 00:33:14,841
+waiting in the car that I've never met.
+
+716
+00:33:14,920 --> 00:33:15,921
+He's 13.
+
+717
+00:33:16,000 --> 00:33:17,809
+No, I need your help.
+
+718
+00:33:17,880 --> 00:33:19,450
+But, what for? Why now?
+
+719
+00:33:19,520 --> 00:33:22,808
+Because I read the papers and frankly,
+I don't think you'll last the week.
+
+720
+00:33:22,880 --> 00:33:23,927
+I'll be fine.
+
+721
+00:33:24,320 --> 00:33:25,321
+PEPPER: I'm sorry,
+with Happy in the hospital,
+
+722
+00:33:25,440 --> 00:33:27,488
+I didn't know we were expecting guests.
+
+723
+00:33:27,560 --> 00:33:29,449
+- We weren't.
+- And old girlfriends.
+
+724
+00:33:29,520 --> 00:33:31,249
+- She's not, really.
+- No, not really. I...
+
+725
+00:33:31,360 --> 00:33:34,523
+- it was just one night.
+TONY: - Yep.
+
+726
+00:33:34,600 --> 00:33:36,329
+That's how you did it, isn't it?
+
+727
+00:33:36,400 --> 00:33:38,721
+- It was a great night.
+PEPPER: - Yep. Well, you know.
+
+728
+00:33:38,800 --> 00:33:40,723
+- You saved yourself a world of pain.
+- What?
+
+729
+00:33:40,800 --> 00:33:42,404
+MAYA: - I'm sure.
+- Trust me. We're going out of town.
+
+730
+00:33:42,480 --> 00:33:43,481
+Okay. We've been through this.
+
+731
+00:33:43,560 --> 00:33:44,607
+- Nope.
+- Yep!
+
+732
+00:33:44,680 --> 00:33:46,640
+- The man says no.
+- Immediately and indefinitely.
+
+733
+00:33:46,720 --> 00:33:48,281
+TONY: - Honey...
+- Great idea. Let's go.
+
+734
+00:33:48,320 --> 00:33:50,971
+I'm sorry, that's a terrible idea.
+Please don't touch her bags.
+
+735
+00:33:51,040 --> 00:33:52,530
+This is how normal people behave.
+
+736
+00:33:52,720 --> 00:33:54,802
+TONY: I can't protect you out there.
+
+737
+00:33:54,880 --> 00:33:56,723
+Is... Is that normal?
+
+738
+00:33:56,920 --> 00:33:58,968
+- Sadly, that is very normal.
+- Yes, this is normal!
+
+739
+00:33:59,040 --> 00:34:00,690
+It's a big bunny. Relax about it!
+
+740
+00:34:01,040 --> 00:34:02,087
+Calm down.
+
+741
+00:34:02,160 --> 00:34:04,049
+- I got this for you.
+- I'm aware of that.
+
+742
+00:34:04,160 --> 00:34:05,491
+You still haven't even
+told me you liked it.
+
+743
+00:34:05,560 --> 00:34:06,846
+I don't like it.
+
+744
+00:34:06,920 --> 00:34:07,921
+I asked you three...
+You don't like it.
+
+745
+00:34:08,160 --> 00:34:09,207
+- We are leaving the house.
+MAYA: - Guys?
+
+746
+00:34:09,280 --> 00:34:10,406
+That's not even up for discussion.
+
+747
+00:34:10,480 --> 00:34:12,687
+- Can we, um...
+- I said no. What?
+
+748
+00:34:12,760 --> 00:34:14,000
+Do we need to worry about that?
+
+749
+00:34:28,960 --> 00:34:31,247
+(MECHANICAL WHIRRING)
+
+750
+00:34:34,800 --> 00:34:35,881
+(GROANS)
+
+751
+00:34:51,320 --> 00:34:52,367
+(GRUNTS)
+
+752
+00:35:01,200 --> 00:35:02,486
+(GASPS)
+
+753
+00:35:03,480 --> 00:35:04,481
+I got you.
+
+754
+00:35:04,720 --> 00:35:06,722
+I got you first.
+
+755
+00:35:06,800 --> 00:35:08,165
+Like I said, we can't stay here.
+
+756
+00:35:14,360 --> 00:35:15,805
+(GROANS)
+
+757
+00:35:15,880 --> 00:35:16,881
+Oh!
+
+758
+00:35:16,960 --> 00:35:19,531
+Move! I'm right behind you.
+
+759
+00:35:20,000 --> 00:35:21,525
+PEPPER: Oh!
+
+760
+00:35:23,760 --> 00:35:25,240
+Get her. I'm gonna find a way around.
+
+761
+00:35:26,120 --> 00:35:27,565
+Stop stopping. Get her. Get outside.
+
+762
+00:35:28,360 --> 00:35:29,691
+Go!
+
+763
+00:35:31,480 --> 00:35:32,845
+(PEPPER STRAINING)
+
+764
+00:35:40,800 --> 00:35:42,245
+(REPULSOR FIRES)
+(BOTH SCREAM)
+
+765
+00:35:44,000 --> 00:35:45,570
+(BOTH GROANING)
+
+766
+00:35:49,400 --> 00:35:50,845
+(GRUNTING)
+
+767
+00:35:52,040 --> 00:35:53,769
+Ch, my God. Tony!
+
+768
+00:35:59,080 --> 00:36:00,570
+(GROANING)
+
+769
+00:36:02,200 --> 00:36:03,247
+(STRAINING)
+
+770
+00:36:08,040 --> 00:36:10,930
+JARVIS: <i>Sir, Ms Potts
+is clear of the structure.</i>
+
+771
+00:36:14,440 --> 00:36:16,044
+(STRAINING)
+
+772
+00:36:19,880 --> 00:36:21,484
+(MACHINE GUN FIRING)
+
+773
+00:36:22,040 --> 00:36:23,530
+(GRUNTING)
+
+774
+00:36:26,720 --> 00:36:27,846
+(GROANS)
+
+775
+00:36:29,280 --> 00:36:30,441
+(MECHANICAL WHIRRING)
+
+776
+00:36:32,240 --> 00:36:33,685
+(GASPS)
+
+777
+00:36:43,040 --> 00:36:44,371
+Jarvis, where's my flight power?
+
+778
+00:36:44,520 --> 00:36:46,488
+<i>Working on it, sir. This is a prototype.</i>
+
+779
+00:36:51,640 --> 00:36:53,449
+(ALARMS BEEPING)
+
+780
+00:36:58,360 --> 00:36:59,407
+(REPULSORS FIRING)
+
+781
+00:37:01,480 --> 00:37:02,606
+That's one.
+
+782
+00:37:04,640 --> 00:37:07,120
+<i>Sir, the suit is not combat ready.</i>
+
+783
+00:37:23,000 --> 00:37:24,206
+That's two.
+
+784
+00:37:28,000 --> 00:37:29,001
+Oh.
+
+785
+00:37:31,680 --> 00:37:32,761
+(GRUNTS)
+
+786
+00:37:34,120 --> 00:37:35,121
+(GROANS)
+
+787
+00:37:35,320 --> 00:37:36,526
+(STRAINING)
+
+788
+00:37:41,160 --> 00:37:43,367
+(WHIRRING WEAKLY)
+
+789
+00:38:12,120 --> 00:38:13,565
+(GRUNTING)
+
+790
+00:38:19,280 --> 00:38:20,406
+(PANTS)
+
+791
+00:38:28,360 --> 00:38:29,930
+(GROANS)
+
+792
+00:38:37,040 --> 00:38:39,088
+(SCREAMING) Tony!
+
+793
+00:38:46,880 --> 00:38:48,370
+(GASPS)
+
+794
+00:38:59,200 --> 00:39:00,486
+(GRUNTS)
+
+795
+00:39:12,920 --> 00:39:14,604
+<i>Sir, take a deep breath.</i>
+
+796
+00:39:23,600 --> 00:39:24,601
+(PANTS)
+
+797
+00:39:26,000 --> 00:39:27,889
+(SPUTTERING)
+(REPULSORS FIRING)
+
+798
+00:39:30,120 --> 00:39:32,168
+<i>Flight power restored.</i>
+
+799
+00:39:47,440 --> 00:39:48,646
+JARVIS: (DISTANT) <i>Sir?</i>
+
+800
+00:39:48,960 --> 00:39:50,450
+(ALARM BLARING)
+<i>- Sir!</i>
+
+801
+00:39:51,120 --> 00:39:53,566
+All right, kill the alarm. I got it.
+
+802
+00:39:53,640 --> 00:39:56,610
+<i>That's the emergency alert triggered by
+the power dropping below 5%.</i>
+
+803
+00:39:56,680 --> 00:39:57,681
+(SIGHS) Oh...
+
+804
+00:39:57,800 --> 00:40:00,007
+(ALARM INCREASES IN INTENSITY)
+
+805
+00:40:00,120 --> 00:40:01,326
+(GRUFFLY) Oh!
+
+806
+00:40:03,880 --> 00:40:05,120
+(SCREAMING)
+
+807
+00:40:07,640 --> 00:40:09,244
+(SCREAMING CONTINUES)
+
+808
+00:40:13,320 --> 00:40:14,401
+(GRUNTING)
+
+809
+00:40:23,000 --> 00:40:24,161
+(GRUNTS)
+
+810
+00:40:25,360 --> 00:40:26,521
+(SIGHS)
+
+811
+00:40:26,920 --> 00:40:28,649
+(PANTING)
+
+812
+00:40:34,680 --> 00:40:37,650
+It's snowing, right?
+Where are we, upstate?
+
+813
+00:40:37,720 --> 00:40:41,441
+<i>We are five miles outside of
+Rose Hill, Tennessee.</i>
+
+814
+00:40:41,520 --> 00:40:42,965
+Why?
+
+815
+00:40:43,040 --> 00:40:45,691
+Jarvis. Not my idea.
+
+816
+00:40:46,400 --> 00:40:48,482
+What are we doing here?
+This is thousands of miles away!
+
+817
+00:40:48,560 --> 00:40:50,005
+I gotta get Pepper.
+I gotta...
+
+818
+00:40:50,520 --> 00:40:52,841
+<i>I prepared a flight plan.
+This was the location.</i>
+
+819
+00:40:52,920 --> 00:40:53,967
+Who asked you?
+
+820
+00:40:54,720 --> 00:40:56,000
+- Open the suit.
+(CRACKLING) I...
+
+821
+00:40:56,040 --> 00:40:57,246
+<i>I think I may be malfunctioning, sir.</i>
+
+822
+00:40:57,320 --> 00:40:58,321
+Open it, J.
+
+823
+00:40:58,760 --> 00:40:59,886
+(MECHANICAL WHIRRING)
+
+824
+00:41:00,040 --> 00:41:01,804
+(ELECTRICAL CRACKLING)
+
+825
+00:41:01,960 --> 00:41:03,644
+(GROANS)
+
+826
+00:41:03,720 --> 00:41:05,404
+(SHUDDERING)
+
+827
+00:41:05,480 --> 00:41:06,527
+That's brisk.
+
+828
+00:41:08,200 --> 00:41:09,201
+(BLOWING)
+
+829
+00:41:14,720 --> 00:41:16,324
+Maybe I'll just cosy back up for a...
+
+830
+00:41:16,560 --> 00:41:19,325
+<i>I actually think
+I need to sleep now, sir.</i>
+
+831
+00:41:19,600 --> 00:41:20,965
+(ARMOUR POWERS DOWN)
+- Jarvis.
+
+832
+00:41:23,120 --> 00:41:24,565
+Jarvis?
+
+833
+00:41:27,080 --> 00:41:29,242
+Don't leave me, buddy.
+
+834
+00:41:50,240 --> 00:41:51,571
+FEMALE SYNTH VOICE: <i>Stark secure server</i>
+
+835
+00:41:51,640 --> 00:41:54,610
+<i>now transferring
+to all known receivers.</i>
+
+836
+00:41:54,680 --> 00:41:56,011
+TONY: <i>Pepper, it's me.</i>
+
+837
+00:41:56,240 --> 00:41:59,403
+I've got a lot of apologies to make
+and not a lot of time.
+
+838
+00:41:59,480 --> 00:42:02,370
+So... First off, I'm so sorry
+I put you in harm's way.
+
+839
+00:42:02,440 --> 00:42:06,206
+That was selfish and stupid,
+and it won't happen again.
+
+840
+00:42:06,280 --> 00:42:09,363
+Also, it's Christmastime
+and the rabbit's too big.
+
+841
+00:42:09,440 --> 00:42:11,442
+Done. Sorry.
+
+842
+00:42:11,520 --> 00:42:14,524
+And I'm sorry in advance
+
+843
+00:42:14,600 --> 00:42:16,568
+because I can't come home yet.
+
+844
+00:42:17,600 --> 00:42:19,807
+<i>I need to find this guy.</i>
+
+845
+00:42:19,880 --> 00:42:22,724
+<i>You gotta stay safe, that's all I know.</i>
+
+846
+00:42:23,160 --> 00:42:26,130
+<i>I just stole a poncho
+from a wooden Indian.</i>
+
+847
+00:42:33,840 --> 00:42:35,251
+(GRUNTS)
+
+848
+00:42:46,360 --> 00:42:47,885
+(PANTING)
+
+849
+00:42:50,360 --> 00:42:51,646
+Let's get you comfy.
+
+850
+00:42:54,520 --> 00:42:56,363
+You happy now?
+
+851
+00:43:06,720 --> 00:43:07,767
+Freeze!
+
+852
+00:43:09,720 --> 00:43:11,324
+Don't move.
+
+853
+00:43:12,000 --> 00:43:13,365
+You got me.
+
+854
+00:43:14,920 --> 00:43:16,604
+Nice potato gun.
+
+855
+00:43:17,160 --> 00:43:18,286
+Barrel's a little long.
+
+856
+00:43:18,560 --> 00:43:22,281
+Between that and the wide gauge
+it's gonna diminish your FPS.
+
+857
+00:43:22,400 --> 00:43:23,447
+(GUN FIRES)
+
+858
+00:43:26,440 --> 00:43:27,680
+And now you're out of ammo.
+
+859
+00:43:28,680 --> 00:43:30,250
+What's that thing on your chest?
+
+860
+00:43:31,520 --> 00:43:33,443
+It's an electromagnet.
+
+861
+00:43:33,520 --> 00:43:35,480
+You should know,
+you got a box of them right here.
+
+862
+00:43:35,880 --> 00:43:37,041
+What does it power?
+
+863
+00:43:44,360 --> 00:43:45,640
+(GASPS IN AWE)
+(GUN CLATTERS)
+
+864
+00:43:46,040 --> 00:43:47,963
+Oh, my God.
+
+865
+00:43:49,120 --> 00:43:50,246
+That...
+
+866
+00:43:53,040 --> 00:43:54,690
+That's...
+Is that Iron Man?
+
+867
+00:43:54,880 --> 00:43:56,325
+Technically, I am.
+
+868
+00:43:56,920 --> 00:43:59,048
+Technically, you're dead.
+
+869
+00:44:01,040 --> 00:44:02,087
+TONY: Valid point.
+
+870
+00:44:02,400 --> 00:44:03,561
+What happened to him?
+
+871
+00:44:03,640 --> 00:44:05,051
+Life.
+
+872
+00:44:05,240 --> 00:44:07,720
+I built him. I take care of him.
+
+873
+00:44:09,720 --> 00:44:10,721
+I'll fix him.
+
+874
+00:44:10,800 --> 00:44:11,847
+Like a mechanic?
+
+875
+00:44:11,960 --> 00:44:13,405
+Yeah.
+
+876
+00:44:13,960 --> 00:44:15,007
+Hmm.
+
+877
+00:44:15,080 --> 00:44:17,845
+If I was building
+Iron Man and War Machine...
+
+878
+00:44:17,920 --> 00:44:19,001
+It's "Iron Patriot" now.
+
+879
+00:44:19,080 --> 00:44:20,241
+That's way cooler.
+
+880
+00:44:20,320 --> 00:44:21,651
+No, it's not.
+
+881
+00:44:21,760 --> 00:44:25,810
+Anyways, I would have added in,
+um, the retro...
+
+882
+00:44:26,000 --> 00:44:28,446
+- Retro-reflective panels?
+- To make him stealth mode.
+
+883
+00:44:28,760 --> 00:44:30,489
+- You want a stealth mode?
+- Cool, right?
+
+884
+00:44:30,640 --> 00:44:32,600
+That's actually a good idea.
+Maybe I'll build one.
+
+885
+00:44:32,840 --> 00:44:34,001
+- Not a good idea.
+- Oops.
+
+886
+00:44:34,320 --> 00:44:36,448
+What are you doing?
+You're gonna break his finger?
+
+887
+00:44:36,760 --> 00:44:38,046
+He's in pain.
+He's been injured. Leave him alone.
+
+888
+00:44:38,160 --> 00:44:39,161
+Sorry.
+
+889
+00:44:39,360 --> 00:44:40,771
+Are you?
+
+890
+00:44:42,280 --> 00:44:44,567
+Don't worry about it, I'll fix it.
+
+891
+00:44:44,640 --> 00:44:46,369
+So, uh, who's home?
+
+892
+00:44:46,440 --> 00:44:50,809
+Well, my mom already left for the diner
+and Dad went to 7-11 to get scratchers.
+
+893
+00:44:51,760 --> 00:44:54,969
+I guess he won,
+because that was six years ago.
+
+894
+00:44:55,480 --> 00:44:56,561
+Hmm.
+
+895
+00:44:56,880 --> 00:44:58,928
+Which happens. Dads leave.
+No need to be a pussy about it.
+
+896
+00:44:59,000 --> 00:45:00,001
+Here's what I need.
+
+897
+00:45:01,040 --> 00:45:03,520
+A laptop, a digital watch,
+a cell phone,
+
+898
+00:45:03,600 --> 00:45:06,046
+the pneumatic actuator from
+your bazooka over there,
+
+899
+00:45:06,120 --> 00:45:09,488
+a map of town, a big spring
+and a tuna fish sandwich.
+
+900
+00:45:09,760 --> 00:45:11,728
+What's in it for me?
+
+901
+00:45:11,800 --> 00:45:14,565
+- Salvation. What's his name?
+- Who?
+
+902
+00:45:14,800 --> 00:45:18,043
+The kid that bullies you at school.
+What's his name?
+
+903
+00:45:18,120 --> 00:45:19,645
+How'd you know that?
+
+904
+00:45:20,320 --> 00:45:21,970
+I got just the thing.
+
+905
+00:45:24,320 --> 00:45:27,290
+This is a piñata for a cricket.
+
+906
+00:45:27,360 --> 00:45:29,080
+I'm kidding.
+This is a very powerful weapon.
+
+907
+00:45:29,160 --> 00:45:32,403
+Point it away from your face,
+press the button on top,
+
+908
+00:45:32,480 --> 00:45:33,561
+it discourages bullying.
+
+909
+00:45:34,480 --> 00:45:38,007
+Non-lethal, just to cover one's ass.
+Deal?
+
+910
+00:45:38,320 --> 00:45:39,481
+Deal? What do you say?
+
+911
+00:45:39,640 --> 00:45:41,404
+- Deal.
+- Deal?
+
+912
+00:45:42,880 --> 00:45:43,881
+What's your name?
+
+913
+00:45:44,320 --> 00:45:46,482
+Harley. And you're...
+
+914
+00:45:46,680 --> 00:45:47,966
+The mechanic.
+
+915
+00:45:49,000 --> 00:45:50,240
+Tony.
+
+916
+00:45:51,880 --> 00:45:54,201
+You know what keeps
+going through my head?
+
+917
+00:45:54,280 --> 00:45:55,884
+"Where's my sandwich?"
+
+918
+00:45:56,200 --> 00:45:58,328
+(INDISTINCT CHATTER
+ON RADIO)
+
+919
+00:45:59,000 --> 00:46:02,004
+(OVERLAPPING NEWS REPORTS)
+
+920
+00:46:03,680 --> 00:46:06,206
+Where is Tony Stark?
+
+921
+00:46:24,040 --> 00:46:26,042
+(FAINT BEEPING)
+
+922
+00:46:28,520 --> 00:46:29,760
+(BEEPING)
+
+923
+00:46:32,160 --> 00:46:33,366
+(POWERING UP)
+
+924
+00:46:34,760 --> 00:46:36,091
+FEMALE SYNTH VOICE: <i>Stark secure server.</i>
+
+925
+00:46:36,200 --> 00:46:38,248
+<i>Retinal scan verified.</i>
+
+926
+00:46:38,320 --> 00:46:39,481
+TONY: <i>- Pepper, it's me.</i>
+(GASPS)
+
+927
+00:46:39,560 --> 00:46:42,484
+<i>I've got a lot of apologies to make
+and not a lot of time.</i>
+
+928
+00:46:42,560 --> 00:46:45,609
+<i>So... First off, I'm so sorry
+I put you in harm's way.</i>
+
+929
+00:46:45,680 --> 00:46:48,047
+<i>That was selfish and stupid
+and it won't happen again.</i>
+
+930
+00:46:50,480 --> 00:46:52,120
+PEPPER: Why were you
+at the house tonight?
+
+931
+00:46:53,240 --> 00:46:55,402
+What was so important
+that you had to speak to Tony?
+
+932
+00:46:59,240 --> 00:47:02,210
+I think that my boss
+is working for the Mandarin.
+
+933
+00:47:03,640 --> 00:47:04,971
+So, if you still want to talk about it
+
+934
+00:47:05,040 --> 00:47:08,123
+I suggest that we get
+ourselves someplace safe.
+
+935
+00:47:09,400 --> 00:47:12,290
+Your boss works for the Mandarin,
+you think?
+
+936
+00:47:12,480 --> 00:47:14,608
+But Tony says you're a botanist. So...
+
+937
+00:47:14,680 --> 00:47:17,411
+That figures. What I actually am
+is a biological DNA coder
+
+938
+00:47:17,520 --> 00:47:19,841
+running a team of 40
+out of a privately funded think tank.
+
+939
+00:47:19,920 --> 00:47:21,649
+But sure, you can call me a botanist.
+
+940
+00:47:23,920 --> 00:47:26,048
+This boss of yours,
+does he have a name?
+
+941
+00:47:26,560 --> 00:47:28,881
+Yeah, Aldrich Killian.
+
+942
+00:47:32,160 --> 00:47:34,481
+SAVIN: <i>Well, we took the house down,
+sir. But there's no sign of a body.</i>
+
+943
+00:47:34,560 --> 00:47:35,681
+- Mmm-hmm. I see.
+<i>- No Stark.</i>
+
+944
+00:47:36,080 --> 00:47:38,321
+I have to go.
+
+945
+00:47:38,400 --> 00:47:40,641
+The master is about to record
+and he's a little...
+
+946
+00:47:41,560 --> 00:47:43,324
+Well, you know how he gets.
+
+947
+00:47:43,400 --> 00:47:46,927
+Keep your appointment tonight
+and call me when it's done.
+
+948
+00:47:47,000 --> 00:47:49,970
+(CREW CONVERSING
+INDISTINCTLY)
+
+949
+00:47:52,280 --> 00:47:54,521
+All right, everybody.
+No talking and no eye contact.
+
+950
+00:47:54,640 --> 00:47:56,927
+Unless you want to get shot in the face.
+
+951
+00:48:08,640 --> 00:48:09,641
+GUARD: Report in.
+
+952
+00:48:11,680 --> 00:48:12,681
+Path is clear.
+
+953
+00:48:17,720 --> 00:48:19,165
+The master is travelling.
+
+954
+00:48:33,920 --> 00:48:37,049
+Well, then, what are we waiting for?
+
+955
+00:48:39,280 --> 00:48:41,328
+TONY: The sandwich was fair,
+the spring was a little rusty,
+
+956
+00:48:41,400 --> 00:48:43,846
+the rest of the materials, I'll make do.
+
+957
+00:48:43,920 --> 00:48:45,649
+By the way,
+when you said your sister had a watch...
+
+958
+00:48:45,720 --> 00:48:46,801
+HARLEY: - Yeah?
+- ...I was kind of hoping
+
+959
+00:48:46,880 --> 00:48:49,201
+for something a little more
+adult than that.
+
+960
+00:48:49,320 --> 00:48:52,927
+HARLEY: (LAUGHS) She's six.
+Anyway, it's a limited edition.
+
+961
+00:48:53,000 --> 00:48:54,445
+When can we talk about New York?
+
+962
+00:48:54,520 --> 00:48:56,409
+TONY: Maybe never.
+Relax about it.
+
+963
+00:48:56,480 --> 00:48:58,005
+HARLEY: What about the Avengers?
+Can we talk about them?
+
+964
+00:48:58,120 --> 00:49:00,281
+TONY: I dunno. Later.
+Hey, kid, give me a little space.
+
+965
+00:49:04,360 --> 00:49:07,887
+What's the official story here?
+What happened?
+
+966
+00:49:07,960 --> 00:49:12,488
+HARLEY: I guess this guy named
+Chad Davis used to live roundabouts.
+
+967
+00:49:13,400 --> 00:49:16,006
+He won a bunch of medals in the army.
+
+968
+00:49:16,080 --> 00:49:20,324
+And one day, folks said he went crazy
+and made, you know, a bomb.
+
+969
+00:49:20,960 --> 00:49:23,088
+Then he blew himself up, right here.
+
+970
+00:49:29,360 --> 00:49:31,169
+- Six people died, right?
+- Yeah.
+
+971
+00:49:31,280 --> 00:49:33,009
+- Including Chad Davis.
+- Yeah, yeah.
+
+972
+00:49:39,160 --> 00:49:42,562
+Yeah. That doesn't make sense.
+
+973
+00:49:43,800 --> 00:49:44,881
+Think about it.
+
+974
+00:49:45,440 --> 00:49:47,568
+Six dead. Only five shadows.
+
+975
+00:49:47,880 --> 00:49:49,166
+Yeah.
+
+976
+00:49:49,240 --> 00:49:52,084
+People said these shadows are
+like the marks of souls going to heaven.
+
+977
+00:49:53,800 --> 00:49:55,529
+Except the bomb guy.
+
+978
+00:49:55,600 --> 00:49:59,491
+He went to hell,
+on account of he didn't get a shadow.
+
+979
+00:49:59,600 --> 00:50:01,011
+That's why there's only five.
+
+980
+00:50:01,160 --> 00:50:04,050
+- Do you buy that?
+- It's what everyone says.
+
+981
+00:50:07,600 --> 00:50:09,807
+You know what
+this crater reminds me of?
+
+982
+00:50:09,880 --> 00:50:12,360
+No idea. I'm not...
+I don't care.
+
+983
+00:50:12,960 --> 00:50:18,046
+That giant Wormhole in,
+um, in New York.
+
+984
+00:50:18,520 --> 00:50:20,568
+Does it remind you?
+
+985
+00:50:20,640 --> 00:50:22,688
+That's manipulative.
+I don't want to talk about it.
+
+986
+00:50:22,760 --> 00:50:24,728
+Are they coming back? The aliens?
+
+987
+00:50:25,000 --> 00:50:26,126
+Maybe. Can you stop?
+
+988
+00:50:27,840 --> 00:50:30,002
+Remember what I told you,
+that I have an anxiety issue?
+
+989
+00:50:30,080 --> 00:50:31,889
+Does this subject make you edgy?
+
+990
+00:50:31,960 --> 00:50:34,201
+Yeah, a little bit. Can I just catch
+my breath for a second?
+
+991
+00:50:34,280 --> 00:50:36,123
+Are there bad guys in Rose Hill?
+
+992
+00:50:36,200 --> 00:50:38,601
+Do you need a plastic bag
+to breathe into?
+
+993
+00:50:38,880 --> 00:50:40,484
+- Do you have medication?
+- No.
+
+994
+00:50:40,680 --> 00:50:42,011
+- Do you need to be on it?
+- Probably.
+
+995
+00:50:42,160 --> 00:50:43,571
+- Do you have PTSD?
+- I don't think so.
+
+996
+00:50:43,640 --> 00:50:45,130
+Are you going completely mental?
+
+997
+00:50:45,840 --> 00:50:47,490
+I can stop. Do you want me to stop?
+
+998
+00:50:48,240 --> 00:50:49,480
+Remember when I said
+to stop doing that?
+
+999
+00:50:49,560 --> 00:50:52,086
+I swear that you're gonna freak me out.
+
+1000
+00:50:54,440 --> 00:50:56,522
+(GRUNTS) Ah, man, you did it,
+didn't you? You happy now?
+
+1001
+00:50:56,600 --> 00:50:57,647
+What did I say?
+
+1002
+00:50:58,200 --> 00:50:59,480
+- Hey! Wait up!
+(TONY MUMBLING)
+
+1003
+00:51:00,280 --> 00:51:02,044
+Wait, wait.
+
+1004
+00:51:02,160 --> 00:51:03,161
+(PANTING)
+
+1005
+00:51:03,720 --> 00:51:04,960
+(SIGHS)
+
+1006
+00:51:07,160 --> 00:51:09,003
+- What the hell was that?
+(SIGHS)
+
+1007
+00:51:12,920 --> 00:51:15,161
+Your fault.
+You spazzed me out.
+
+1008
+00:51:16,840 --> 00:51:19,207
+Okay, back to business.
+Where were we? (SNIFFS)
+
+1009
+00:51:19,280 --> 00:51:20,486
+The guy who died.
+
+1010
+00:51:20,800 --> 00:51:23,724
+Relatives? Mom?
+Mrs Davis, where is she?
+
+1011
+00:51:23,800 --> 00:51:24,847
+Where she always is.
+
+1012
+00:51:25,680 --> 00:51:27,569
+See? Now, you're being helpful.
+
+1013
+00:51:27,720 --> 00:51:29,961
+(CHRISTMAS COUNTRY
+MUSIC PLAYING)
+
+1014
+00:51:31,520 --> 00:51:32,681
+Uh...
+
+1015
+00:51:32,760 --> 00:51:34,000
+Sorry.
+
+1016
+00:51:34,120 --> 00:51:35,610
+Lady?
+
+1017
+00:51:36,560 --> 00:51:38,528
+Is this, uh...
+
+1018
+00:51:39,560 --> 00:51:40,561
+Thank you.
+
+1019
+00:51:43,120 --> 00:51:45,691
+Nice haircut. it suits you.
+
+1020
+00:51:46,240 --> 00:51:47,241
+Nice watch.
+
+1021
+00:51:47,480 --> 00:51:48,925
+Yeah. A limited edition.
+
+1022
+00:51:49,480 --> 00:51:51,528
+Oh, I don't doubt it.
+
+1023
+00:51:52,560 --> 00:51:53,800
+Well, have a good evening.
+
+1024
+00:51:59,320 --> 00:52:02,722
+(INDISTINCT CONVERSATIONS)
+
+1025
+00:52:06,440 --> 00:52:07,566
+MAN: Excuse me.
+
+1026
+00:52:17,200 --> 00:52:18,884
+TONY: Mrs Davis?
+
+1027
+00:52:19,640 --> 00:52:20,641
+Mind if I join you?
+
+1028
+00:52:21,520 --> 00:52:22,521
+Free country.
+
+1029
+00:52:23,000 --> 00:52:24,490
+Sure is.
+
+1030
+00:52:29,080 --> 00:52:30,605
+All right.
+
+1031
+00:52:31,560 --> 00:52:33,562
+Where would you like to start?
+
+1032
+00:52:33,920 --> 00:52:37,129
+I just want to say,
+I'm sorry about your loss.
+
+1033
+00:52:37,200 --> 00:52:38,720
+I want to know
+what you think happened.
+
+1034
+00:52:40,840 --> 00:52:45,767
+Look, I brought your damn file.
+You take it, go.
+
+1035
+00:52:46,760 --> 00:52:50,526
+Whatever was in here,
+he wanted no part of it.
+
+1036
+00:52:51,640 --> 00:52:54,484
+Clearly, you're waiting
+for someone else. Huh?
+
+1037
+00:52:54,600 --> 00:52:55,800
+Supposed to meet someone here?
+
+1038
+00:52:55,880 --> 00:52:56,881
+Yeah.
+
+1039
+00:53:10,760 --> 00:53:13,161
+Mrs Davis,
+your son didn't kill himself.
+
+1040
+00:53:13,240 --> 00:53:15,129
+I guarantee you, he didn't kill anyone.
+
+1041
+00:53:16,800 --> 00:53:17,961
+Someone used him.
+
+1042
+00:53:19,280 --> 00:53:20,281
+What?
+
+1043
+00:53:20,960 --> 00:53:22,883
+As a weapon.
+
+1044
+00:53:26,640 --> 00:53:30,361
+You're not the person
+that called me after all, are you?
+
+1045
+00:53:31,080 --> 00:53:32,441
+(GASPS)
+BRANDT: - Actually, I am.
+
+1046
+00:53:35,520 --> 00:53:36,920
+(GRUNTS)
+SHERIFF: - Hey, hey, hey!
+
+1047
+00:53:36,960 --> 00:53:39,645
+What's all this about?
+What the hell is going on here?
+
+1048
+00:53:40,080 --> 00:53:41,730
+- It's called an arrest.
+(GRUNTS)
+
+1049
+00:53:42,440 --> 00:53:43,851
+(GROANS)
+- Sheriff, is it?
+
+1050
+00:53:43,960 --> 00:53:45,803
+Yes, ma'am, it is. And you are?
+
+1051
+00:53:45,880 --> 00:53:47,928
+Homeland Security. We good here?
+
+1052
+00:53:48,000 --> 00:53:49,843
+No, we're not "good."
+(CHUCKLES HUMOURLESSLY)
+
+1053
+00:53:49,920 --> 00:53:51,600
+I need a little more information
+than that.
+
+1054
+00:53:51,720 --> 00:53:53,882
+BRANDT: Well, I think it's a little above
+your pay grade, Sheriff.
+
+1055
+00:53:54,200 --> 00:53:55,326
+SHERIFF: Yeah?
+Well, why don't you
+
+1056
+00:53:55,480 --> 00:53:57,448
+get on the horn
+to Nashville and, uh, upgrade me?
+
+1057
+00:53:57,720 --> 00:54:01,327
+All right. You know what?
+I was hoping to do this the smart way,
+
+1058
+00:54:01,920 --> 00:54:03,360
+but, uh, the fun way is always good.
+
+1059
+00:54:04,560 --> 00:54:06,050
+Deputy, get this woman out of...
+
+1060
+00:54:06,120 --> 00:54:07,451
+(SHERIFF GROANS)
+(WOMAN SCREAMS)
+
+1061
+00:54:07,520 --> 00:54:09,010
+(SIZZLING)
+(SHERIFF SCREAMS)
+
+1062
+00:54:11,160 --> 00:54:12,161
+(GUN FIRING)
+
+1063
+00:54:14,000 --> 00:54:15,525
+(PATRONS CLAMOURING)
+
+1064
+00:54:19,600 --> 00:54:22,160
+Hey, hot wings, you want to party?
+Come on, you and me, let's go.
+
+1065
+00:54:35,880 --> 00:54:37,848
+- Crazy, huh?
+- Yep.
+
+1066
+00:54:39,360 --> 00:54:40,407
+Watch this.
+
+1067
+00:54:43,120 --> 00:54:44,485
+(GROANING)
+
+1068
+00:54:47,200 --> 00:54:48,406
+(GRUNTS)
+
+1069
+00:55:04,760 --> 00:55:06,125
+(GRUNTS)
+
+1070
+00:55:08,720 --> 00:55:09,881
+(GRUNTS)
+
+1071
+00:55:21,640 --> 00:55:23,085
+(GRUNTING)
+
+1072
+00:55:23,160 --> 00:55:24,241
+(CHUCKLES)
+(SIZZLING)
+
+1073
+00:55:24,320 --> 00:55:25,367
+(GASPS)
+
+1074
+00:55:26,600 --> 00:55:27,601
+(GROANS)
+
+1075
+00:55:40,560 --> 00:55:41,561
+(INHALING SHARPLY)
+
+1076
+00:55:43,240 --> 00:55:44,366
+(BEEPING)
+
+1077
+00:55:46,600 --> 00:55:49,365
+You walked right into this one.
+I've dated hotter chicks than you.
+
+1078
+00:55:49,440 --> 00:55:50,930
+(GASPING)
+
+1079
+00:55:51,760 --> 00:55:52,761
+(BREATHING HEAVILY)
+That's all you got?
+
+1080
+00:55:52,920 --> 00:55:54,206
+(GAS HISSING)
+
+1081
+00:55:54,280 --> 00:55:55,691
+A cheap trick and a cheesy one-liner?
+
+1082
+00:55:55,760 --> 00:55:59,162
+Sweetheart, that could be
+the name of my autobiography.
+
+1083
+00:56:00,080 --> 00:56:01,809
+(SPARKING)
+
+1084
+00:56:04,080 --> 00:56:05,286
+(MICROWAVE DINGS)
+
+1085
+00:56:16,280 --> 00:56:17,964
+(PEOPLE CLAMOURING)
+
+1086
+00:56:24,120 --> 00:56:25,724
+(METAL CREAKING)
+
+1087
+00:56:30,640 --> 00:56:32,085
+(LAUGHS)
+
+1088
+00:56:33,320 --> 00:56:34,810
+(GASPS)
+
+1089
+00:56:34,920 --> 00:56:36,331
+(GRUNTS)
+
+1090
+00:56:53,600 --> 00:56:54,886
+(GRUNTING)
+
+1091
+00:56:58,440 --> 00:56:59,726
+(STRAINING)
+
+1092
+00:56:59,840 --> 00:57:01,968
+HARLEY: Let me go!
+SAVIN: (MOCKINGLY) Help me!
+
+1093
+00:57:02,160 --> 00:57:03,321
+(HARLEY STRUGGLING)
+
+1094
+00:57:06,200 --> 00:57:07,361
+Anyway.
+
+1095
+00:57:08,480 --> 00:57:10,608
+Hey, kid,
+what would you like for Christmas?
+
+1096
+00:57:10,680 --> 00:57:12,648
+Mr Stark, I am so sorry.
+
+1097
+00:57:12,720 --> 00:57:13,926
+No, no, no.
+I think he was trying to say,
+
+1098
+00:57:14,000 --> 00:57:15,923
+"I want my goddamn file."
+
+1099
+00:57:16,360 --> 00:57:17,407
+It's not your fault, kid.
+
+1100
+00:57:20,360 --> 00:57:21,885
+Remember what I told you
+about bullies?
+
+1101
+00:57:26,680 --> 00:57:28,364
+(GRUNTS)
+(GROANS)
+
+1102
+00:57:28,440 --> 00:57:29,680
+TONY: You like that, Westworld?
+
+1103
+00:57:30,080 --> 00:57:31,441
+That's the thing about smart guys,
+
+1104
+00:57:32,200 --> 00:57:34,009
+- we always cover our ass.
+(POWERING UP)
+
+1105
+00:57:35,480 --> 00:57:36,720
+(GRUNTS)
+
+1106
+00:57:37,400 --> 00:57:38,606
+(GASPS)
+
+1107
+00:57:41,720 --> 00:57:43,688
+(GRUNTS)
+(SIZZLING)
+
+1108
+00:57:47,080 --> 00:57:48,161
+Ah!
+
+1109
+00:57:57,240 --> 00:57:58,241
+(SIRENS WAILING)
+
+1110
+00:57:58,320 --> 00:58:00,129
+HARLEY: You're welcome.
+
+1111
+00:58:00,240 --> 00:58:01,366
+(INDISTINCT RADIO CHATTER)
+
+1112
+00:58:01,440 --> 00:58:02,771
+For what? Did I miss something?
+
+1113
+00:58:02,840 --> 00:58:04,808
+Me, saving your life.
+
+1114
+00:58:04,880 --> 00:58:08,043
+Yeah. A, I saved you first.
+B, thanks. Sort of.
+
+1115
+00:58:08,120 --> 00:58:10,885
+And C, if you do someone a solid,
+don't be a yutz.
+
+1116
+00:58:10,960 --> 00:58:14,248
+All right? Just play it cool.
+Otherwise you come off grandiose.
+
+1117
+00:58:14,320 --> 00:58:16,129
+Unlike you?
+
+1118
+00:58:17,720 --> 00:58:19,609
+Admit it, you need me.
+
+1119
+00:58:19,920 --> 00:58:21,206
+We're connected.
+
+1120
+00:58:21,400 --> 00:58:23,440
+What I need is for you to go home,
+be with your mom,
+
+1121
+00:58:23,560 --> 00:58:25,847
+keep your trap shut, guard the suit,
+
+1122
+00:58:25,920 --> 00:58:27,160
+and stay connected to the telephone
+
+1123
+00:58:27,240 --> 00:58:28,969
+because if I call,
+you better pick up. Okay?
+
+1124
+00:58:29,560 --> 00:58:32,166
+Can you feel that? We're done here.
+
+1125
+00:58:32,240 --> 00:58:33,526
+Move out of the way,
+or I'm gonna run you over.
+
+1126
+00:58:33,920 --> 00:58:35,331
+Bye, kid.
+
+1127
+00:58:41,880 --> 00:58:43,405
+I'm sorry, kid.
+
+1128
+00:58:44,120 --> 00:58:45,121
+You did good.
+
+1129
+00:58:45,600 --> 00:58:48,080
+So, now you're just gonna
+leave me here, like my dad?
+
+1130
+00:58:50,200 --> 00:58:51,201
+Yeah.
+
+1131
+00:58:52,720 --> 00:58:54,051
+Wait, you're guilt-tripping me,
+aren't you?
+
+1132
+00:58:54,280 --> 00:58:55,770
+(CHILDISHLY) I'm cold.
+
+1133
+00:58:56,040 --> 00:58:58,281
+(MOCKINGLY) I can tell.
+You know how I can tell?
+
+1134
+00:58:59,760 --> 00:59:01,285
+Because we're connected.
+
+1135
+00:59:05,040 --> 00:59:07,202
+It was worth a shot.
+
+1136
+00:59:13,040 --> 00:59:14,690
+(COUGHS)
+
+1137
+00:59:17,080 --> 00:59:18,491
+(GROANING)
+
+1138
+00:59:19,800 --> 00:59:21,962
+SALESWOMAN: <i>You get this.
+It's affordable. It's gorgeous.</i>
+
+1139
+00:59:22,040 --> 00:59:23,451
+<i>It goes with any decor...</i>
+
+1140
+00:59:25,320 --> 00:59:27,641
+- What happened to picture?
+WOMAN 1: - Go to override.
+
+1141
+00:59:28,040 --> 00:59:29,087
+(TECHNICIANS CONVERSING)
+
+1142
+00:59:29,160 --> 00:59:31,731
+- How is this happening again?
+MAN 1: - Fine. Override to Los Angeles.
+
+1143
+00:59:31,800 --> 00:59:32,801
+WOMAN 2: <i>I'm trying.
+There's nothing I can...</i>
+
+1144
+00:59:32,920 --> 00:59:33,921
+MAN 2: <i>Well, where is
+the feed coming from?</i>
+
+1145
+00:59:34,160 --> 00:59:36,083
+MAN 3: <i>I don't know,
+it's in all of our receivers and I...</i>
+
+1146
+00:59:36,160 --> 00:59:38,288
+The entire East Coast,
+the satellites are down.
+
+1147
+00:59:38,360 --> 00:59:39,760
+WOMAN 2: It's not just our station.
+
+1148
+00:59:39,800 --> 00:59:40,881
+What about a backup manual?
+
+1149
+00:59:41,040 --> 00:59:43,008
+AIDE: <i>We have an unauthorised
+broadcast cutting through...</i>
+
+1150
+00:59:43,200 --> 00:59:47,046
+Mr Vice President,
+I think you should see this.
+
+1151
+00:59:48,880 --> 00:59:50,530
+RODRIGUEZ: Oh, God, not again.
+
+1152
+00:59:51,120 --> 00:59:52,326
+Is the President getting this?
+
+1153
+00:59:55,800 --> 00:59:58,087
+(CONVERSING INDISTINCTLY)
+
+1154
+01:00:03,440 --> 01:00:05,204
+<i>Mr President.</i>
+
+1155
+01:00:05,600 --> 01:00:07,443
+<i>Only two lessons remain.</i>
+
+1156
+01:00:08,160 --> 01:00:11,562
+<i>And I intend to finish this
+before Christmas morning.</i>
+
+1157
+01:00:12,040 --> 01:00:14,407
+<i>Meet Thomas Richards.</i>
+
+1158
+01:00:14,480 --> 01:00:17,643
+<i>Good strong name.
+Good strong job.</i>
+
+1159
+01:00:18,240 --> 01:00:22,245
+<i>Thomas, here, is an accountant
+for the Roxxon Oil Corporation.</i>
+
+1160
+01:00:22,360 --> 01:00:23,521
+(SOBBING)
+
+1161
+01:00:26,120 --> 01:00:28,566
+But I'm sure he's a really good guy.
+
+1162
+01:00:28,680 --> 01:00:29,886
+(SOBBING CONTINUES)
+
+1163
+01:00:30,880 --> 01:00:32,280
+I'm going to shoot him in the head,
+
+1164
+01:00:32,720 --> 01:00:35,644
+live on your television in 30 seconds.
+
+1165
+01:00:35,720 --> 01:00:36,846
+THOMAS: No!
+
+1166
+01:00:36,920 --> 01:00:40,322
+The number for this telephone
+is in your cell phone.
+
+1167
+01:00:40,400 --> 01:00:43,529
+Exciting, isn't it,
+imagining how it got there?
+
+1168
+01:00:43,720 --> 01:00:45,370
+<i>America,</i>
+
+1169
+01:00:45,640 --> 01:00:48,564
+<i>if your president calls me
+in the next half-minute,</i>
+
+1170
+01:00:48,920 --> 01:00:50,365
+<i>Tom fives.</i>
+
+1171
+01:00:50,440 --> 01:00:51,441
+<i>Go!</i>
+
+1172
+01:00:51,560 --> 01:00:53,005
+(CONVERSING INDISTINCTLY)
+
+1173
+01:00:53,720 --> 01:00:55,051
+How did he hack my phone?
+
+1174
+01:00:55,120 --> 01:00:57,088
+We can't allow terrorists to dictate...
+
+1175
+01:00:57,160 --> 01:00:58,400
+I have to make this call.
+
+1176
+01:00:58,560 --> 01:00:59,891
+I'd strongly advise against that.
+
+1177
+01:00:59,960 --> 01:01:02,566
+This is the right thing to do.
+
+1178
+01:01:04,880 --> 01:01:07,884
+(PHONE RINGING)
+
+1179
+01:01:12,200 --> 01:01:14,089
+(PHONE CONTINUES RINGING)
+
+1180
+01:01:17,400 --> 01:01:18,845
+(GUN FIRES)
+(ALL GASP)
+
+1181
+01:01:29,120 --> 01:01:31,566
+THE MANDARIN: <i>There's just
+one lesson left, President Ellis.</i>
+
+1182
+01:01:31,640 --> 01:01:33,529
+So run away, hide,
+kiss your children goodbye.
+
+1183
+01:01:33,600 --> 01:01:34,601
+Because nothing,
+
+1184
+01:01:34,680 --> 01:01:37,160
+not your army, not your red, white
+and blue attack dog,
+
+1185
+01:01:37,240 --> 01:01:39,208
+can save you.
+
+1186
+01:01:41,560 --> 01:01:43,642
+<i>I'll see you soon.</i>
+
+1187
+01:01:45,760 --> 01:01:49,128
+Tell Rhodes,
+find this lunatic right now.
+
+1188
+01:01:49,200 --> 01:01:50,929
+MILITARY AIDE: Sir, we tracked
+the broadcast signal.
+
+1189
+01:01:51,000 --> 01:01:52,843
+We have a possible point of origin
+in Pakistan
+
+1190
+01:01:52,920 --> 01:01:54,046
+and the Patriot is ready to strike.
+
+1191
+01:01:54,120 --> 01:01:56,282
+- Right now.
+- Yes, sir.
+
+1192
+01:02:06,120 --> 01:02:07,451
+(SIGHS)
+
+1193
+01:02:09,240 --> 01:02:12,164
+Man. Happy, Happy, Happy.
+
+1194
+01:02:22,840 --> 01:02:23,841
+(ALL GASPING)
+
+1195
+01:02:26,560 --> 01:02:28,210
+RHODEY: Don't move!
+
+1196
+01:02:29,960 --> 01:02:31,689
+(PHONE RINGS)
+
+1197
+01:02:32,240 --> 01:02:33,241
+Uh...
+
+1198
+01:02:34,520 --> 01:02:35,521
+Hang on a second.
+
+1199
+01:02:36,360 --> 01:02:37,361
+Hello?
+
+1200
+01:02:37,560 --> 01:02:39,210
+You ever have a chick straddling you
+and you look up
+
+1201
+01:02:39,280 --> 01:02:43,126
+and suddenly she's glowing from
+the inside out, kind of a bright orange?
+
+1202
+01:02:43,440 --> 01:02:44,726
+Yeah, I've had that.
+Who is this?
+
+1203
+01:02:44,800 --> 01:02:45,767
+TONY: <i>It's me, pal.</i>
+
+1204
+01:02:45,840 --> 01:02:47,922
+Now, last time I went missing,
+if I remember correctly,
+
+1205
+01:02:48,000 --> 01:02:50,002
+you came looking for me.
+What are you doing?
+
+1206
+01:02:50,160 --> 01:02:51,491
+A little knock-and-talk,
+making friends in Pakistan.
+
+1207
+01:02:51,560 --> 01:02:52,561
+What are you doing?
+
+1208
+01:02:52,920 --> 01:02:55,764
+Your redesign, your big rebrand,
+that was AIM, right?
+
+1209
+01:02:55,840 --> 01:02:56,841
+Yeah.
+
+1210
+01:02:58,560 --> 01:03:00,801
+I'm gonna find a heavy-duty
+comm sat right now, I need your login.
+
+1211
+01:03:01,120 --> 01:03:03,168
+It's the same as
+it's always been, "WarMachine68."
+
+1212
+01:03:03,320 --> 01:03:04,287
+And password, please.
+
+1213
+01:03:04,360 --> 01:03:06,408
+Well, look, I gotta change it
+every time you hack in, Tony.
+
+1214
+01:03:06,560 --> 01:03:08,847
+It's not the '80s,
+nobody says "hack" any more.
+
+1215
+01:03:08,920 --> 01:03:09,921
+Give me your login.
+
+1216
+01:03:11,520 --> 01:03:13,966
+"WAR MACHINE ROX"
+with an all caps.
+
+1217
+01:03:14,120 --> 01:03:16,122
+(CHUCKLES)
+(TURRET WHIRRING)
+
+1218
+01:03:16,240 --> 01:03:17,401
+(LAUGHING)
+
+1219
+01:03:17,680 --> 01:03:18,681
+Yeah, okay.
+
+1220
+01:03:18,960 --> 01:03:22,009
+That is so much better
+than "Iron Patriot."
+
+1221
+01:03:22,080 --> 01:03:24,242
+(TYRES SCREECHING)
+
+1222
+01:03:30,400 --> 01:03:31,731
+EMCEE: <i>Very nice. Very nice.</i>
+
+1223
+01:03:31,960 --> 01:03:34,486
+<i>I have one question for you.</i>
+
+1224
+01:03:34,600 --> 01:03:37,126
+<i>What would you like
+for Christmas this year?</i>
+
+1225
+01:03:38,840 --> 01:03:40,251
+<i>Well, David...</i>
+
+1226
+01:03:40,400 --> 01:03:42,402
+(CREWS SPEAKING INDISTINCTLY)
+
+1227
+01:03:42,480 --> 01:03:47,122
+Do not erase a programme from my DVR
+unless you are 100% sure...
+
+1228
+01:03:52,080 --> 01:03:53,366
+EMCEE: <i>One more time!
+Ms Elk Ridge, everybody!</i>
+
+1229
+01:03:53,440 --> 01:03:54,441
+<i>All right.</i> (LAUGHS)
+
+1230
+01:03:54,600 --> 01:03:55,681
+(SOUND CUTS FROM BROADCAST)
+
+1231
+01:03:56,560 --> 01:03:59,211
+CAMERAMAN: Because you
+erase my shows!
+
+1232
+01:04:04,080 --> 01:04:05,081
+TONY: That ain't gonna cut it.
+
+1233
+01:04:05,240 --> 01:04:07,208
+CAMERAMAN: We talked about this.
+
+1234
+01:04:08,680 --> 01:04:10,808
+Excuse me, sir.
+I don't know who...
+
+1235
+01:04:10,920 --> 01:04:12,604
+Shh.
+
+1236
+01:04:13,720 --> 01:04:16,160
+Morn, I need to call you back.
+Something magical is happening.
+
+1237
+01:04:17,160 --> 01:04:19,083
+- Tony Stark is in my van.
+- Shh. Keep it down.
+
+1238
+01:04:19,160 --> 01:04:20,685
+- Tony Stark is in my van!
+- No, he's not.
+
+1239
+01:04:20,800 --> 01:04:21,921
+I knew you were still alive!
+
+1240
+01:04:22,440 --> 01:04:24,001
+(WHISPERING)
+Come on in. Close the door.
+
+1241
+01:04:25,480 --> 01:04:26,801
+(CAMERAMAN
+EXCLAIMS BREATH LESSLY)
+
+1242
+01:04:28,520 --> 01:04:29,760
+Oh, wow.
+Can I just say, sir...
+
+1243
+01:04:29,840 --> 01:04:30,966
+Yep.
+
+1244
+01:04:31,760 --> 01:04:32,921
+I am your biggest fan.
+
+1245
+01:04:33,080 --> 01:04:34,969
+Okay. First, is this your van?
+Is anyone else gonna come in?
+
+1246
+01:04:35,240 --> 01:04:36,287
+No, no, no. Just us.
+
+1247
+01:04:36,360 --> 01:04:37,441
+Great. What's your name?
+
+1248
+01:04:37,560 --> 01:04:39,130
+- Gary.
+- Gary.
+
+1249
+01:04:40,680 --> 01:04:42,250
+- Oh, wow.
+- Right there is fine.
+
+1250
+01:04:42,360 --> 01:04:43,566
+- Okay.
+(CHUCKLES) Okay?
+
+1251
+01:04:43,640 --> 01:04:44,880
+I get a lot of this, it's okay.
+
+1252
+01:04:45,160 --> 01:04:47,240
+- Oh, good. Can I just say?
+- What do you want? Yeah.
+
+1253
+01:04:47,960 --> 01:04:50,691
+I don't know if you can tell,
+
+1254
+01:04:50,760 --> 01:04:52,888
+but I have, like, patterned
+my whole look after you.
+
+1255
+01:04:52,960 --> 01:04:54,371
+- My hair's a little...
+- It's fine.
+
+1256
+01:04:54,480 --> 01:04:55,970
+It's not right,
+'cause there's no product in it.
+
+1257
+01:04:56,160 --> 01:04:57,844
+Right.
+
+1258
+01:04:58,120 --> 01:05:02,011
+I don't want to make things awkward
+for you, but I do have to show you...
+
+1259
+01:05:02,240 --> 01:05:03,446
+Boom!
+
+1260
+01:05:04,000 --> 01:05:06,651
+- A Hispanic Scott Baio.
+(GARY CHUCKLES)
+
+1261
+01:05:06,720 --> 01:05:09,451
+- I'm sorry. Is that me?
+- Yeah. It's... I mean...
+
+1262
+01:05:09,520 --> 01:05:14,287
+I had them do it off a doll that I made,
+so it's not like it's off a picture.
+
+1263
+01:05:14,920 --> 01:05:17,844
+- So it's a little bit...
+- Gary. Listen to me, okay?
+
+1264
+01:05:17,920 --> 01:05:21,845
+I don't want to clip your wings, here.
+We're both a little over-excited.
+
+1265
+01:05:21,920 --> 01:05:23,843
+I got an issue.
+I'm chasing bad guys.
+
+1266
+01:05:23,920 --> 01:05:26,681
+I'm trying to grab a little something
+from some hard-crypt data files.
+
+1267
+01:05:26,720 --> 01:05:27,846
+I don't have enough juice.
+
+1268
+01:05:28,120 --> 01:05:30,282
+I need you to jump on the roof...
+Right?
+
+1269
+01:05:30,360 --> 01:05:32,567
+Recalibrate the ISDNs.
+
+1270
+01:05:32,640 --> 01:05:34,688
+Pump it up by about 40%.
+
+1271
+01:05:35,160 --> 01:05:36,286
+- Got it.
+- All right? It's a mission.
+
+1272
+01:05:36,360 --> 01:05:37,361
+Yeah.
+
+1273
+01:05:37,440 --> 01:05:39,442
+Tony needs Gary.
+
+1274
+01:05:39,520 --> 01:05:40,681
+And Gary needs Tony.
+
+1275
+01:05:40,760 --> 01:05:42,125
+- Be quiet about it. Go.
+- Yeah.
+
+1276
+01:05:46,200 --> 01:05:47,281
+(KNOCKING)
+
+1277
+01:05:48,520 --> 01:05:51,046
+(TYPING)
+
+1278
+01:06:05,480 --> 01:06:09,166
+KILLIAN: <i>What would you regard
+as the defining moment of your life?</i>
+
+1279
+01:06:09,400 --> 01:06:12,131
+<i>Well, uh, I think that would be the day
+I decided not to let my injury beat me.</i>
+
+1280
+01:06:12,200 --> 01:06:13,201
+(TYPING)
+
+1281
+01:06:14,800 --> 01:06:16,484
+KILLIAN: <i>Will you please state
+your name for the camera?</i>
+
+1282
+01:06:16,560 --> 01:06:17,800
+<i>Ellen Brandt.</i>
+
+1283
+01:06:18,240 --> 01:06:22,245
+<i>Okay. So, the injections
+are administered periodically.</i>
+
+1284
+01:06:22,480 --> 01:06:23,760
+<i>Addiction will not be tolerated.</i>
+
+1285
+01:06:23,800 --> 01:06:26,770
+<i>And those who cannot regulate
+will be cut from the programme.</i>
+
+1286
+01:06:26,960 --> 01:06:28,041
+(TYPING)
+
+1287
+01:06:28,160 --> 01:06:31,004
+<i>Once misfits, cripples...</i>
+
+1288
+01:06:31,640 --> 01:06:34,769
+<i>You are the next iteration
+of human evolution.</i>
+
+1289
+01:06:39,400 --> 01:06:40,925
+<i>Everybody, before we start...</i>
+
+1290
+01:06:41,160 --> 01:06:44,209
+<i>I promise you, looking back at your life,
+there will be nothing as bitter</i>
+
+1291
+01:06:44,280 --> 01:06:48,444
+<i>as the memory of that glorious risk
+you prudently elected to forego.</i>
+
+1292
+01:06:48,520 --> 01:06:50,170
+<i>Today is your glory.</i>
+
+1293
+01:06:50,240 --> 01:06:51,366
+<i>Let's begin.</i>
+
+1294
+01:06:52,840 --> 01:06:55,081
+(GROANING)
+
+1295
+01:06:57,040 --> 01:06:58,963
+(BRANDT SCREAMS)
+
+1296
+01:06:59,520 --> 01:07:00,521
+(SCREAMING)
+
+1297
+01:07:02,640 --> 01:07:03,926
+<i>We gotta get out of here!
+We gotta get out of here!</i>
+
+1298
+01:07:04,120 --> 01:07:05,441
+<i>Get her out!
+Get them out of here!</i>
+
+1299
+01:07:06,320 --> 01:07:07,765
+(GROWLING)
+
+1300
+01:07:09,000 --> 01:07:10,047
+(ROARING)
+
+1301
+01:07:12,440 --> 01:07:15,284
+A bomb is not a bomb
+when it's a misfire.
+
+1302
+01:07:17,240 --> 01:07:20,005
+The stuff doesn't always work.
+Right, pal?
+
+1303
+01:07:20,080 --> 01:07:22,287
+It's faulty,
+but you found a buyer, didn't you?
+
+1304
+01:07:22,360 --> 01:07:24,727
+Sold it to the Mandarin.
+
+1305
+01:07:25,280 --> 01:07:27,567
+Got you, pal.
+
+1306
+01:07:29,800 --> 01:07:31,643
+MAYA: <i>What happened?</i>
+
+1307
+01:07:32,360 --> 01:07:34,328
+MAYA: Fun fact.
+
+1308
+01:07:34,400 --> 01:07:37,529
+Before he built rockets for the Nazis,
+
+1309
+01:07:38,000 --> 01:07:42,005
+the idealistic Wernher von Braun
+
+1310
+01:07:42,320 --> 01:07:44,322
+dreamed of space travel.
+
+1311
+01:07:45,600 --> 01:07:47,443
+He stargazed.
+(CHUCKLES SOFTLY)
+
+1312
+01:07:47,800 --> 01:07:51,282
+Do you know what he said when
+the first V-2 hit London?
+
+1313
+01:07:52,280 --> 01:07:55,727
+"The rocket performed perfectly."
+
+1314
+01:07:57,640 --> 01:08:00,325
+"It just landed on the wrong planet."
+
+1315
+01:08:01,200 --> 01:08:06,001
+See, we all begin wide-eyed.
+Pure science.
+
+1316
+01:08:06,640 --> 01:08:11,646
+And then the ego steps in,
+the obsession.
+
+1317
+01:08:12,720 --> 01:08:14,961
+And you look up,
+
+1318
+01:08:16,920 --> 01:08:19,321
+you're a long way from shore.
+
+1319
+01:08:19,480 --> 01:08:22,404
+You can't be too hard on yourself,
+Maya.
+
+1320
+01:08:23,000 --> 01:08:25,571
+I mean, you gave your research
+to a think tank.
+
+1321
+01:08:25,640 --> 01:08:29,201
+Yeah, but Killian built that think tank
+on military contracts.
+
+1322
+01:08:29,480 --> 01:08:31,801
+That's exactly what we used to do.
+
+1323
+01:08:32,080 --> 01:08:34,128
+So, don't judge yourself.
+
+1324
+01:08:35,560 --> 01:08:37,608
+Thank you, Pepper.
+
+1325
+01:08:38,840 --> 01:08:40,604
+I really appreciate that.
+
+1326
+01:08:42,120 --> 01:08:43,690
+(KNOCK ON DOOR)
+
+1327
+01:08:47,200 --> 01:08:48,201
+(DOOR OPENS)
+
+1328
+01:08:48,280 --> 01:08:50,601
+- Hi, good evening. Come on in.
+WAITER: - Good evening.
+
+1329
+01:08:50,720 --> 01:08:52,245
+(GASPS)
+(GRUNTS)
+
+1330
+01:08:52,360 --> 01:08:53,771
+Maya, run!
+
+1331
+01:08:54,840 --> 01:08:56,080
+(WHIMPERS)
+
+1332
+01:08:56,240 --> 01:08:57,605
+Hi, Pepper.
+
+1333
+01:08:59,280 --> 01:09:01,408
+So, you want to tell me why you
+were at Stark's mansion last night?
+
+1334
+01:09:01,800 --> 01:09:02,801
+I'm trying to fix this thing.
+
+1335
+01:09:02,880 --> 01:09:05,201
+I didn't know you and the master
+were gonna blow the place up.
+
+1336
+01:09:05,280 --> 01:09:08,648
+Oh, I see. So, you were trying
+to save Stark when he threatened us?
+
+1337
+01:09:08,720 --> 01:09:10,609
+I've told you, Killian, we can use him.
+
+1338
+01:09:10,760 --> 01:09:11,886
+(GROANS)
+
+1339
+01:09:12,680 --> 01:09:14,682
+Pepper. Pepper. Pepper.
+
+1340
+01:09:14,760 --> 01:09:17,730
+Look, if we want to launch product
+next year, I need Stark.
+
+1341
+01:09:17,840 --> 01:09:21,367
+He just lacked a decent incentive.
+Now, he has one.
+
+1342
+01:09:26,200 --> 01:09:27,929
+MAN: (ON RADIO)
+<i>This is support team Blue-Zero.</i>
+
+1343
+01:09:28,000 --> 01:09:30,685
+<i>Sending coordinates for a suspected
+Mandarin broadcast point of origin.</i>
+
+1344
+01:09:30,760 --> 01:09:31,807
+Copy.
+
+1345
+01:09:36,440 --> 01:09:38,044
+(REPULSOR FIRING)
+(PEOPLE SHRIEKING)
+
+1346
+01:09:39,920 --> 01:09:41,081
+Nobody move.
+
+1347
+01:09:41,280 --> 01:09:42,441
+(WOMEN EXCLAIMING IN FEAR)
+
+1348
+01:09:45,200 --> 01:09:47,282
+Oh. Support Blue-Zero,
+
+1349
+01:09:47,440 --> 01:09:49,283
+unless the Mandarin's next attack
+on the U.S.
+
+1350
+01:09:49,360 --> 01:09:50,930
+involves cheaply-made sportswear,
+
+1351
+01:09:51,200 --> 01:09:53,441
+I think you messed up again.
+
+1352
+01:09:53,520 --> 01:09:56,364
+Yes, you're free, uh,
+if you weren't before.
+
+1353
+01:09:56,640 --> 01:09:57,687
+It's... Of course.
+
+1354
+01:09:57,760 --> 01:09:58,761
+Yes, ma'am.
+
+1355
+01:09:58,960 --> 01:10:00,007
+Iron Patriot on the job.
+
+1356
+01:10:00,160 --> 01:10:01,161
+Happy to help.
+
+1357
+01:10:01,360 --> 01:10:02,441
+No need to thank me, ma'am.
+
+1358
+01:10:02,600 --> 01:10:03,840
+It's my pleasure. (GRUNTING)
+
+1359
+01:10:04,120 --> 01:10:05,201
+(GASPING)
+
+1360
+01:10:11,960 --> 01:10:14,201
+Savin?
+I've acquired the Patriot armour.
+
+1361
+01:10:14,280 --> 01:10:15,566
+RHODEY: If you want this suit,
+
+1362
+01:10:15,720 --> 01:10:17,961
+you're going to have to
+pry my cold dead body out of it.
+
+1363
+01:10:18,280 --> 01:10:19,770
+That's the plan, Colonel.
+
+1364
+01:10:21,360 --> 01:10:23,931
+TONY: Harley, tell me what's happening.
+Give me a full report.
+
+1365
+01:10:24,000 --> 01:10:27,322
+Yeah, I'm still eating that candy.
+Do you want me to keep eating it?
+
+1366
+01:10:27,640 --> 01:10:29,441
+- How much have you had?
+- Two or three bowls.
+
+1367
+01:10:29,520 --> 01:10:32,330
+<i>- Can you still see straight?</i>
+- Sort of.
+
+1368
+01:10:32,400 --> 01:10:33,920
+That means you're fine.
+Give me Jarvis.
+
+1369
+01:10:34,400 --> 01:10:35,401
+<i>Jarvis, how are we?</i>
+
+1370
+01:10:35,480 --> 01:10:37,721
+JARVIS: <i>It's totally fine, sir.
+I seem to do quite well for a stretch,</i>
+
+1371
+01:10:37,800 --> 01:10:40,883
+<i>and then at the end of the sentence
+I say the wrong cranberry.</i>
+
+1372
+01:10:40,960 --> 01:10:42,246
+<i>And, sir, you were right.</i>
+
+1373
+01:10:42,320 --> 01:10:45,005
+<i>Once I factored in
+available AIM down/ink facilities</i>
+
+1374
+01:10:45,320 --> 01:10:47,482
+<i>I was able to pinpoint
+the Mandarin's broadcast signal.</i>
+
+1375
+01:10:47,840 --> 01:10:49,922
+What are we talking?
+Far East, Europe, North Africa,
+
+1376
+01:10:50,000 --> 01:10:51,968
+Iran, Pakistan, Syria?
+Where is it?
+
+1377
+01:10:52,160 --> 01:10:53,446
+<i>Actually, sir, it's in Miami.</i>
+
+1378
+01:10:53,920 --> 01:10:56,400
+Okay, kid, I'm gonna have
+to walk you through
+
+1379
+01:10:56,520 --> 01:10:57,885
+rebooting Jarvis's speech drive,
+
+1380
+01:10:57,960 --> 01:10:59,405
+but not right now.
+
+1381
+01:10:59,480 --> 01:11:00,561
+Harley, where is he really?
+
+1382
+01:11:00,720 --> 01:11:02,600
+<i>Just look on the screen
+and tell me where it is.</i>
+
+1383
+01:11:04,200 --> 01:11:06,248
+Um, it does say Miami, Florida.
+
+1384
+01:11:06,320 --> 01:11:09,290
+Okay, first things first, I need
+the armour. Where are we at with it?
+
+1385
+01:11:09,560 --> 01:11:10,766
+Uh, it's not charging.
+
+1386
+01:11:10,880 --> 01:11:12,564
+(TYRES SCREECHING)
+
+1387
+01:11:15,160 --> 01:11:17,367
+(BREATHING HEAVILY)
+
+1388
+01:11:18,200 --> 01:11:21,329
+JARVIS: <i>Actually, sir, it is charging,
+but the power source is questionable.</i>
+
+1389
+01:11:21,520 --> 01:11:23,841
+<i>It may not succeed
+in revitalising the Mark 42.</i>
+
+1390
+01:11:24,040 --> 01:11:25,883
+What's questionable about electricity?
+All right?
+
+1391
+01:11:25,960 --> 01:11:29,806
+It's my suit, and I can't... I'm not gonna...
+I don't wanna... (BREATHING HEAVILY)
+
+1392
+01:11:30,560 --> 01:11:31,846
+Oh, God, not again.
+
+1393
+01:11:32,040 --> 01:11:33,644
+HARLEY: <i>- Tony?</i>
+(GASPING)
+
+1394
+01:11:35,760 --> 01:11:37,603
+<i>Are you having another attack?</i>
+
+1395
+01:11:37,760 --> 01:11:39,000
+I didn't even mention New York.
+
+1396
+01:11:39,040 --> 01:11:42,522
+Right, and then you just said it by name
+while denying having said it.
+
+1397
+01:11:42,920 --> 01:11:44,410
+Okay, um, uh...
+
+1398
+01:11:44,640 --> 01:11:46,608
+(PANTING)
+
+1399
+01:11:46,680 --> 01:11:47,681
+God, what am I gonna do?
+
+1400
+01:11:47,960 --> 01:11:51,328
+Just breathe.
+Really, just breathe.
+
+1401
+01:11:51,800 --> 01:11:54,246
+You're a mechanic, right?
+
+1402
+01:11:54,400 --> 01:11:55,765
+Right.
+
+1403
+01:11:56,560 --> 01:11:57,925
+<i>You said so.</i>
+
+1404
+01:11:58,880 --> 01:12:00,405
+Yes, I did.
+
+1405
+01:12:00,720 --> 01:12:03,405
+Why don't you just build something?
+
+1406
+01:12:15,400 --> 01:12:16,447
+Okay.
+
+1407
+01:12:17,520 --> 01:12:18,521
+<i>Thanks, kid.</i>
+
+1408
+01:12:47,960 --> 01:12:49,086
+(POWERING UP)
+
+1409
+01:13:16,800 --> 01:13:18,165
+(GRUNTING)
+
+1410
+01:13:26,760 --> 01:13:28,171
+(GROANS)
+
+1411
+01:13:28,400 --> 01:13:29,731
+(GRUNTS)
+
+1412
+01:13:29,880 --> 01:13:31,450
+(SCREAMS)
+(DEVICE POWERS UP)
+
+1413
+01:13:31,520 --> 01:13:33,568
+(CRACKLING)
+(GROANING)
+
+1414
+01:13:42,800 --> 01:13:43,847
+(GROANS)
+
+1415
+01:13:44,120 --> 01:13:45,167
+(GRUNTING)
+
+1416
+01:14:02,280 --> 01:14:07,286
+Why is it so hot in here?
+I told you to put it at 68.
+
+1417
+01:14:07,360 --> 01:14:08,691
+(SCOFFS) My fault again.
+
+1418
+01:14:08,760 --> 01:14:11,600
+Let me tell you something, sweetheart.
+I am not your personal air con...
+
+1419
+01:14:11,640 --> 01:14:12,607
+(GROANS)
+(CRACKLING)
+
+1420
+01:14:12,680 --> 01:14:13,681
+(THUDS)
+
+1421
+01:14:17,880 --> 01:14:19,120
+(MIMICS GUNSHOT)
+
+1422
+01:14:21,720 --> 01:14:23,006
+(CHUCKLES)
+
+1423
+01:15:03,480 --> 01:15:05,289
+(BOTH GASP)
+
+1424
+01:15:06,960 --> 01:15:08,166
+(TONY SHUSHING)
+
+1425
+01:15:08,240 --> 01:15:09,765
+(TOILET FLUSHING)
+
+1426
+01:15:11,880 --> 01:15:13,080
+MAN: (IN ENGLISH ACCENT) Well.
+
+1427
+01:15:14,520 --> 01:15:16,807
+I wouldn't go in there for 20 minutes.
+(LAUGHS)
+
+1428
+01:15:18,040 --> 01:15:20,407
+Now, which one of you is Vanessa?
+
+1429
+01:15:20,480 --> 01:15:21,766
+- That's me.
+- Ah!
+
+1430
+01:15:22,360 --> 01:15:23,407
+Nessie.
+
+1431
+01:15:23,720 --> 01:15:28,567
+Did you know that fortune cookies
+aren't even Chinese?
+
+1432
+01:15:28,720 --> 01:15:30,165
+There's some guy over here.
+
+1433
+01:15:30,240 --> 01:15:33,449
+They're made by Americans,
+based on a Japanese recipe.
+
+1434
+01:15:33,680 --> 01:15:34,727
+Hey!
+
+1435
+01:15:36,880 --> 01:15:37,881
+Bloody hell. Bloody hell.
+
+1436
+01:15:38,440 --> 01:15:39,487
+Don't move.
+
+1437
+01:15:39,560 --> 01:15:41,722
+I'm not moving.
+You want something? Take it.
+
+1438
+01:15:41,800 --> 01:15:42,801
+Although the guns are all fake
+
+1439
+01:15:42,880 --> 01:15:44,723
+because those wankers
+wouldn't trust me with the real ones.
+
+1440
+01:15:44,800 --> 01:15:47,041
+- What?
+- Hey, do you fancy either of the birds?
+
+1441
+01:15:49,040 --> 01:15:50,280
+TONY: Heard enough.
+
+1442
+01:15:50,360 --> 01:15:52,488
+You're not him.
+The Mandarin, the real guy.
+
+1443
+01:15:52,640 --> 01:15:53,687
+Where?
+
+1444
+01:15:53,760 --> 01:15:55,922
+Where's the Mandarin?
+Where is he?
+
+1445
+01:15:56,440 --> 01:15:58,966
+Whoa, whoa, whoa.
+He's here. He's here, but he's not here.
+
+1446
+01:15:59,040 --> 01:16:00,644
+- He's here, but he's not here.
+- What do you mean?
+
+1447
+01:16:01,040 --> 01:16:02,804
+It's complicated.
+Hey, it's complicated.
+
+1448
+01:16:03,040 --> 01:16:04,644
+- It is.
+- It's complicated.
+
+1449
+01:16:04,840 --> 01:16:06,080
+Uncomplicate it.
+Ladies, out.
+
+1450
+01:16:06,160 --> 01:16:07,800
+Get out of the bed.
+Get into the bathroom.
+
+1451
+01:16:10,440 --> 01:16:11,646
+Sit.
+
+1452
+01:16:12,640 --> 01:16:13,880
+WOMAN 1: Ew!
+WOMAN 2: Oh, Jesus.
+
+1453
+01:16:13,920 --> 01:16:15,001
+(DOOR CLOSES)
+
+1454
+01:16:17,120 --> 01:16:18,770
+(GUNSHOT)
+(EXCLAIMS IN FEAR)
+
+1455
+01:16:20,880 --> 01:16:23,963
+My name is Trevor.
+Trevor Slattery.
+
+1456
+01:16:24,040 --> 01:16:25,087
+TONY: What are you?
+
+1457
+01:16:26,480 --> 01:16:27,811
+What are you, a decoy?
+You're a double, right?
+
+1458
+01:16:28,080 --> 01:16:30,970
+What, you mean like an understudy?
+No, absolutely not.
+
+1459
+01:16:31,040 --> 01:16:33,850
+Don't hurt the face!
+I'm an actor.
+
+1460
+01:16:34,560 --> 01:16:36,722
+You got a minute to live.
+Fill it with words.
+
+1461
+01:16:36,800 --> 01:16:40,771
+It's just a role.
+"The Mandarin," see, it's not real.
+
+1462
+01:16:41,120 --> 01:16:43,248
+Then how did you get here, Trevor?
+
+1463
+01:16:45,200 --> 01:16:51,367
+Well, I, um, had a little
+problem with, um, substances.
+
+1464
+01:16:51,440 --> 01:16:55,684
+And I ended up doing things,
+no two ways about it,
+
+1465
+01:16:55,760 --> 01:16:58,081
+in the street,
+that a man shouldn't do.
+
+1466
+01:16:58,240 --> 01:16:59,685
+- Next?
+- Then,
+
+1467
+01:16:59,800 --> 01:17:02,690
+they approached me
+about the role,
+
+1468
+01:17:02,760 --> 01:17:04,171
+and they knew about the drugs.
+
+1469
+01:17:04,240 --> 01:17:05,401
+What did they say?
+They'd get you off them?
+
+1470
+01:17:05,760 --> 01:17:07,205
+They said they'd give me more.
+
+1471
+01:17:07,280 --> 01:17:08,327
+They gave me things.
+
+1472
+01:17:08,400 --> 01:17:11,927
+They gave me this palace.
+They gave me plastic surgery.
+
+1473
+01:17:12,000 --> 01:17:14,241
+They gave me things.
+
+1474
+01:17:14,400 --> 01:17:15,322
+(SNORING)
+
+1475
+01:17:15,440 --> 01:17:16,566
+Did you just nod off?
+
+1476
+01:17:16,720 --> 01:17:17,721
+Hey.
+
+1477
+01:17:17,800 --> 01:17:19,643
+No, and a lovely speedboat.
+
+1478
+01:17:19,720 --> 01:17:22,121
+And the thing was, he needed someone
+
+1479
+01:17:22,240 --> 01:17:26,165
+to take credit
+for some accidental explosions.
+
+1480
+01:17:26,840 --> 01:17:28,080
+(MIMICS EXPLOSION)
+
+1481
+01:17:29,560 --> 01:17:30,561
+"He"?
+
+1482
+01:17:33,200 --> 01:17:35,168
+- Killian?
+- Killian.
+
+1483
+01:17:35,240 --> 01:17:38,084
+- He created you?
+- He created me.
+
+1484
+01:17:38,760 --> 01:17:39,807
+Custom-made terror threat.
+
+1485
+01:17:40,320 --> 01:17:42,084
+Yes. Yes.
+
+1486
+01:17:42,280 --> 01:17:44,044
+His think tank thinked it up.
+
+1487
+01:17:44,560 --> 01:17:46,767
+The pathology of a serial killer.
+
+1488
+01:17:46,960 --> 01:17:49,850
+The manipulation
+of Western iconography.
+
+1489
+01:17:50,320 --> 01:17:53,403
+(WITHOUT ACCENT)
+Ready for another lesson?
+
+1490
+01:17:53,680 --> 01:17:54,966
+Blah, blah, blah.
+
+1491
+01:17:55,240 --> 01:17:56,526
+No.
+
+1492
+01:17:56,600 --> 01:17:58,443
+(WITH ACCENT) Of course,
+it was my performance
+
+1493
+01:17:58,520 --> 01:17:59,567
+that brought the Mandarin to life.
+
+1494
+01:17:59,760 --> 01:18:01,125
+Your performance?
+
+1495
+01:18:02,200 --> 01:18:03,167
+Where people died?
+
+1496
+01:18:03,280 --> 01:18:04,964
+No, they didn't.
+
+1497
+01:18:05,680 --> 01:18:08,968
+Look around you.
+The costumes, green screen.
+
+1498
+01:18:09,080 --> 01:18:11,208
+Honestly,
+I wasn't on location for half this stuff.
+
+1499
+01:18:11,280 --> 01:18:13,089
+And when I was,
+it was movie magic, love.
+
+1500
+01:18:13,400 --> 01:18:15,360
+I'm sorry, but I got a best friend
+who's in a coma
+
+1501
+01:18:15,400 --> 01:18:16,561
+and he might not wake up.
+
+1502
+01:18:16,920 --> 01:18:18,001
+So you're gonna have
+to answer for that.
+
+1503
+01:18:18,080 --> 01:18:19,570
+You're still going down, pal.
+
+1504
+01:18:19,640 --> 01:18:20,641
+You under...
+
+1505
+01:18:22,800 --> 01:18:23,801
+(GRUNTS)
+
+1506
+01:18:27,240 --> 01:18:30,244
+Okay, Trevor, what did you tell him?
+
+1507
+01:18:30,600 --> 01:18:32,841
+- I didn't tell him anything.
+- Nothing?
+
+1508
+01:18:33,760 --> 01:18:34,841
+No.
+
+1509
+01:18:35,120 --> 01:18:36,721
+You should have pressed
+the panic button.
+
+1510
+01:18:37,280 --> 01:18:39,647
+Well, I panicked, but then I handled it.
+
+1511
+01:18:45,280 --> 01:18:47,009
+(TYPING)
+
+1512
+01:18:49,120 --> 01:18:50,281
+TONY: Ah...
+
+1513
+01:18:52,320 --> 01:18:53,401
+(SIGHS) Okay.
+
+1514
+01:19:02,360 --> 01:19:04,010
+It's just like old times, huh?
+
+1515
+01:19:04,360 --> 01:19:07,091
+Oh, yeah. With zip ties.
+It's a ball.
+
+1516
+01:19:07,160 --> 01:19:08,810
+It wasn't my idea.
+
+1517
+01:19:08,880 --> 01:19:10,882
+Okay. So you took Killian's card.
+
+1518
+01:19:11,040 --> 01:19:12,041
+I took his money.
+
+1519
+01:19:12,320 --> 01:19:14,527
+And here you are 13 years later,
+in a dungeon.
+
+1520
+01:19:14,680 --> 01:19:16,409
+- No.
+- Yeah.
+
+1521
+01:19:16,520 --> 01:19:18,170
+No, you're in a dungeon.
+I'm free to go.
+
+1522
+01:19:18,800 --> 01:19:20,086
+Yeah?
+
+1523
+01:19:21,800 --> 01:19:23,006
+(SIGHS)
+
+1524
+01:19:23,960 --> 01:19:25,485
+A lot has happened, Tony.
+
+1525
+01:19:26,440 --> 01:19:27,885
+But I'm close.
+
+1526
+01:19:28,560 --> 01:19:30,688
+EXTREMIS is practically stabilised.
+
+1527
+01:19:30,760 --> 01:19:32,922
+I'm telling you it isn't.
+I'm on the street.
+
+1528
+01:19:33,000 --> 01:19:34,445
+People are going bang.
+They're painting the walls.
+
+1529
+01:19:34,520 --> 01:19:35,851
+Maya, you're kidding yourself.
+
+1530
+01:19:35,920 --> 01:19:37,206
+Then help me fix it.
+
+1531
+01:19:42,560 --> 01:19:43,891
+Did I do that?
+
+1532
+01:19:45,200 --> 01:19:46,201
+Yes.
+
+1533
+01:19:46,520 --> 01:19:48,040
+I remember the night, not the morning.
+
+1534
+01:19:48,920 --> 01:19:50,206
+Is this what
+you've been chasing around?
+
+1535
+01:19:50,280 --> 01:19:52,362
+- You don't remember?
+- I can't help you.
+
+1536
+01:19:53,360 --> 01:19:56,967
+You used to have a moral psychology.
+
+1537
+01:19:57,040 --> 01:19:59,202
+You used to have ideals.
+
+1538
+01:19:59,640 --> 01:20:01,961
+You wanted to help people.
+
+1539
+01:20:02,040 --> 01:20:03,929
+Now look at you.
+
+1540
+01:20:04,960 --> 01:20:06,928
+I get to wake up every morning
+with someone who
+
+1541
+01:20:10,240 --> 01:20:11,765
+still has their soul.
+
+1542
+01:20:17,440 --> 01:20:18,441
+Get me out of here.
+
+1543
+01:20:21,440 --> 01:20:22,930
+Come on.
+
+1544
+01:20:24,080 --> 01:20:26,120
+KILLIAN: You know what my old man
+used to say to me?
+
+1545
+01:20:26,800 --> 01:20:29,883
+One of his favourite of many sayings...
+
+1546
+01:20:29,960 --> 01:20:34,329
+"The early bird gets the worm, but
+the second mouse gets the cheese."
+
+1547
+01:20:34,520 --> 01:20:36,682
+You're not still pissed off
+about the Switzerland thing, are you?
+
+1548
+01:20:36,760 --> 01:20:39,161
+How can I be pissed at you, Tony?
+
+1549
+01:20:39,240 --> 01:20:41,242
+I'm here to thank you.
+
+1550
+01:20:41,440 --> 01:20:43,760
+You gave me the greatest gift
+that anybody's ever given me.
+
+1551
+01:20:44,440 --> 01:20:45,885
+Desperation.
+
+1552
+01:20:46,440 --> 01:20:48,090
+If you think back to Switzerland,
+
+1553
+01:20:48,200 --> 01:20:51,204
+you said you'd meet me
+on the rooftop, right?
+
+1554
+01:20:51,280 --> 01:20:54,170
+Well, for the first 20 minutes,
+
+1555
+01:20:54,600 --> 01:20:56,568
+I actually thought you'd show up.
+
+1556
+01:20:56,640 --> 01:20:58,449
+And the next hour...
+
+1557
+01:21:00,040 --> 01:21:04,443
+I considered taking that
+one-step shortcut to the lobby.
+
+1558
+01:21:04,720 --> 01:21:05,721
+If you know what I mean.
+
+1559
+01:21:06,120 --> 01:21:09,124
+Honestly, I'm still trying to figure out
+what happened to the first mouse.
+
+1560
+01:21:09,600 --> 01:21:11,887
+But as I looked out over that city,
+
+1561
+01:21:12,120 --> 01:21:14,805
+<i>nobody knew I was there,
+nobody could see me,</i>
+
+1562
+01:21:14,880 --> 01:21:17,121
+<i>no one was even looking.</i>
+
+1563
+01:21:17,200 --> 01:21:21,205
+<i>I had a thought that would
+guide me for years to come.</i>
+
+1564
+01:21:21,800 --> 01:21:23,006
+Anonymity, Tony.
+
+1565
+01:21:24,680 --> 01:21:26,481
+Thanks to you,
+it's been my mantra ever since.
+
+1566
+01:21:26,560 --> 01:21:27,641
+Right?
+
+1567
+01:21:27,720 --> 01:21:30,121
+You simply rule
+from behind the scenes.
+
+1568
+01:21:30,200 --> 01:21:32,680
+<i>Because the second
+you give evil a face,</i>
+
+1569
+01:21:32,880 --> 01:21:35,724
+<i>a bin Laden, a Gaddafi, a Mandarin,</i>
+
+1570
+01:21:35,800 --> 01:21:37,404
+you hand the people a target.
+
+1571
+01:21:37,680 --> 01:21:39,170
+You're something else.
+
+1572
+01:21:41,400 --> 01:21:42,481
+You have met him, I assume?
+
+1573
+01:21:42,560 --> 01:21:44,164
+Yes. Sir Laurence Oblivier.
+
+1574
+01:21:44,240 --> 01:21:46,561
+I know he's a little
+over the top sometimes.
+
+1575
+01:21:46,640 --> 01:21:48,369
+It's not entirely my fault.
+He has a tenden...
+
+1576
+01:21:48,440 --> 01:21:49,487
+He's a stage actor.
+
+1577
+01:21:50,480 --> 01:21:53,563
+They say his Lear was
+the toast of Croydon, wherever that is.
+
+1578
+01:21:53,640 --> 01:21:55,722
+Anyway, the point is,
+
+1579
+01:21:55,800 --> 01:21:59,122
+ever since that big dude
+with the hammer fell out of the sky,
+
+1580
+01:21:59,200 --> 01:22:00,521
+subtlety has kind of had its day.
+
+1581
+01:22:01,160 --> 01:22:02,764
+What's next for you in your world?
+
+1582
+01:22:02,840 --> 01:22:05,571
+Well, I wanted to repay you
+the selfsame gift
+
+1583
+01:22:05,640 --> 01:22:07,961
+that you so graciously imparted to me.
+
+1584
+01:22:11,520 --> 01:22:13,090
+(ORBS HUMMING)
+
+1585
+01:22:14,760 --> 01:22:15,761
+Desperation.
+
+1586
+01:22:16,720 --> 01:22:17,767
+Now, this is live.
+
+1587
+01:22:18,040 --> 01:22:21,089
+I'm not sure if you can tell,
+but at this moment
+
+1588
+01:22:21,160 --> 01:22:24,448
+the body is trying to decide
+whether to accept EXTREMIS
+
+1589
+01:22:24,520 --> 01:22:25,601
+or just give up.
+
+1590
+01:22:25,800 --> 01:22:27,529
+And if it gives up,
+
+1591
+01:22:28,320 --> 01:22:32,530
+I have to say,
+the detonation is quite spectacular.
+
+1592
+01:22:33,480 --> 01:22:36,927
+But until that point,
+it's really just a lot of pain.
+
+1593
+01:22:37,120 --> 01:22:38,531
+(CLICKS)
+(HUMMING CEASES)
+
+1594
+01:22:38,720 --> 01:22:41,644
+We haven't even talked salary yet.
+
+1595
+01:22:41,880 --> 01:22:44,201
+What kind of perk package
+are you thinking of?
+
+1596
+01:22:45,080 --> 01:22:46,081
+MAYA: Let him go.
+
+1597
+01:22:47,360 --> 01:22:48,407
+Hold on, hold on.
+
+1598
+01:22:49,360 --> 01:22:50,407
+Maya...
+
+1599
+01:22:50,600 --> 01:22:52,443
+I said, let him go.
+
+1600
+01:22:53,160 --> 01:22:54,605
+What are you doing?
+
+1601
+01:22:54,680 --> 01:22:57,411
+1200 CCs.
+A dose half of this size, I'm dead.
+
+1602
+01:22:58,280 --> 01:23:02,490
+It's times like this my temper
+is tested somewhat.
+
+1603
+01:23:02,560 --> 01:23:03,891
+Maya, give me the injector.
+
+1604
+01:23:03,960 --> 01:23:06,440
+If I die, Killian,
+
+1605
+01:23:06,520 --> 01:23:09,603
+what happens to your soldiers?
+What happens to your product?
+
+1606
+01:23:09,680 --> 01:23:10,920
+We're not doing this, okay?
+
+1607
+01:23:11,120 --> 01:23:13,043
+What happens to you?
+What happens if you go too hot?
+
+1608
+01:23:13,120 --> 01:23:14,326
+(BREATHING DEEPLY)
+
+1609
+01:23:26,240 --> 01:23:27,287
+KILLIAN: The good news is,
+
+1610
+01:23:28,640 --> 01:23:30,881
+a high-level position
+has just been vacated.
+
+1611
+01:23:34,160 --> 01:23:35,207
+(GROANS)
+
+1612
+01:23:37,080 --> 01:23:38,320
+(SIGHS)
+
+1613
+01:23:40,280 --> 01:23:41,566
+You are a maniac.
+
+1614
+01:23:41,640 --> 01:23:43,802
+No, I'm a visionary.
+
+1615
+01:23:44,160 --> 01:23:46,367
+But I do own a maniac.
+
+1616
+01:23:46,440 --> 01:23:49,410
+And he takes the stage tonight.
+
+1617
+01:23:53,120 --> 01:23:54,201
+Once we get the Patriot installed,
+
+1618
+01:23:54,280 --> 01:23:57,250
+it will take me
+nine or 10 minutes for the takedown.
+
+1619
+01:23:57,320 --> 01:23:58,731
+Well, that's great,
+but the last time I looked
+
+1620
+01:23:58,800 --> 01:23:59,961
+there was somebody
+inside of it.
+
+1621
+01:24:00,040 --> 01:24:01,769
+(WHIRRING)
+
+1622
+01:24:06,160 --> 01:24:07,400
+Afternoon, gentlemen.
+
+1623
+01:24:09,360 --> 01:24:10,964
+(WHIRRING CEASES)
+
+1624
+01:24:11,080 --> 01:24:12,605
+Hello, Colonel.
+
+1625
+01:24:13,560 --> 01:24:14,925
+Step aside.
+
+1626
+01:24:17,120 --> 01:24:18,121
+(LOW HUMMING)
+
+1627
+01:24:18,240 --> 01:24:19,241
+(SIZZLING)
+
+1628
+01:24:19,320 --> 01:24:20,970
+(INHALES DEEPLY)
+
+1629
+01:24:21,920 --> 01:24:23,285
+Oh!
+
+1630
+01:24:23,360 --> 01:24:25,124
+We'll get you out of there.
+
+1631
+01:24:25,200 --> 01:24:26,326
+Don't worry.
+
+1632
+01:24:27,040 --> 01:24:28,769
+You'll damage the armour.
+
+1633
+01:24:29,000 --> 01:24:30,411
+Yes, I will.
+
+1634
+01:24:31,000 --> 01:24:32,161
+But you can fix it, right?
+
+1635
+01:24:33,600 --> 01:24:35,728
+I'm gonna take the Chinook
+to base camp.
+
+1636
+01:24:35,840 --> 01:24:37,330
+And I want Potts with me.
+
+1637
+01:24:37,400 --> 01:24:38,401
+She's still in Phase Two.
+
+1638
+01:24:40,440 --> 01:24:41,680
+You're not going deaf, are you?
+
+1639
+01:24:44,120 --> 01:24:46,407
+(GROANING)
+
+1640
+01:24:48,840 --> 01:24:50,763
+(WATCH BEEPING)
+
+1641
+01:24:58,160 --> 01:25:00,686
+Careful, there.
+It's a limited edition.
+
+1642
+01:25:01,080 --> 01:25:02,127
+Hey, uh, Ponytail Express.
+
+1643
+01:25:03,480 --> 01:25:05,323
+What's the mileage count
+between Tennessee and Miami?
+
+1644
+01:25:05,520 --> 01:25:06,521
+832 miles.
+
+1645
+01:25:06,800 --> 01:25:08,131
+Very nice.
+
+1646
+01:25:08,200 --> 01:25:09,880
+- I'm good like that.
+(BEEPING CONTINUES)
+
+1647
+01:25:10,160 --> 01:25:11,605
+Can you, uh, stop that?
+
+1648
+01:25:11,760 --> 01:25:13,250
+Break it, you bought it.
+
+1649
+01:25:15,600 --> 01:25:16,601
+I think I bought it.
+
+1650
+01:25:16,760 --> 01:25:19,206
+Okay, that wasn't mine to give away.
+That belongs to my friend's sister.
+
+1651
+01:25:19,280 --> 01:25:21,647
+And that's why
+I'm gonna kill you first.
+
+1652
+01:25:22,560 --> 01:25:23,846
+- What are you gonna do to me?
+- You'll see.
+
+1653
+01:25:24,080 --> 01:25:25,525
+You're zip-tied to a bed.
+
+1654
+01:25:26,360 --> 01:25:27,885
+This.
+
+1655
+01:25:30,920 --> 01:25:31,967
+That.
+
+1656
+01:25:36,720 --> 01:25:38,370
+Are you coming out?
+
+1657
+01:25:38,960 --> 01:25:40,724
+(RHODEY PANTING)
+
+1658
+01:25:41,080 --> 01:25:42,809
+Do not open. Do not open.
+Don't open. Don't open.
+
+1659
+01:25:42,880 --> 01:25:44,484
+(BEEPING)
+- All right. Let's go.
+
+1660
+01:25:46,160 --> 01:25:48,128
+(GRUNTING)
+
+1661
+01:25:52,520 --> 01:25:54,841
+You... You breathe fire? Okay.
+
+1662
+01:25:55,040 --> 01:25:56,451
+(GROWLING)
+
+1663
+01:25:56,920 --> 01:25:58,001
+(GRUNTING)
+
+1664
+01:25:59,400 --> 01:26:02,131
+It's a glorious day, Savin.
+
+1665
+01:26:02,200 --> 01:26:04,168
+This time tomorrow,
+
+1666
+01:26:04,240 --> 01:26:07,847
+I'll have the West's
+most powerful leader in one hand,
+
+1667
+01:26:07,920 --> 01:26:11,686
+and the world's
+most feared terrorist in the other.
+
+1668
+01:26:11,960 --> 01:26:14,930
+I'll own the war on terror.
+
+1669
+01:26:15,560 --> 01:26:16,971
+Create supply and demand.
+
+1670
+01:26:17,560 --> 01:26:21,406
+For you, for your brothers and sisters.
+
+1671
+01:26:23,640 --> 01:26:25,688
+Trust me,
+you're gonna be in a puddle of blood
+
+1672
+01:26:25,760 --> 01:26:28,206
+on the ground in five, four, three...
+
+1673
+01:26:28,280 --> 01:26:29,566
+Come on! Two...
+
+1674
+01:26:31,280 --> 01:26:32,611
+How did we get this shift?
+
+1675
+01:26:32,760 --> 01:26:34,171
+All right,
+I'm gonna give you a chance to escape.
+
+1676
+01:26:34,600 --> 01:26:36,045
+- Put down your weapons.
+(SIGHING)
+
+1677
+01:26:36,120 --> 01:26:38,487
+Tie yourselves to those chairs.
+I'll let you live.
+
+1678
+01:26:38,560 --> 01:26:40,961
+In five, four, bang!
+
+1679
+01:26:41,120 --> 01:26:42,121
+- Ooh!
+- Wow. That was...
+
+1680
+01:26:42,320 --> 01:26:44,049
+You should be gone by now.
+You should've already been gone.
+
+1681
+01:26:44,160 --> 01:26:45,650
+I am just beyond terrified.
+
+1682
+01:26:45,840 --> 01:26:47,251
+Here it comes.
+
+1683
+01:26:47,560 --> 01:26:49,688
+- Three, four...
+- Shut up.
+
+1684
+01:26:50,000 --> 01:26:51,680
+- Five, four, three, two, one!
+(GRUNTING)
+
+1685
+01:26:52,480 --> 01:26:54,005
+- Told you.
+(GROANS)
+
+1686
+01:27:02,240 --> 01:27:03,321
+(GROANING)
+
+1687
+01:27:05,720 --> 01:27:06,721
+Where's the rest?
+
+1688
+01:27:08,960 --> 01:27:10,450
+(RATTLING)
+
+1689
+01:27:25,160 --> 01:27:26,650
+(REPULSOR POWERING UP)
+
+1690
+01:27:27,240 --> 01:27:28,605
+(CLAMOURING)
+
+1691
+01:27:49,200 --> 01:27:50,440
+(GRUNTING)
+
+1692
+01:27:54,800 --> 01:27:56,040
+(GROANS)
+
+1693
+01:27:59,120 --> 01:28:00,485
+(SCREAMING)
+
+1694
+01:28:05,880 --> 01:28:08,565
+Honestly,
+I hate working here. They are so weird.
+
+1695
+01:28:12,200 --> 01:28:13,486
+(GRUNTING)
+
+1696
+01:28:14,520 --> 01:28:16,329
+Ah! Better late than never.
+
+1697
+01:28:22,040 --> 01:28:24,247
+Not this time.
+Not the face.
+
+1698
+01:28:25,720 --> 01:28:27,643
+Phew! It's good to be back.
+Hello, by the way.
+
+1699
+01:28:27,720 --> 01:28:29,051
+JARVIS: <i>Oh, hello, sir.</i>
+
+1700
+01:28:32,560 --> 01:28:33,641
+(BEEPING)
+
+1701
+01:28:34,280 --> 01:28:36,921
+GUARD: <i>All personnel, Stark is loose
+and somewhere in the compound.</i>
+
+1702
+01:28:37,040 --> 01:28:39,611
+<i>Repeat, Stark is loose
+and somewhere in the compound.</i>
+
+1703
+01:28:39,680 --> 01:28:41,200
+- Ah! Let's go!
+(THRUSTERS MISFIRING)
+
+1704
+01:28:41,320 --> 01:28:42,560
+Aw, crap.
+
+1705
+01:28:42,640 --> 01:28:44,165
+(GROANING)
+
+1706
+01:28:50,360 --> 01:28:52,203
+(GRUNTING)
+
+1707
+01:28:55,360 --> 01:28:56,361
+Tony?
+
+1708
+01:28:56,600 --> 01:28:57,761
+Rhodey, tell me
+that was you in the suit.
+
+1709
+01:28:57,920 --> 01:28:59,922
+- No. You got yours?
+- Uh... Mmm.
+
+1710
+01:29:00,240 --> 01:29:02,129
+Kind of.
+Main house, as fast as you can.
+
+1711
+01:29:02,520 --> 01:29:04,040
+<i>There's somebody I'd like you to meet.</i>
+
+1712
+01:29:04,120 --> 01:29:05,485
+(SNORING)
+
+1713
+01:29:08,920 --> 01:29:11,571
+- You, you, you! Move! Get out!
+(GIRLS WHIMPERING)
+
+1714
+01:29:11,760 --> 01:29:14,161
+The room is secure.
+I have eyes on the Mandarin.
+
+1715
+01:29:14,240 --> 01:29:15,880
+- What's this? I had winners.
+(GUNSHOTS)
+
+1716
+01:29:23,640 --> 01:29:24,766
+What have you come as?
+
+1717
+01:29:25,120 --> 01:29:27,282
+You make a move,
+and I break your face.
+
+1718
+01:29:28,720 --> 01:29:32,247
+I never thought people had been hurt.
+They lied to me.
+
+1719
+01:29:32,640 --> 01:29:33,721
+This is the Mandarin?
+
+1720
+01:29:33,880 --> 01:29:35,803
+Yeah, I know, it's...
+It's embarrassing.
+
+1721
+01:29:36,080 --> 01:29:37,684
+Hi, Trevor. Trevor Slattery.
+
+1722
+01:29:38,000 --> 01:29:40,890
+I know I'm shorter in person.
+A bit smaller. Everyone says that.
+
+1723
+01:29:40,960 --> 01:29:42,849
+But, um, hey,
+if you're here to arrest me,
+
+1724
+01:29:42,960 --> 01:29:44,724
+there's some people I'd like to roll on.
+
+1725
+01:29:44,800 --> 01:29:46,245
+Here's how it works, Meryl Streep.
+
+1726
+01:29:46,320 --> 01:29:48,482
+You tell him where Pepper is
+and he'll stop doing it.
+
+1727
+01:29:48,640 --> 01:29:50,085
+- Doing what?
+(SIZZLING)
+
+1728
+01:29:50,160 --> 01:29:52,367
+Oh! I get it! Ow! That hurt.
+I get it! I get it!
+
+1729
+01:29:52,880 --> 01:29:56,168
+I don't know about any Pepper,
+but I know about the plan.
+
+1730
+01:29:56,240 --> 01:29:57,241
+Spill.
+
+1731
+01:29:57,320 --> 01:29:58,401
+RHODEY: Do you know
+what they did to my suit?
+
+1732
+01:29:58,480 --> 01:29:59,527
+What? No.
+
+1733
+01:29:59,960 --> 01:30:02,088
+But I do know it's happening
+off the coast.
+
+1734
+01:30:02,160 --> 01:30:05,562
+Something to do with a big boat.
+
+1735
+01:30:05,640 --> 01:30:07,005
+I can take you there.
+
+1736
+01:30:07,640 --> 01:30:09,529
+(CHANTING)
+<i>Olé, olé, olé, olé...</i>
+
+1737
+01:30:09,600 --> 01:30:12,604
+Tony, I swear to God,
+I'm gonna blow his face off.
+
+1738
+01:30:12,680 --> 01:30:16,685
+Oh, and this next bit may include
+the vice president as well.
+
+1739
+01:30:17,320 --> 01:30:18,441
+Is that...
+Is that important?
+
+1740
+01:30:18,680 --> 01:30:20,284
+- Somewhat.
+- Yeah, a little bit.
+
+1741
+01:30:23,120 --> 01:30:24,121
+TONY: So?
+
+1742
+01:30:24,680 --> 01:30:26,045
+RHODEY: What are we gonna do?
+
+1743
+01:30:26,120 --> 01:30:27,201
+I mean, we don't have any transport.
+
+1744
+01:30:27,280 --> 01:30:28,281
+- Right.
+(BEER OPENS)
+
+1745
+01:30:30,160 --> 01:30:31,321
+Hey, Ringo.
+
+1746
+01:30:31,400 --> 01:30:34,006
+Didn't you say something
+about a "lovely speedboat"?
+
+1747
+01:30:36,240 --> 01:30:38,720
+If he's right about the location,
+we're 20 minutes from where Pepper is.
+
+1748
+01:30:38,880 --> 01:30:39,927
+But we also have to figure out this
+
+1749
+01:30:40,000 --> 01:30:41,764
+- vice president thing, right?
+- Right.
+
+1750
+01:30:41,840 --> 01:30:43,080
+I wonder who I'm calling right now.
+
+1751
+01:30:43,160 --> 01:30:44,360
+Oh! That's the vice president.
+
+1752
+01:30:44,400 --> 01:30:45,686
+Thanks.
+
+1753
+01:30:46,320 --> 01:30:47,446
+Hello?
+
+1754
+01:30:47,520 --> 01:30:49,204
+TONY: <i>Sir, this is Tony Stark.</i>
+
+1755
+01:30:49,520 --> 01:30:51,170
+Welcome back to the land of the living.
+
+1756
+01:30:51,320 --> 01:30:53,527
+We believe you're about to be drawn
+into the Mandarin campaign.
+
+1757
+01:30:53,600 --> 01:30:55,125
+We gotta get you somewhere safe
+as soon as possible.
+
+1758
+01:30:55,520 --> 01:30:57,921
+Mr Stark, I'm about
+to eat honey-roast ham,
+
+1759
+01:30:58,000 --> 01:31:00,241
+surrounded by the Agency's finest.
+
+1760
+01:31:00,320 --> 01:31:03,642
+The president's safe on Air Force One
+with Colonel Rhodes.
+
+1761
+01:31:03,720 --> 01:31:04,767
+I think we're good, here.
+
+1762
+01:31:04,840 --> 01:31:06,842
+RHODEY: <i>Sir, this is Colonel Rhodes.</i>
+
+1763
+01:31:07,200 --> 01:31:09,120
+They're using the Iron Patriot
+as a Trojan horse.
+
+1764
+01:31:09,200 --> 01:31:10,565
+<i>They're gonna take out
+the president somehow.</i>
+
+1765
+01:31:10,840 --> 01:31:12,401
+We have to immediately
+alert that plane.
+
+1766
+01:31:12,560 --> 01:31:14,608
+Okay, I'm on it.
+I'll have security lock it down.
+
+1767
+01:31:14,680 --> 01:31:17,604
+If need be, they can have
+F-22s in the air in 30 seconds.
+
+1768
+01:31:17,760 --> 01:31:19,520
+- Thank you, Colonel.
+- Rhodes and Stark out.
+
+1769
+01:31:21,120 --> 01:31:22,804
+Everything okay, sir?
+
+1770
+01:31:23,800 --> 01:31:24,881
+Couldn't be better.
+
+1771
+01:31:31,760 --> 01:31:33,250
+I love you, babe.
+
+1772
+01:31:53,840 --> 01:31:55,365
+Colonel Rhodes.
+
+1773
+01:31:55,440 --> 01:31:58,762
+Glad to see you could make it, son.
+I feel safer already.
+
+1774
+01:32:03,600 --> 01:32:04,726
+RHODEY:
+We gotta make a decision.
+
+1775
+01:32:04,800 --> 01:32:07,610
+We can either save the president,
+or Pepper. We can't do both.
+
+1776
+01:32:07,760 --> 01:32:09,410
+JARVIS: <i>Sir,
+I have an update from Malibu.</i>
+
+1777
+01:32:09,480 --> 01:32:11,608
+<i>The cranes have finally arrived,</i>
+
+1778
+01:32:11,760 --> 01:32:13,760
+<i>and the cellar doors
+are being cleared as we speak.</i>
+
+1779
+01:32:13,840 --> 01:32:15,524
+TONY: And what about
+the suit I'm wearing?
+
+1780
+01:32:15,680 --> 01:32:17,967
+JARVIS: <i>The armour is now at 92%.</i>
+
+1781
+01:32:18,040 --> 01:32:20,122
+That's going to have to do.
+
+1782
+01:32:28,400 --> 01:32:30,243
+Oh! Here he comes.
+Here he comes. Get a quick picture.
+
+1783
+01:32:30,320 --> 01:32:31,367
+Sure.
+
+1784
+01:32:32,440 --> 01:32:33,805
+Oh!
+
+1785
+01:32:36,960 --> 01:32:39,122
+(SIZZLING)
+
+1786
+01:32:47,240 --> 01:32:48,605
+(BEEPING)
+
+1787
+01:32:48,680 --> 01:32:49,880
+Everything all right, Colonel?
+
+1788
+01:32:55,440 --> 01:32:56,441
+(GRUNTING)
+
+1789
+01:33:04,960 --> 01:33:06,405
+(GROANS)
+
+1790
+01:33:07,800 --> 01:33:09,006
+(GROANING)
+
+1791
+01:33:12,920 --> 01:33:13,921
+(SCREAMING)
+
+1792
+01:33:19,600 --> 01:33:20,647
+(GASPS)
+
+1793
+01:33:22,680 --> 01:33:24,728
+It is an honour, Mr President.
+
+1794
+01:33:25,120 --> 01:33:27,122
+If you're gonna do it, do it!
+
+1795
+01:33:27,680 --> 01:33:29,444
+Whoa! Cool your boots, sir.
+
+1796
+01:33:29,520 --> 01:33:31,045
+That's not how the Mandarin works.
+
+1797
+01:33:31,200 --> 01:33:33,601
+Sir, Air Force One
+has been compromised.
+
+1798
+01:33:33,680 --> 01:33:35,603
+Internal shots, temperature spikes.
+
+1799
+01:33:35,680 --> 01:33:36,886
+Get me eyes on it now.
+
+1800
+01:33:37,240 --> 01:33:39,163
+Image coming through now, sir.
+
+1801
+01:33:41,560 --> 01:33:43,369
+Was that Rhodes?
+
+1802
+01:33:52,520 --> 01:33:53,885
+(BANGING)
+MAN: - Is anyone there?
+
+1803
+01:33:54,200 --> 01:33:55,884
+WOMAN: Let us out!
+
+1804
+01:34:02,160 --> 01:34:03,605
+(GROANING)
+
+1805
+01:34:11,240 --> 01:34:12,241
+(GRUNTS)
+
+1806
+01:34:12,360 --> 01:34:13,850
+TONY: The President.
+
+1807
+01:34:14,360 --> 01:34:15,566
+Now.
+
+1808
+01:34:15,640 --> 01:34:16,641
+He's not here.
+
+1809
+01:34:18,240 --> 01:34:19,571
+(ELECTRICAL CRACKLING)
+(MECHANISMS GRINDING)
+
+1810
+01:34:19,640 --> 01:34:20,687
+(GROANING SOFTLY)
+
+1811
+01:34:20,800 --> 01:34:22,529
+Try the jet stream?
+
+1812
+01:34:23,720 --> 01:34:25,563
+Speaking of which, go fish.
+
+1813
+01:34:28,280 --> 01:34:29,520
+(PEOPLE SCREAMING)
+
+1814
+01:34:30,760 --> 01:34:31,761
+(SCREAMS)
+
+1815
+01:34:34,680 --> 01:34:37,251
+(ALL SCREAMING)
+
+1816
+01:34:40,680 --> 01:34:41,920
+(METAL CREAKING)
+
+1817
+01:34:42,880 --> 01:34:44,291
+(POWERING UP)
+(TONY GRUNTING)
+
+1818
+01:34:47,080 --> 01:34:48,206
+(COUGHS)
+
+1819
+01:34:48,320 --> 01:34:50,288
+Walk away from that, you son of a bitch.
+
+1820
+01:34:52,920 --> 01:34:54,604
+(ALL SCREAMING)
+
+1821
+01:34:59,760 --> 01:35:01,250
+(SCREAMING)
+
+1822
+01:35:03,280 --> 01:35:04,281
+How many in the air?
+
+1823
+01:35:04,960 --> 01:35:06,007
+JARVIS: <i>Thirteen, sir.</i>
+
+1824
+01:35:07,920 --> 01:35:09,968
+- How many can I carry?
+JARVIS: - Four, sir.
+
+1825
+01:35:19,320 --> 01:35:21,561
+Slow down. Slow down, relax.
+What's your name? Heather?
+
+1826
+01:35:21,640 --> 01:35:22,926
+(SCREAMING)
+
+1827
+01:35:25,240 --> 01:35:26,890
+(SHRIEKING)
+
+1828
+01:35:28,040 --> 01:35:30,611
+HEATHER: Oh, God! No! No!
+
+1829
+01:35:31,040 --> 01:35:33,441
+TONY: Listen to me.
+See that guy?
+
+1830
+01:35:33,640 --> 01:35:35,481
+I'm gonna swing by,
+you're just gonna grab him.
+
+1831
+01:35:35,920 --> 01:35:37,046
+- You got it?
+- What? Oh!
+
+1832
+01:35:38,080 --> 01:35:39,445
+(HEATHER RESUMES SCREAMING)
+
+1833
+01:35:39,560 --> 01:35:42,882
+I'll electrify your arm,
+you won't be able to open your hand.
+
+1834
+01:35:44,120 --> 01:35:45,326
+We can do this, Heather.
+
+1835
+01:35:45,400 --> 01:35:46,640
+(HEATHER WHIMPERING)
+
+1836
+01:35:54,200 --> 01:35:56,441
+Easy, see? Eleven more to go.
+
+1837
+01:35:58,360 --> 01:35:59,771
+(SCREAMING)
+
+1838
+01:35:59,880 --> 01:36:01,928
+Remember that game
+called Barrel of Monkeys?
+
+1839
+01:36:02,000 --> 01:36:03,081
+That's what we're going to do.
+
+1840
+01:36:03,160 --> 01:36:04,446
+JARVIS: <i>18,000 feet.</i>
+
+1841
+01:36:04,520 --> 01:36:06,280
+Come on, people.
+Everybody, grab your monkey.
+
+1842
+01:36:10,960 --> 01:36:12,246
+Nice.
+
+1843
+01:36:12,600 --> 01:36:14,250
+JARVIS: <i>10,000 feet.</i>
+
+1844
+01:36:14,920 --> 01:36:16,445
+(YELLING)
+
+1845
+01:36:17,600 --> 01:36:18,840
+<i>6,000 feet.</i>
+
+1846
+01:36:19,040 --> 01:36:20,565
+Come on, people.
+
+1847
+01:36:21,520 --> 01:36:22,726
+Come on, come on, come on!
+
+1848
+01:36:26,040 --> 01:36:27,166
+Yeah!
+
+1849
+01:36:27,680 --> 01:36:29,091
+JARVIS: <i>1,000 feet.</i>
+
+1850
+01:36:30,240 --> 01:36:31,844
+<i>400 feet.</i>
+
+1851
+01:36:32,400 --> 01:36:33,640
+<i>200 feet, sir.</i>
+
+1852
+01:36:33,720 --> 01:36:35,360
+TONY: He's a chunky monkey,
+let's get him.
+
+1853
+01:36:35,880 --> 01:36:37,041
+Hello.
+
+1854
+01:36:37,880 --> 01:36:39,166
+(TONY STRAINING)
+
+1855
+01:36:56,640 --> 01:36:58,324
+(PASSENGERS CHEERING)
+
+1856
+01:36:58,400 --> 01:36:59,481
+MAN: We made it!
+
+1857
+01:37:00,240 --> 01:37:01,685
+Nice work, guys!
+
+1858
+01:37:01,760 --> 01:37:04,411
+Excellent.
+Good team effort all around. Go us.
+
+1859
+01:37:04,680 --> 01:37:05,761
+All right, Jarvis.
+
+1860
+01:37:05,880 --> 01:37:08,121
+But it's only half-done.
+We've still got to get Pepper...
+
+1861
+01:37:15,280 --> 01:37:16,884
+(SIGHING)
+That came out of nowhere.
+
+1862
+01:37:16,960 --> 01:37:18,166
+Wow.
+
+1863
+01:37:18,600 --> 01:37:19,726
+Give me some good news, man.
+
+1864
+01:37:19,800 --> 01:37:20,801
+I think they all made it.
+
+1865
+01:37:20,880 --> 01:37:21,847
+Oh, thank God.
+
+1866
+01:37:21,920 --> 01:37:23,241
+Yeah, but I missed the president.
+
+1867
+01:37:23,440 --> 01:37:25,283
+You couldn't save the president
+with the suit,
+
+1868
+01:37:25,400 --> 01:37:27,528
+how are we gonna save Pepper
+with nothing?
+
+1869
+01:37:27,600 --> 01:37:29,648
+Uh... Say, Jarvis,
+is it that time?
+
+1870
+01:37:29,720 --> 01:37:31,643
+<i>The House Party protocol sir?</i>
+
+1871
+01:37:31,720 --> 01:37:32,767
+Correct.
+
+1872
+01:38:00,800 --> 01:38:02,325
+(GASPS)
+
+1873
+01:38:03,120 --> 01:38:04,485
+Hi.
+
+1874
+01:38:06,960 --> 01:38:08,086
+(BREATHING HEAVILY)
+
+1875
+01:38:11,960 --> 01:38:14,327
+You think he's gonna help you?
+
+1876
+01:38:14,960 --> 01:38:16,405
+He won't.
+
+1877
+01:38:20,840 --> 01:38:24,765
+Having you here is not
+just to motivate Tony Stark. It's, um...
+
+1878
+01:38:25,240 --> 01:38:27,971
+Well, it's actually
+more embarrassing than that.
+
+1879
+01:38:28,040 --> 01:38:30,247
+You're here as my, um...
+
+1880
+01:38:31,160 --> 01:38:33,003
+Trophy.
+
+1881
+01:38:33,120 --> 01:38:35,168
+(CHUCKLES) Mmm.
+
+1882
+01:38:45,280 --> 01:38:46,566
+Good evening, sir.
+
+1883
+01:38:49,240 --> 01:38:50,605
+(GASPS)
+
+1884
+01:38:51,160 --> 01:38:53,925
+Welcome aboard, Mr President.
+
+1885
+01:39:02,440 --> 01:39:04,160
+KILLIAN: Ever hear
+of an elephant graveyard?
+
+1886
+01:39:04,200 --> 01:39:08,922
+Well, two years ago,
+the elephant in the room was this scow.
+
+1887
+01:39:11,240 --> 01:39:12,366
+This is the <i>Roxxon Norco.</i>
+
+1888
+01:39:12,600 --> 01:39:13,601
+And, of course, you'll remember
+
+1889
+01:39:13,680 --> 01:39:16,365
+that when she spilled a million gallons
+of crude off Pensacola,
+
+1890
+01:39:16,600 --> 01:39:19,365
+thanks to you,
+not one fat cat saw a day in court.
+
+1891
+01:39:19,800 --> 01:39:21,529
+What do you want from me?
+
+1892
+01:39:22,480 --> 01:39:23,766
+Uh, nothing, sir.
+
+1893
+01:39:24,120 --> 01:39:27,602
+I just needed a reason to kill you
+that would play well on TV.
+
+1894
+01:39:27,680 --> 01:39:29,728
+You see, I've moved on.
+
+1895
+01:39:29,800 --> 01:39:32,167
+I found myself
+a new political patron,
+
+1896
+01:39:32,600 --> 01:39:35,410
+and this time tomorrow,
+he'll have your job.
+
+1897
+01:39:36,400 --> 01:39:38,243
+String him up.
+
+1898
+01:39:39,720 --> 01:39:40,881
+Hey!
+
+1899
+01:39:47,720 --> 01:39:49,768
+(MEN SHOUTING INDISTINCTLY)
+
+1900
+01:39:57,000 --> 01:39:58,604
+Come on.
+
+1901
+01:40:02,120 --> 01:40:04,043
+You're not gonna freak out on me,
+right?
+
+1902
+01:40:04,120 --> 01:40:05,849
+TONY: I hope not.
+
+1903
+01:40:30,480 --> 01:40:32,323
+Oh, my God.
+
+1904
+01:40:32,440 --> 01:40:36,081
+(SIGHS) He's strung up over the oil
+tanker. They're gonna light him up, man.
+
+1905
+01:40:36,160 --> 01:40:38,766
+Viking funeral.
+Public execution.
+
+1906
+01:40:38,840 --> 01:40:40,604
+Yeah, death by oil.
+
+1907
+01:40:46,800 --> 01:40:48,643
+ANNOUNCER: (ON PA)
+<i>Broadcast will commence shortly.</i>
+
+1908
+01:40:48,720 --> 01:40:49,846
+<i>Take final positions.</i>
+
+1909
+01:40:51,280 --> 01:40:52,441
+Okay. That's good.
+
+1910
+01:40:52,520 --> 01:40:56,366
+Now give me cameras A through E
+and we'll do a full tech rehearsal.
+
+1911
+01:40:56,440 --> 01:40:57,441
+(TECHNICIAN TYPING)
+
+1912
+01:40:57,520 --> 01:40:58,760
+Is your gun up?
+
+1913
+01:40:58,840 --> 01:41:00,444
+Yep. What do I do?
+
+1914
+01:41:00,520 --> 01:41:02,966
+Stay on my six, cover high
+and don't shoot me in the back.
+
+1915
+01:41:03,160 --> 01:41:05,322
+Six, high, back. All right.
+
+1916
+01:41:05,640 --> 01:41:06,971
+(GUNFIRE)
+
+1917
+01:41:11,480 --> 01:41:13,050
+(BULLETS RICOCHETING)
+
+1918
+01:41:14,240 --> 01:41:15,526
+You see that? Nailed it.
+
+1919
+01:41:16,160 --> 01:41:17,521
+Yeah, you really killed the glass.
+
+1920
+01:41:17,560 --> 01:41:18,641
+You think I was aiming for the bulb?
+
+1921
+01:41:18,760 --> 01:41:20,280
+You can't hit a bulb at this distance.
+
+1922
+01:41:21,440 --> 01:41:22,930
+ANNOUNCER: (ON PA)
+<i>All personnel, we have hostiles</i>
+
+1923
+01:41:23,000 --> 01:41:24,001
+<i>- on east unit 12.</i>
+MAN: - Over there!
+
+1924
+01:41:24,240 --> 01:41:25,844
+<i>- I repeat, hostiles on east unit 12.</i>
+- I'm out. Give me...
+
+1925
+01:41:25,920 --> 01:41:28,207
+- You got extra magazines?
+- They're not universal, Tony.
+
+1926
+01:41:28,360 --> 01:41:30,408
+I know what I'm doing, I make this stuff.
+Give me another one.
+
+1927
+01:41:30,520 --> 01:41:31,806
+- One of yours.
+- I don't have one that fits that gun.
+
+1928
+01:41:31,880 --> 01:41:32,961
+You've got, like, five of them.
+
+1929
+01:41:33,040 --> 01:41:34,246
+Here's what I'm going to do.
+
+1930
+01:41:34,440 --> 01:41:36,283
+Save my spot, ready?
+
+1931
+01:41:36,400 --> 01:41:39,165
+- What'd you see?
+- Too fast. Nothing.
+
+1932
+01:41:39,280 --> 01:41:40,566
+Here we go. (CLEARS THROAT)
+
+1933
+01:41:41,920 --> 01:41:43,251
+(MEN GRUNTING)
+
+1934
+01:41:44,520 --> 01:41:46,363
+Three guys, one girl, all armed.
+
+1935
+01:41:56,440 --> 01:41:58,010
+God, I would kill
+for some armour right now.
+
+1936
+01:41:58,080 --> 01:42:00,048
+- You're right. We need backup.
+- Yeah, a bunch.
+
+1937
+01:42:01,680 --> 01:42:02,841
+You know what?
+
+1938
+01:42:06,800 --> 01:42:07,881
+(WHOOSHING)
+RHODEY: - Is that...
+
+1939
+01:42:08,040 --> 01:42:09,849
+Yep.
+
+1940
+01:42:09,920 --> 01:42:11,524
+- Are those...
+- Yeah.
+
+1941
+01:42:28,240 --> 01:42:29,480
+Merry Christmas, buddy.
+
+1942
+01:42:34,800 --> 01:42:37,485
+TONY: Jarvis, target
+EXTREMIS heat signatures.
+
+1943
+01:42:37,560 --> 01:42:39,403
+Disable with extreme prejudice.
+
+1944
+01:42:39,920 --> 01:42:41,281
+JARVIS: (THROUGH ARMOURS)
+<i>Yes, sir.</i>
+
+1945
+01:42:44,920 --> 01:42:47,810
+What are you waiting for?
+It's Christmas.
+
+1946
+01:42:49,280 --> 01:42:50,327
+Take them to church.
+
+1947
+01:42:51,920 --> 01:42:53,251
+(SCREAMING)
+
+1948
+01:42:57,440 --> 01:42:59,090
+JARVIS: <i>Gentlemen.</i>
+
+1949
+01:42:59,200 --> 01:43:00,440
+(GRUNTING)
+(SCREAMING)
+
+1950
+01:43:02,760 --> 01:43:04,091
+(ALL GRUNTING)
+
+1951
+01:43:05,080 --> 01:43:06,081
+(SCREAMS)
+
+1952
+01:43:06,360 --> 01:43:07,361
+TONY: Incoming!
+
+1953
+01:43:11,960 --> 01:43:13,610
+Jarvis, get Igor to steady this thing.
+
+1954
+01:43:21,760 --> 01:43:23,603
+(MECHANISMS WHIRRING)
+
+1955
+01:43:26,600 --> 01:43:28,680
+This is how you've been managing
+your down time, huh?
+
+1956
+01:43:28,720 --> 01:43:29,801
+Everybody needs a hobby.
+
+1957
+01:43:36,280 --> 01:43:38,040
+Heartbreaker, help Red Snapper out,
+will you?
+
+1958
+01:43:53,480 --> 01:43:54,766
+(GASPS)
+
+1959
+01:44:06,240 --> 01:44:07,844
+TONY: Nice timing.
+
+1960
+01:44:07,920 --> 01:44:10,127
+Oh, yeah. That's awesome.
+Give me a suit, okay?
+
+1961
+01:44:11,480 --> 01:44:13,244
+Oh, I'm sorry,
+they're only coded to me.
+
+1962
+01:44:13,680 --> 01:44:15,603
+What does that mean?
+I got you covered.
+
+1963
+01:44:18,880 --> 01:44:21,247
+JARVIS: <i>Good evening, Colonel.
+Can I give you</i> a <i>lift?</i>
+
+1964
+01:44:21,320 --> 01:44:22,810
+Very funny.
+
+1965
+01:44:25,800 --> 01:44:27,040
+(GRUNTING)
+
+1966
+01:44:30,840 --> 01:44:32,808
+(PANTING)
+
+1967
+01:44:37,560 --> 01:44:38,846
+(BOTH SCREAM)
+
+1968
+01:44:39,840 --> 01:44:41,171
+JARVIS: <i>Sir, I've located Ms Potts.</i>
+
+1969
+01:44:41,240 --> 01:44:42,241
+About time.
+
+1970
+01:44:54,800 --> 01:44:59,727
+(GASPS) Stop!
+Put it down. Put it down. Put it down.
+
+1971
+01:45:00,760 --> 01:45:04,401
+See what happens when you hang out
+with my ex-girlfriends?
+
+1972
+01:45:05,560 --> 01:45:06,800
+You're such a jerk.
+
+1973
+01:45:06,960 --> 01:45:08,440
+Yep. We'll talk about it over dinner.
+
+1974
+01:45:08,760 --> 01:45:10,250
+(METAL CREAKING)
+(SOBBING)
+
+1975
+01:45:10,800 --> 01:45:12,040
+Come on. A little more, baby.
+
+1976
+01:45:15,440 --> 01:45:16,441
+(PEPPER STRAINING)
+
+1977
+01:45:19,560 --> 01:45:21,244
+(TONY GRUNTING)
+- Oh!
+
+1978
+01:45:22,320 --> 01:45:23,560
+(GROANS)
+
+1979
+01:45:28,560 --> 01:45:29,607
+Is this guy bothering you?
+
+1980
+01:45:31,400 --> 01:45:32,811
+Don't get up.
+
+1981
+01:45:35,960 --> 01:45:36,961
+Ooh.
+
+1982
+01:45:37,400 --> 01:45:38,561
+Is it hot in there?
+
+1983
+01:45:38,760 --> 01:45:40,762
+(SIZZLING)
+
+1984
+01:45:40,840 --> 01:45:42,201
+Stuck? Do you feel a little stuck?
+
+1985
+01:45:43,280 --> 01:45:46,602
+Like a little turtle,
+cooking in his little turtle suit.
+
+1986
+01:45:46,920 --> 01:45:47,921
+Oh, Tony.
+
+1987
+01:45:48,000 --> 01:45:50,002
+(GRUNTS)
+- She's watching.
+
+1988
+01:45:51,680 --> 01:45:53,080
+I think you should close your eyes.
+
+1989
+01:45:53,440 --> 01:45:54,930
+Close your eyes.
+
+1990
+01:45:55,600 --> 01:45:57,762
+Close your eyes.
+You don't want to see this.
+
+1991
+01:46:01,480 --> 01:46:02,766
+(GROANING)
+
+1992
+01:46:05,120 --> 01:46:06,929
+- Yeah, you take a minute.
+(GROANS)
+
+1993
+01:46:07,120 --> 01:46:08,485
+(SIZZLING)
+(METAL CREAKING)
+
+1994
+01:46:09,120 --> 01:46:10,610
+(YELLING)
+
+1995
+01:46:14,880 --> 01:46:16,006
+(SCREAMS)
+
+1996
+01:46:20,440 --> 01:46:21,566
+(GRUNTS)
+
+1997
+01:46:23,720 --> 01:46:25,006
+(PEPPER WHIMPERING)
+
+1998
+01:46:39,320 --> 01:46:41,561
+Jarvis, give me a suit right now!
+
+1999
+01:46:41,840 --> 01:46:42,887
+(GRUNTS)
+
+2000
+01:46:52,560 --> 01:46:53,561
+Oh, come on!
+
+2001
+01:46:55,480 --> 01:46:58,723
+Mr President!
+Just hold on, all right? I'm coming.
+
+2002
+01:46:59,640 --> 01:47:02,007
+Just hold on. Hold on.
+
+2003
+01:47:03,240 --> 01:47:04,287
+(GRUNTING)
+
+2004
+01:47:09,520 --> 01:47:11,010
+(GROANING)
+
+2005
+01:47:12,000 --> 01:47:13,889
+(GROWLING)
+
+2006
+01:47:14,880 --> 01:47:16,245
+Okay.
+
+2007
+01:47:20,120 --> 01:47:21,121
+(GRUNTS)
+
+2008
+01:47:23,720 --> 01:47:25,051
+Bye-bye.
+
+2009
+01:47:26,000 --> 01:47:27,001
+(BOTH SCREAMING)
+
+2010
+01:47:36,760 --> 01:47:37,921
+Brace yourself.
+
+2011
+01:47:39,880 --> 01:47:41,041
+(YELLING)
+
+2012
+01:47:48,880 --> 01:47:50,769
+You look damn good, Mr President,
+
+2013
+01:47:50,920 --> 01:47:52,410
+but I'm gonna need that suit back.
+
+2014
+01:47:56,960 --> 01:47:58,041
+(GASPING)
+
+2015
+01:47:58,840 --> 01:48:00,285
+(PANTING)
+
+2016
+01:48:01,560 --> 01:48:03,244
+(YELLS)
+
+2017
+01:48:03,360 --> 01:48:04,600
+(GRUNTS)
+
+2018
+01:48:06,000 --> 01:48:07,126
+RHODEY: <i>The President
+is secure, Tony</i>
+
+2019
+01:48:07,200 --> 01:48:08,640
+<i>- I'm clearing the area.</i>
+- Nice work.
+
+2020
+01:48:09,640 --> 01:48:11,324
+- Ready, sir?
+- What do you mean "ready"?
+
+2021
+01:48:11,400 --> 01:48:12,447
+(SCREAMS)
+
+2022
+01:48:17,560 --> 01:48:18,846
+(PEPPER WHIMPERING)
+
+2023
+01:48:20,080 --> 01:48:22,845
+TONY: Pep, I got you.
+Relax, I got you.
+
+2024
+01:48:22,920 --> 01:48:24,041
+(SCREAMS)
+- Just look at me!
+
+2025
+01:48:24,080 --> 01:48:25,286
+(PEPPER GROANS)
+
+2026
+01:48:26,400 --> 01:48:28,681
+Honey, I can't reach any
+further and you can't stay there.
+
+2027
+01:48:28,760 --> 01:48:30,205
+All right?
+You've got to let go.
+
+2028
+01:48:30,680 --> 01:48:33,763
+You've got to let go!
+I'll catch you, I promise.
+
+2029
+01:48:35,520 --> 01:48:37,170
+(YELLS)
+- No!
+
+2030
+01:48:37,840 --> 01:48:39,365
+(SCREAMING)
+
+2031
+01:49:03,960 --> 01:49:07,089
+A shame. I would've caught her.
+
+2032
+01:49:25,280 --> 01:49:26,645
+(BOTH GRUNTING)
+
+2033
+01:49:31,000 --> 01:49:32,047
+(GROANS)
+
+2034
+01:49:36,840 --> 01:49:38,046
+(GRUNTS)
+
+2035
+01:49:38,160 --> 01:49:39,241
+Eject.
+
+2036
+01:50:05,840 --> 01:50:06,921
+(GRUNTING)
+
+2037
+01:50:22,040 --> 01:50:23,080
+(POWERING UP)
+(CRACKLING)
+
+2038
+01:50:23,160 --> 01:50:24,207
+(GROANS)
+
+2039
+01:50:24,680 --> 01:50:26,250
+Well, here we are on the roof.
+
+2040
+01:50:36,960 --> 01:50:38,041
+JARVIS: <i>Mark 42, inbound.</i>
+
+2041
+01:50:38,200 --> 01:50:41,568
+I'll be damned.
+The prodigal son returns.
+
+2042
+01:50:57,520 --> 01:50:58,521
+Whatever.
+
+2043
+01:50:59,720 --> 01:51:01,245
+You really didn't deserve her, Tony.
+
+2044
+01:51:02,880 --> 01:51:06,601
+It's a pity.
+I was so close to having her perfect.
+
+2045
+01:51:09,400 --> 01:51:11,767
+Okay, okay, wait, wait, wait!
+Slow down! Slow down!
+
+2046
+01:51:11,920 --> 01:51:14,207
+You're right. I don't deserve her.
+
+2047
+01:51:15,600 --> 01:51:17,523
+Here's where you're wrong.
+
+2048
+01:51:17,600 --> 01:51:18,806
+She was already perfect.
+
+2049
+01:51:24,520 --> 01:51:26,522
+(STRAINING)
+(MECHANICAL CLANKING)
+
+2050
+01:51:26,600 --> 01:51:28,204
+Jarvis,
+
+2051
+01:51:29,280 --> 01:51:30,770
+do me a favour and blow Mark 42.
+
+2052
+01:51:31,200 --> 01:51:32,281
+No...
+
+2053
+01:51:40,040 --> 01:51:41,485
+(SCREAMING)
+
+2054
+01:51:42,200 --> 01:51:43,440
+(GRUNTING)
+
+2055
+01:51:56,760 --> 01:51:58,000
+(GROANS)
+
+2056
+01:52:00,640 --> 01:52:02,005
+(GRUNTS)
+
+2057
+01:52:28,440 --> 01:52:29,726
+(SCOFFS)
+
+2058
+01:52:29,880 --> 01:52:31,405
+(METAL CREAKING)
+
+2059
+01:52:33,000 --> 01:52:34,286
+(GROANING)
+
+2060
+01:52:46,200 --> 01:52:48,328
+No more false faces.
+
+2061
+01:52:49,160 --> 01:52:50,969
+You said you wanted the Mandarin.
+
+2062
+01:52:52,160 --> 01:52:54,845
+You're looking right at him.
+
+2063
+01:52:55,200 --> 01:52:58,204
+It was always me, Tony.
+Right from the start.
+
+2064
+01:52:58,680 --> 01:53:00,364
+I am the Mandarin!
+
+2065
+01:53:03,600 --> 01:53:05,648
+(BREATHING HARD)
+
+2066
+01:53:11,800 --> 01:53:13,040
+I got nothing.
+
+2067
+01:53:15,520 --> 01:53:17,170
+(GRUNTING)
+
+2068
+01:53:19,880 --> 01:53:22,645
+Jarvis, subject at my 12 o'clock
+is not a target, disengage!
+
+2069
+01:53:24,440 --> 01:53:25,601
+(REPULSOR POWERING UP)
+
+2070
+01:53:29,360 --> 01:53:30,361
+(GROWLS)
+
+2071
+01:53:30,880 --> 01:53:32,803
+What?
+Oh, what, are you mad at me?
+
+2072
+01:53:34,240 --> 01:53:35,571
+(GRUNTING)
+
+2073
+01:53:42,040 --> 01:53:43,371
+(BOTH GRUNTING)
+
+2074
+01:53:44,080 --> 01:53:45,081
+Whoo!
+
+2075
+01:53:56,240 --> 01:53:58,811
+(PANTING)
+
+2076
+01:53:58,920 --> 01:54:00,126
+TONY: Honey?
+
+2077
+01:54:04,360 --> 01:54:06,044
+Oh, my God.
+
+2078
+01:54:07,600 --> 01:54:09,807
+That was really violent.
+
+2079
+01:54:10,800 --> 01:54:12,802
+You just scared the devil out of me.
+I thought you were...
+
+2080
+01:54:12,960 --> 01:54:15,008
+I was dead.
+Why? Because I fell 200 feet?
+
+2081
+01:54:18,480 --> 01:54:20,164
+Who's the hot mess now?
+
+2082
+01:54:20,320 --> 01:54:22,402
+It's still debatable.
+
+2083
+01:54:22,960 --> 01:54:24,246
+Probably tipping your way a little bit.
+
+2084
+01:54:24,320 --> 01:54:26,368
+Why don't you dress
+like this at home? Hmm?
+
+2085
+01:54:26,440 --> 01:54:28,363
+Sport bra. The whole deal.
+
+2086
+01:54:28,440 --> 01:54:31,649
+You know, I think I understand
+why you don't want to give up the suits.
+
+2087
+01:54:31,840 --> 01:54:34,366
+What am I going to complain
+about now?
+
+2088
+01:54:35,200 --> 01:54:36,850
+Well, it's me.
+
+2089
+01:54:37,640 --> 01:54:38,687
+You'll think of something.
+
+2090
+01:54:40,240 --> 01:54:41,651
+- No, don't touch me.
+- Don't worry about it.
+
+2091
+01:54:41,720 --> 01:54:43,643
+- No, I'm gonna burn you.
+- No, you're not.
+
+2092
+01:54:44,680 --> 01:54:45,681
+Not hot.
+
+2093
+01:54:47,080 --> 01:54:48,764
+Am I gonna be okay?
+
+2094
+01:54:48,840 --> 01:54:49,841
+No.
+
+2095
+01:54:49,920 --> 01:54:52,651
+You're in a relationship with me.
+Everything will never be okay.
+
+2096
+01:54:52,920 --> 01:54:54,763
+But I think I can figure this out, yeah.
+
+2097
+01:54:55,000 --> 01:54:56,729
+I almost had this 20 years ago
+when I was drunk.
+
+2098
+01:54:56,800 --> 01:54:59,929
+I think I can get you better.
+
+2099
+01:55:00,560 --> 01:55:03,086
+That's what I do. I fix stuff.
+
+2100
+01:55:03,160 --> 01:55:05,447
+And all your distractions?
+
+2101
+01:55:06,000 --> 01:55:08,082
+Uh... I'm going to shave them down
+a little bit.
+
+2102
+01:55:08,320 --> 01:55:10,687
+Jarvis. Hey.
+
+2103
+01:55:10,760 --> 01:55:14,082
+JARVIS: <i>All wrapped up here, sir.
+Will there be anything else?</i>
+
+2104
+01:55:14,320 --> 01:55:16,288
+You know what to do.
+
+2105
+01:55:16,360 --> 01:55:19,125
+<i>The Clean Slate Protocol, sir?</i>
+
+2106
+01:55:19,200 --> 01:55:22,363
+Screw it, it's Christmas.
+Yes, yes.
+
+2107
+01:55:54,640 --> 01:55:56,165
+(KISSES)
+
+2108
+01:55:58,680 --> 01:55:59,966
+Okay, so far?
+Do you like it?
+
+2109
+01:56:00,040 --> 01:56:01,087
+(SIGHS)
+
+2110
+01:56:02,520 --> 01:56:03,567
+It'll do.
+
+2111
+01:56:12,640 --> 01:56:15,325
+TONY: <i>And so,
+as Christmas morning began,</i>
+
+2112
+01:56:15,400 --> 01:56:18,085
+<i>my journey had reached its end.</i>
+
+2113
+01:56:21,520 --> 01:56:23,522
+<i>You start with something pure,</i>
+
+2114
+01:56:24,520 --> 01:56:28,764
+<i>something exciting.
+Then, come the mistakes.</i>
+
+2115
+01:56:29,920 --> 01:56:31,570
+<i>The compromises.</i>
+
+2116
+01:56:38,120 --> 01:56:40,851
+<i>- We create our own demons.</i>
+(REPORTERS CALLING)
+
+2117
+01:56:41,520 --> 01:56:43,602
+- Oh!
+(ALL CLAMOURING)
+
+2118
+01:56:46,080 --> 01:56:48,242
+Great to see you! Oh, bloody hell!
+
+2119
+01:56:49,800 --> 01:56:53,521
+TONY: <i>As promised, I got Pepper
+sorted out. It took some tinkering.</i>
+
+2120
+01:56:53,600 --> 01:56:57,400
+<i>But then I thought to myself,
+"Why stop there?"</i>
+
+2121
+01:57:01,240 --> 01:57:04,562
+<i>Of course, there are people who
+say progress is dangerous,</i>
+
+2122
+01:57:04,640 --> 01:57:08,167
+<i>but I'll bet none of those idiots ever
+had to live with a chestful of shrapnel.</i>
+
+2123
+01:57:08,560 --> 01:57:11,609
+<i>And now, neither will I.</i>
+
+2124
+01:57:12,400 --> 01:57:14,289
+<i>- Let me tell you...</i>
+(METAL CLINKING)
+
+2125
+01:57:14,360 --> 01:57:16,522
+<i>...that was the best sleep
+I'd had in years.</i>
+
+2126
+01:57:32,800 --> 01:57:34,290
+(GASPING)
+
+2127
+01:57:34,920 --> 01:57:36,251
+(COUGHING)
+
+2128
+01:57:37,440 --> 01:57:39,408
+It's okay. It's okay.
+
+2129
+01:57:39,480 --> 01:57:40,527
+It's okay.
+
+2130
+01:57:40,600 --> 01:57:41,601
+(WEAKLY) No, look.
+
+2131
+01:57:45,120 --> 01:57:46,167
+(CHUCKLES SOFTLY)
+
+2132
+01:58:23,600 --> 01:58:25,284
+(LAUGHS)
+
+2133
+01:58:58,880 --> 01:59:02,930
+TONY: <i>So, if I were to wrap this up,
+tie it with a bow, or whatever...</i>
+
+2134
+01:59:03,000 --> 01:59:07,324
+<i>I guess I'd say my armour,
+it was never a distraction,</i>
+
+2135
+01:59:07,400 --> 01:59:09,482
+<i>or a hobby.</i>
+
+2136
+01:59:09,560 --> 01:59:11,562
+<i>It was a cocoon.</i>
+
+2137
+01:59:12,760 --> 01:59:14,569
+<i>And now,</i>
+
+2138
+01:59:15,520 --> 01:59:17,807
+<i>I'm a changed man.</i>
+
+2139
+01:59:26,760 --> 01:59:30,401
+<i>You can take away my house,
+all my tricks and toys.</i>
+
+2140
+01:59:31,400 --> 01:59:34,244
+<i>One thing you can't take away...</i>
+
+2141
+01:59:36,800 --> 01:59:38,609
+<i>I am Iron Man.</i>
+
+2142
+01:59:38,960 --> 01:59:41,167
+(THRILLING MUSIC PLAYING)
+
+2143
+02:02:29,400 --> 02:02:31,129
+(OMINOUS MUSIC PLAYING)
+
+2144
+02:09:04,400 --> 02:09:06,721
+TONY: <i>You know, and thank you
+by the way. For listening.</i>
+
+2145
+02:09:06,840 --> 02:09:09,286
+<i>Plus, something about just getting it off
+my chest,</i>
+
+2146
+02:09:09,360 --> 02:09:12,921
+<i>and putting it out there in the
+atmosphere, instead of holding this in...</i>
+
+2147
+02:09:13,000 --> 02:09:15,731
+<i>I mean, this is what gets people sick,
+you know.</i>
+
+2148
+02:09:15,800 --> 02:09:18,849
+<i>Wow, I had no idea
+you were such a good listener.</i>
+
+2149
+02:09:18,920 --> 02:09:21,446
+To be able to share
+all my intimate thoughts
+
+2150
+02:09:21,520 --> 02:09:22,646
+and my experiences with someone,
+
+2151
+02:09:22,720 --> 02:09:25,246
+it just cuts the weight of it in half.
+
+2152
+02:09:25,360 --> 02:09:26,725
+You know, it's like a snake
+swallowing its own tail.
+
+2153
+02:09:26,800 --> 02:09:28,609
+Everything comes full circle.
+
+2154
+02:09:28,680 --> 02:09:30,091
+(GASPS)
+- And the fact that you've been able to
+
+2155
+02:09:30,160 --> 02:09:32,049
+- help me process...
+(CLEARS THROAT)
+
+2156
+02:09:34,600 --> 02:09:36,090
+- Are you with me?
+- Sorry... I was, yeah.
+
+2157
+02:09:36,160 --> 02:09:37,241
+We were at, uh...
+
+2158
+02:09:37,440 --> 02:09:38,646
+Are you actively napping?
+
+2159
+02:09:38,760 --> 02:09:41,047
+(STAMMERING)
+I was... I... I drifted.
+
+2160
+02:09:41,520 --> 02:09:42,681
+Where did I lose you?
+
+2161
+02:09:44,680 --> 02:09:46,364
+Elevator in Switzerland.
+
+2162
+02:09:48,000 --> 02:09:49,411
+So, you heard none of it.
+
+2163
+02:09:49,760 --> 02:09:52,730
+I'm sorry. I'm not that kind of doctor.
+
+2164
+02:09:53,320 --> 02:09:54,651
+I'm not a therapist.
+
+2165
+02:09:54,800 --> 02:09:56,689
+- It's not my training.
+- So?
+
+2166
+02:09:56,800 --> 02:09:58,404
+- I don't have the...
+- What? The time?
+
+2167
+02:09:58,480 --> 02:09:59,766
+Temperament.
+
+2168
+02:10:00,040 --> 02:10:01,565
+You know what?
+Now that I think about it...
+
+2169
+02:10:01,640 --> 02:10:03,005
+Oh! God, my original wound.
+
+2170
+02:10:03,240 --> 02:10:05,447
+- 1983, all right?
+- Yes.
+
+2171
+02:10:05,520 --> 02:10:08,205
+I'm 14 years old, I still have a nanny.
+That was weird.
+
