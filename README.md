@@ -1,4 +1,4 @@
-# Data Visualization of Gallery
+# Data Visualization Gallery
 
 Collection of Cool Data Visualizations
 
