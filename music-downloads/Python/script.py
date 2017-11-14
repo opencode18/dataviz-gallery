@@ -19,4 +19,5 @@ plt.title("Digital Music Downloads of Various Music Artists", fontsize=32)
 plt.xlabel("Total Downloads in Million")
 ttl = ax.title
 ttl.set_position([.5, 1.02])
-plt.savefig("final_plot.png")
+plt.tight_layout(pad=1.5, h_pad=1.2, w_pad=1.2)
+plt.savefig("final_plot.png", dpi=300)
