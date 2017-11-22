@@ -76,3 +76,37 @@ fig.text(.5, .05, cap, ha="center", fontsize=14)
 plt.savefig("final_lot.png", dpi=300)
 
 plt.show()
+
+fig = plt.figure()
+
+ax1 = fig.add_subplot(221)
+ax1.imshow(easy, cmap="hot_r", interpolation="nearest")
+ax1.title.set_text("Easy")
+ax1.axis("off")
+
+ax2 = fig.add_subplot(222)
+ax2.imshow(medium, cmap="hot_r", interpolation="nearest")
+ax2.title.set_text("Medium")
+ax2.axis("off")
+
+ax3 = fig.add_subplot(223)
+ax3.imshow(hard, cmap="hot_r", interpolation="nearest")
+ax3.title.set_text("Hard")
+ax3.axis("off")
+
+ax4 = fig.add_subplot(224)
+ax4.imshow(evil, cmap="hot_r", interpolation="nearest")
+ax4.title.set_text("Evil")
+ax4.axis("off")
+
+ttl = "Heatmap of 250 Sudoku Puzzles by Difficulty"
+
+plt.suptitle(ttl, fontsize=16)
+
+cap = "Lighter = More likely to be empty"
+
+fig.text(.5, .05, cap, ha="center", fontsize=14)
+
+plt.savefig("final_lot_reverse.png", dpi=300)
+
+plt.show()
