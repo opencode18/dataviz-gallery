@@ -24,5 +24,7 @@ Collection of Cool Data Visualizations
   - [Trump Tweets](https://github.com/mubaris/dataviz-gallery/blob/master/word-clouds/5-trump.png)
   
   - [Complete Star Wars Movie Saga](https://github.com/mubaris/dataviz-gallery/blob/master/word-clouds/6-star-wars.png)
+  
+* [Analysis of Sudoku Puzzles]](https://github.com/mubaris/dataviz-gallery/tree/master/sudoku)
 
 ... More to come
