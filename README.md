@@ -1,6 +1,6 @@
 # Data Visualization Gallery
 
-![DataViz Gallery](dvg.svg)
+![DataViz Gallery](dvg.png)
 
 <br/>
 
