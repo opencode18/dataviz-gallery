@@ -1,5 +1,9 @@
 # Data Visualization Gallery
 
+![DataViz Gallery](dvg.svg)
+
+<br/>
+
 Collection of Cool Data Visualizations
 
 ## Gallery
