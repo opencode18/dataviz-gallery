@@ -6,7 +6,7 @@ from matplotlib import dates, ticker
 import matplotlib as mpl
 from matplotlib.finance import candlestick_ohlc
 
-mpl.style.use('default')
+mpl.style.use('ggplot')
 
 fname = 'maruti.csv'
 
