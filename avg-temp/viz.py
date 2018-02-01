@@ -56,7 +56,7 @@ for T in fourthQuarter:
 # Plotting
 fig = plt.figure(figsize=(20,10))
 ax = fig.add_subplot(111)
-im = ax.imshow(heatmap, interpolation='nearest', cmap="viridis", aspect="auto")
+im = ax.imshow(heatmap, interpolation='nearest', cmap="plasma", aspect="auto")
 ax.set_yticks(range(5))
 ax.set_yticklabels(['ANNUAL','JAN-FEB','MAR-MAY','JUN-SEP','OCT-DEC'])
 years = np.array(range(0, 112, 5))
