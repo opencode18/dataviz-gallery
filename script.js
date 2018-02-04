@@ -23,11 +23,7 @@ var viz =
                 "viz" : "hotels/hotel.png"
             },
             {
-                "name" : "Music Download",
-                "viz" : "music-downloads/Python/final_plot.png"
-            },
-            {
-                "name" : "Sudoku",
+                "name" : "Sudoku Difficulty",
                 "viz" : "sudoku/final_lot.png"
             },
             {
@@ -37,6 +33,34 @@ var viz =
             {
                 "name" : "Revenue from Star Wars movies",
                 "viz" : "treemaps/star-wars.png"
+            },
+            {
+                "name" : "Wonder Woman WordCloud",
+                "viz" : "word-clouds/1-wonder-woman.png"
+            },
+            {
+                "name" : "The Dark Knight WordCloud",
+                "viz" : "word-clouds/2-dark-knight.png"
+            },
+            {
+                "name" : "Civil War WordCloud",
+                "viz" : "word-clouds/3-civil-war.png"
+            },
+            {
+                "name" : "Sherlock WordCloud",
+                "viz" : "word-clouds/4-sherlock.png"
+            },
+            {
+                "name" : "Donald Trump WordCloud",
+                "viz" : "word-clouds/5-trump.png"
+            },
+            {
+                "name" : "Star Wars WordCloud",
+                "viz" : "word-clouds/6-star-wars.png"
+            },
+            {
+                "name" : "Music Downloads",
+                "viz" : "music-downloads/Python/final_plot.png"
             }
         ];
 
@@ -116,6 +140,19 @@ dropdownList.addEventListener("click", function()
         dropdown.classList.add("dropdown-visible");
     });
 
+window.onscroll = function() {scrollUp()};
+
+function scrollUp() 
+{
+    if (document.body.scrollTop > 260 || document.documentElement.scrollTop > 260) 
+    {
+        scrollTop.style.display = "block";
+    } 
+    else 
+    {
+        scrollTop.style.display = "none";
+    }
+}
 
 
 
