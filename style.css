@@ -1,0 +1,94 @@
+.container
+{
+    /* position: absolute;
+    top: 14vh;
+    left: 20vh; */
+}
+
+.viz
+{
+    height: 40%;
+    width: 50%;
+    margin-bottom: 20vh;
+    position: relative;
+    top: 14vh;
+    left: 20vh;
+    /* text-align: center; */
+}
+
+img
+{
+    margin: 0 auto;
+}
+
+.viz h1
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+hr
+{
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+}
+
+
+.selected
+{
+    display: none;
+}
+
+
+.top-bar
+{
+    position: fixed;
+    top: 0%;
+    left: 0%;
+    height: 10vh;
+    width: 100%;
+    background-color: rgb(46, 46, 46);
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    overflow: hidden;
+    z-index: 2;
+}
+
+.top-bar h1
+{
+    position: relative;
+    left: 6vh;
+    top: 1vh;
+}
+
+.dropdown-btn
+{
+    position: absolute;
+    right: 7vh;
+    top: 3vh;
+    cursor: pointer;
+}
+
+.dropdown
+{
+    position: fixed;
+    top: 8vh;
+    right: 0;
+    z-index: 3;
+    overflow: hidden;
+}
+
+.dropdown-visible
+{
+    display: none;
+}
+
+.dropdown li
+{
+    padding: 5vh;
+    list-style: none;
+    background-color: rgb(46, 46, 46);
+    width: 10vh;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
