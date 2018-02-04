@@ -106,6 +106,7 @@ hr
 .dropdown li:hover
 {
     background-color: rgb(71, 70, 70);
+    font-weight: 700;
 }
 
 .scroll-top

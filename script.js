@@ -105,6 +105,17 @@ scrollTop.addEventListener("click", function()
         window.scroll({ top: 0, left: 0, behavior: "smooth" }); 
     });
 
+container.addEventListener("click", function()
+    {
+        dropdown.classList.add("dropdown-visible");
+    });
+
+
+dropdownList.addEventListener("click", function()
+    {
+        dropdown.classList.add("dropdown-visible");
+    });
+
 
 
 
