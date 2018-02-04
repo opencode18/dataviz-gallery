@@ -37,10 +37,6 @@ var viz =
             {
                 "name" : "Revenue from Star Wars movies",
                 "viz" : "treemaps/star-wars.png"
-            },
-            {
-                "name" : "Revenue from Star Wars movies",
-                "viz" : "treemaps/star-wars.png"
             }
         ];
 
