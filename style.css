@@ -1,0 +1,138 @@
+html
+{
+    overflow-x: hidden;
+}
+
+body
+{
+    min-width: 500px;;
+}
+
+.container
+{
+    position: relative;
+    top: 8vh;
+}
+
+.viz
+{
+    height: 40%;
+    width: 50%;
+    margin-bottom: 20vh;
+    position: relative;
+    top: 14vh;
+    left: 20vh;
+}
+
+img
+{
+    margin: 0 auto;
+}
+
+.viz h1
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+hr
+{
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+}
+
+
+.selected
+{
+    display: none;
+}
+
+
+.top-bar
+{
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    height: 10vh;
+    width: 100%;
+    background-color: rgb(46, 46, 46);
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    z-index: 2;
+}
+
+.top-bar h1
+{
+    position: relative;
+    right: 10vh;
+    top: 1vh;
+    text-align: center;
+}
+
+.dropdown-btn
+{
+    position: absolute;
+    right: 7vh;
+    top: 3vh;
+    cursor: pointer;
+}
+
+.dropdown
+{
+    position: absolute;
+    top: 8.5vh;
+    right: 0;
+    z-index: 3;
+}
+
+.dropdown-visible
+{
+    display: none;
+}
+
+.dropdown li
+{
+    padding-top: 1vh;
+    padding-bottom: 1vh;
+    padding-left: 4vh;
+    padding-right: 4vh;
+    text-align: center;
+    list-style: none;
+    background-color: rgb(46, 46, 46);
+    width: 10vh;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    cursor: pointer;
+    border-bottom: 0.2vh solid rgb(71, 70, 70);
+}
+
+.dropdown li:hover
+{
+    background-color: rgb(71, 70, 70);
+    font-weight: 700;
+}
+
+.scroll-top
+{
+    z-index: 2;
+    padding: 1vh;
+    position: fixed;
+    overflow: hidden;
+    right: 4vh;
+    bottom: 2vh;
+    color: rgb(46, 46, 46);
+    font-weight: 700;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    cursor: pointer;
+    display: none;
+}
+
+
+.top-bar .logo
+{
+    position: relative;
+    left: 6vh;
+    display: inline-block;
+    height: 10vh;
+    float: left;
+}
