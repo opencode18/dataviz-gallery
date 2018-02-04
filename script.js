@@ -1,5 +1,3 @@
-console.log("Hello");
-var vizClass = document.querySelectorAll(".viz");
 var container = document.querySelector(".container");
 var dropdownList = document.querySelector(".dropdown-list"); 
 var dropdownBtn = document.querySelector(".dropdown-btn");
@@ -30,6 +28,14 @@ var viz =
             {
                 "name" : "Sudoku",
                 "viz" : "sudoku/final_lot.png"
+            },
+            {
+                "name" : "Net Worth of Billionaires",
+                "viz" : "treemaps/billionaires.png"
+            },
+            {
+                "name" : "Revenue from Star Wars movies",
+                "viz" : "treemaps/star-wars.png"
             }
         ];
 
@@ -50,8 +56,6 @@ for(var i = 0; i < viz.length; i++)
     h1.appendChild(t);
     li1.appendChild(t2);
     dropdownList.appendChild(li1);
-    // vizClass[i].appendChild(h1);
-    // vizClass[i].appendChild(image);
     div1.appendChild(h1);
     div1.appendChild(image);
     div2.appendChild(hr);
@@ -59,21 +63,26 @@ for(var i = 0; i < viz.length; i++)
     container.appendChild(div2);
 }
 
+var vizClass = document.querySelectorAll(".viz");
+for(var i = 0; i < viz.length; i++)
+{
+    vizClass[i].addEventListener("click", function()
+        {
+            console.log("Hello");
+            dropdown.classList.add("dropdown-visible");
+        });
+}
+
 var dropdownLi = document.querySelectorAll(".dropdown-list li");
 var divs = document.querySelectorAll(".container div.viz");
 
 dropdownBtn.addEventListener("click", function()
     {
-        console.log("Hello");
         dropdown.classList.toggle("dropdown-visible");
     });
-var top = [];
 
-for(var j = 0; j < dropdownLi.length; j++)
-{
-    top[j] = divs[j].offsetTop;
-    console.log(divs[j].offsetTop);
-}
+
+
 
 for(var j = 0; j < dropdownLi.length; j++)
 {
@@ -84,10 +93,10 @@ for(var j = 0; j < dropdownLi.length; j++)
         {
             if(this == dropdownLi[k])
             {
-                console.log(divs[k].offsetTop);
-                window.scroll({ top: divs[k].offsetTop - 150, left: 0, behavior: "smooth" }); 
+                window.scroll({ top: divs[k].offsetTop - 50, left: 0, behavior: "smooth" }); 
             }
         }
+        dropdown.classList.add("dropdown-visible");
     });
 }
 

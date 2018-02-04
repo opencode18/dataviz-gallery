@@ -42,7 +42,7 @@ hr
 
 .top-bar
 {
-    position: fixed;
+    position: absolute;
     top: 0%;
     left: 0%;
     height: 10vh;
@@ -50,7 +50,7 @@ hr
     background-color: rgb(46, 46, 46);
     color: white;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    overflow: hidden;
+    /* overflow: hidden; */
     z-index: 2;
 }
 
@@ -71,11 +71,11 @@ hr
 
 .dropdown
 {
-    position: fixed;
-    top: 8vh;
+    position: absolute;
+    top: 8.5vh;
     right: 0;
     z-index: 3;
-    overflow: hidden;
+    /* overflow: hidden; */
 }
 
 .dropdown-visible
@@ -91,4 +91,11 @@ hr
     width: 10vh;
     color: white;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    cursor: pointer;
+    border-bottom: 0.2vh solid white;
+}
+
+.dropdown li:hover
+{
+    background-color: rgb(71, 70, 70);
 }
