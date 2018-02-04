@@ -2,6 +2,7 @@ var container = document.querySelector(".container");
 var dropdownList = document.querySelector(".dropdown-list"); 
 var dropdownBtn = document.querySelector(".dropdown-btn");
 var dropdown = document.querySelector(".dropdown");
+var scrollTop = document.querySelector(".scroll-top");
 
 var viz = 
         [
@@ -32,6 +33,10 @@ var viz =
             {
                 "name" : "Net Worth of Billionaires",
                 "viz" : "treemaps/billionaires.png"
+            },
+            {
+                "name" : "Revenue from Star Wars movies",
+                "viz" : "treemaps/star-wars.png"
             },
             {
                 "name" : "Revenue from Star Wars movies",
@@ -68,7 +73,6 @@ for(var i = 0; i < viz.length; i++)
 {
     vizClass[i].addEventListener("click", function()
         {
-            console.log("Hello");
             dropdown.classList.add("dropdown-visible");
         });
 }
@@ -86,7 +90,6 @@ dropdownBtn.addEventListener("click", function()
 
 for(var j = 0; j < dropdownLi.length; j++)
 {
-    // top1 = divs[j].offsetTop;
     dropdownLi[j].addEventListener("click", function()
     {
         for(var k = 0; k < dropdownLi.length; k++)
@@ -100,6 +103,11 @@ for(var j = 0; j < dropdownLi.length; j++)
     });
 }
 
+
+scrollTop.addEventListener("click", function()
+    {
+        window.scroll({ top: 0, left: 0, behavior: "smooth" }); 
+    });
 
 
 

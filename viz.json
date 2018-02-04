@@ -1,5 +1,5 @@
 viz = 
-    '[
+    [
         {
             "name" : "Avereage Temperature",
             "viz" : "avg-temp/avg-temp.png"
@@ -8,4 +8,4 @@ viz =
             "name" : "Equity Graph",
             "viz" : "Equity-graphs/graph.jpg"
         }
-    ]';
+    ];

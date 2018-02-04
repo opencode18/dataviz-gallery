@@ -1,10 +1,7 @@
-.container
+html
 {
-    /* position: absolute;
-    top: 14vh;
-    left: 20vh; */
+    overflow-x: hidden;
 }
-
 .viz
 {
     height: 40%;
@@ -13,7 +10,6 @@
     position: relative;
     top: 14vh;
     left: 20vh;
-    /* text-align: center; */
 }
 
 img
@@ -50,15 +46,16 @@ hr
     background-color: rgb(46, 46, 46);
     color: white;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    /* overflow: hidden; */
     z-index: 2;
 }
 
 .top-bar h1
 {
     position: relative;
-    left: 6vh;
+    left: 70vh;
     top: 1vh;
+    display: inline-block;
+    float: left;
 }
 
 .dropdown-btn
@@ -75,7 +72,6 @@ hr
     top: 8.5vh;
     right: 0;
     z-index: 3;
-    /* overflow: hidden; */
 }
 
 .dropdown-visible
@@ -85,7 +81,8 @@ hr
 
 .dropdown li
 {
-    padding: 5vh;
+    padding: 4vh;
+    text-align: center;
     list-style: none;
     background-color: rgb(46, 46, 46);
     width: 10vh;
@@ -98,4 +95,32 @@ hr
 .dropdown li:hover
 {
     background-color: rgb(71, 70, 70);
+}
+
+.scroll-top
+{
+    padding: 3vh;
+    background-color: rgb(46, 46, 46);
+    position: fixed;
+    overflow: hidden;
+    right: 2vh;
+    bottom: 2vh;
+    color: white;
+    font-weight: 700;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    cursor: pointer;
+}
+
+.scroll-top:hover
+{
+    background-color: rgb(71, 70, 70);
+}
+
+.top-bar .logo
+{
+    position: relative;
+    left: 6vh;
+    display: inline-block;
+    height: 10vh;
+    float: left;
 }
