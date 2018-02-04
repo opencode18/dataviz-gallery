@@ -96,7 +96,7 @@ for(var j = 0; j < dropdownLi.length; j++)
         {
             if(this == dropdownLi[k])
             {
-                window.scroll({ top: divs[k].offsetTop - 50, left: 0, behavior: "smooth" }); 
+                window.scroll({ top: divs[k].offsetTop, left: 0, behavior: "smooth" }); 
             }
         }
         dropdown.classList.add("dropdown-visible");

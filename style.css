@@ -2,6 +2,18 @@ html
 {
     overflow-x: hidden;
 }
+
+body
+{
+    min-width: 500px;;
+}
+
+.container
+{
+    position: relative;
+    top: 8vh;
+}
+
 .viz
 {
     height: 40%;
@@ -52,10 +64,9 @@ hr
 .top-bar h1
 {
     position: relative;
-    left: 70vh;
+    right: 10vh;
     top: 1vh;
-    display: inline-block;
-    float: left;
+    text-align: center;
 }
 
 .dropdown-btn
@@ -99,11 +110,12 @@ hr
 
 .scroll-top
 {
+    z-index: 2;
     padding: 3vh;
     background-color: rgb(46, 46, 46);
     position: fixed;
     overflow: hidden;
-    right: 2vh;
+    right: 1vh;
     bottom: 2vh;
     color: white;
     font-weight: 700;
