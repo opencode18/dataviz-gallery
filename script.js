@@ -11,6 +11,10 @@ var viz =
                 "viz" : "avg-temp/avg-temp.png"
             },
             {
+                "name" : "Crime Rate in India",
+                "viz" : "crime-rate/crime-rate.png"
+            },
+            {
                 "name" : "Equity Graph",
                 "viz" : "Equity-graphs/graph.jpg"
             },
