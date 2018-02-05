@@ -1,25 +1,17 @@
-
 import matplotlib.pyplot as plt  
-import csv
+import pandas as pd
+from pandas import DataFrame
 import numpy as np
 
+
 plt.style.use('ggplot')
-states = []
-crime_2016 = []
 
-
-x = 0
-with open('crime.csv','r') as csvfile:
-    plots = csv.reader(csvfile, delimiter=',')
-    for row in plots:
-        if row[0] != "S. No. (Col.1)":
-            states.append(row[2])
-            crime_2016.append(float(row[6]))
-            
-                    
+df = pd.read_csv('crime.csv')  
 
 fig = plt.figure()
-plt.bar(states, crime_2016, color='#004177')
+
+
+plt.bar(df['State/UT (Col.3)'], df['Percentage Share of State/UT (2016) (Col.7)'], color='#004177')
 plt.setp(plt.gca().get_xticklabels(), rotation = 30, horizontalalignment='right')
 plt.tight_layout()
 plt.xlabel('States')
