@@ -1,10 +1,10 @@
 var container = document.querySelector(".container");
-var dropdownList = document.querySelector(".dropdown-list"); 
+var dropdownList = document.querySelector(".dropdown-list");
 var dropdownBtn = document.querySelector(".dropdown-btn");
 var dropdown = document.querySelector(".dropdown");
 var scrollTop = document.querySelector(".scroll-top");
 
-var viz = 
+var viz =
         [
             {
                 "name" : "Average Temperature",
@@ -65,6 +65,10 @@ var viz =
             {
                 "name" : "Music Downloads",
                 "viz" : "music-downloads/Python/final_plot.png"
+            },
+            {
+                "name" : "Faculty Training Budget in IITs",
+                "viz" : "IIT_Faculty_training_Budget/data.png"
             }
         ];
 
@@ -120,7 +124,7 @@ for(var j = 0; j < dropdownLi.length; j++)
         {
             if(this == dropdownLi[k])
             {
-                window.scroll({ top: divs[k].offsetTop, left: 0, behavior: "smooth" }); 
+                window.scroll({ top: divs[k].offsetTop, left: 0, behavior: "smooth" });
             }
         }
         dropdown.classList.add("dropdown-visible");
@@ -130,7 +134,7 @@ for(var j = 0; j < dropdownLi.length; j++)
 
 scrollTop.addEventListener("click", function()
     {
-        window.scroll({ top: 0, left: 0, behavior: "smooth" }); 
+        window.scroll({ top: 0, left: 0, behavior: "smooth" });
     });
 
 container.addEventListener("click", function()
@@ -146,17 +150,14 @@ dropdownList.addEventListener("click", function()
 
 window.onscroll = function() {scrollUp()};
 
-function scrollUp() 
+function scrollUp()
 {
-    if (document.body.scrollTop > 260 || document.documentElement.scrollTop > 260) 
+    if (document.body.scrollTop > 260 || document.documentElement.scrollTop > 260)
     {
         scrollTop.style.display = "block";
-    } 
-    else 
+    }
+    else
     {
         scrollTop.style.display = "none";
     }
 }
-
-
-
