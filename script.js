@@ -69,6 +69,10 @@ var viz =
             {
                 "name" : "Faculty Training Budget in IITs",
                 "viz" : "IIT_Faculty_training_Budget/data.png"
+            },
+            {
+                "name" : "OpenCode18",
+                "viz" : "opencode/plot.png"
             }
         ];
 
