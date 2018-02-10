@@ -2,7 +2,7 @@ import requests, json,pprint
 import matplotlib.pyplot as plt
 import numpy as np
 
-token = 'c165507103883200aea2b06f1adba2adb84f27a1'
+#added token = 'your token'
 
 codestash = requests.get('https://api.github.com/repos/opencode18/codestash/languages?access_token=' + token)
 codestash = json.loads(codestash.content)

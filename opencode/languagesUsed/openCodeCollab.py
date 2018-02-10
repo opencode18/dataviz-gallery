@@ -2,7 +2,7 @@ import requests, json,pprint
 import matplotlib.pyplot as plt
 import numpy as np
 
-token = 'c165507103883200aea2b06f1adba2adb84f27a1'
+#added token = 'your token'
 
 opencodecollab = requests.get('https://api.github.com/repos/opencode18/OpenCode-Collaborative/languages?access_token=' + token)
 
@@ -17,5 +17,5 @@ fig1, ax1 = plt.subplots()
 ax1.set_title('Languages Used in OpenCode-Collaborative')
 ax1.pie(sizes, explode=explode, labels=labels, autopct='%1.1f%%',
         shadow=True, startangle=90)
-ax1.axis('equal')  
+ax1.axis('equal')
 plt.show()

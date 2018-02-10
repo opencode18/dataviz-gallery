@@ -1,7 +1,7 @@
 import requests, json
 import matplotlib.pyplot as plt
 
-token = 'c165507103883200aea2b06f1adba2adb84f27a1'
+#added token = 'your token'
 
 doc = requests.get('https://api.github.com/repos/opencode18/OpenCode-Collaborative/stats/contributors?access_token=' + token)
 docDict = json.loads(doc.content)
